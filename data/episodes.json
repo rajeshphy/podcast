@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:20:20.415430+05:30",
+  "generated_at": "2026-07-01T08:22:01.314135+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_days": 365,
@@ -472,6 +472,6 @@
       "weight": 0.95
     }
   ],
-  "error": "All India Radio Akashvani News analysis interview: RuntimeError: ERROR: [youtube] MAh3Irgnoac: The page needs to be reloaded.\nERROR: [youtube] fuXjA0gVZow: The page needs to be reloaded.\nERROR: [youtube] pjNz6cwyvhU: The page needs to be reloaded.\nERROR: [youtube] XxPfknoHJOg: The page needs to be reloaded.\nERROR: [youtube] g12a67k6AJc: The page needs to be reloaded.\nERROR: [youtube] CQvc9aaY6Kc: The page needs to be reloaded.\nERROR: [youtube] IU0K-Pg-EmI: The page needs to be reloaded.\nERROR: [youtube] gMrLFMc4W98: The page needs to be reloaded.",
-  "stale": false
+  "error": "Refresh failed; kept previous episodes. All India Radio Akashvani News analysis interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); All India Radio Spotlight discussion India economy health policy: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India health podcast doctor preventive health nutrition mental health: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India finance podcast personal finance investing mutual funds economy: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India market outlook podcast investing economy expert interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India policy podcast economy public affairs expert discussion: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India science podcast health technology research interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India podcast books ideas society economics interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib)",
+  "stale": true
 }
