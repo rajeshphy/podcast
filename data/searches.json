@@ -1,12 +1,14 @@
 {
   "portal": {
     "title": "Podcast Radar",
-    "subtitle": "All India Radio, health, finance, markets, policy and useful long-form listening",
+    "subtitle": "Latest All India Radio, health, finance, markets, policy and useful long-form listening",
     "timezone": "Asia/Kolkata",
     "locale": "en-IN",
     "default_category": "all",
     "max_episodes": 72,
-    "max_results_per_query": 10
+    "max_results_per_query": 8,
+    "search_sort": "date",
+    "recent_days": 365
   },
   "searches": [
     {
@@ -130,4 +132,3 @@
     "raj shamani"
   ]
 }
-

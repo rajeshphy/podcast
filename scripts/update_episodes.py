@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 import os
 import re
@@ -44,28 +44,56 @@ def clock(seconds: object) -> str:
     return f"{minutes}:{secs:02d}"
 
 
-def run_search(query: str, max_results: int, timeout: int) -> list[dict]:
-    target = f"ytsearch{max_results}:{query}"
+def parse_upload_date(value: object):
+    text = clean_text(value)
+    if not re.fullmatch(r"\d{8}", text):
+        return None
+    try:
+        return datetime.strptime(text, "%Y%m%d").date()
+    except ValueError:
+        return None
+
+
+def run_search(query: str, max_results: int, timeout: int, sort_mode: str) -> list[dict]:
+    prefix = "ytsearchdate" if sort_mode == "date" else "ytsearch"
+    target = f"{prefix}{max_results}:{query}"
+    fields = "%(id)s\t%(title)s\t%(channel)s\t%(duration)s\t%(upload_date)s\t%(webpage_url)s"
     command = [
         "yt-dlp",
-        "--dump-single-json",
-        "--flat-playlist",
+        "--skip-download",
         "--ignore-errors",
         "--no-warnings",
         "--quiet",
+        "--playlist-end", str(max_results),
+        "--print", fields,
         target,
     ]
     completed = subprocess.run(
         command,
         cwd=ROOT,
-        check=True,
+        check=False,
         capture_output=True,
         text=True,
         timeout=timeout,
     )
-    payload = json.loads(completed.stdout or "{}")
-    entries = payload.get("entries") or []
-    return [entry for entry in entries if isinstance(entry, dict)]
+    entries = []
+    for line in completed.stdout.splitlines():
+        parts = line.split("\t", 5)
+        if len(parts) != 6:
+            continue
+        video_id, title, channel, duration, upload_date, webpage_url = parts
+        entries.append({
+            "id": clean_text(video_id),
+            "title": clean_text(title),
+            "channel": clean_text(channel),
+            "duration": None if duration == "NA" else duration,
+            "upload_date": "" if upload_date == "NA" else clean_text(upload_date),
+            "webpage_url": clean_text(webpage_url),
+        })
+
+    if not entries and completed.returncode:
+        raise RuntimeError((completed.stderr or "yt-dlp returned no entries").strip())
+    return entries
 
 
 def term_score(text: str, terms: list[str], value: float) -> float:
@@ -115,15 +143,11 @@ def score_entry(entry: dict, search: dict, config: dict, rank: int) -> float:
     category = str(search.get("id", ""))
 
     score = float(search.get("weight", 1.0)) * 8.0
-    score += max(0, 12 - rank) * 0.35
+    score += max(0, 20 - rank) * 0.8
     score += term_score(text, config.get("positive_terms", []), 1.05)
     score += term_score(text, config.get("negative_terms", []), -4.5)
     score += duration_score(entry.get("duration"), category)
     score += trusted_score(channel, config.get("trusted_channels", []))
-
-    view_count = entry.get("view_count")
-    if isinstance(view_count, (int, float)) and view_count > 0:
-        score += min(2.0, view_count / 500_000)
 
     return round(score, 3)
 
@@ -137,10 +161,14 @@ def video_id_from(entry: dict) -> str:
     return match.group(1) if match else ""
 
 
-def episode_from_entry(entry: dict, search: dict, config: dict, rank: int) -> dict | None:
+def episode_from_entry(entry: dict, search: dict, config: dict, rank: int, cutoff_date) -> dict | None:
     video_id = video_id_from(entry)
     title = clean_text(entry.get("title"))
     if not video_id or not title:
+        return None
+
+    upload_date = parse_upload_date(entry.get("upload_date"))
+    if not upload_date or upload_date < cutoff_date:
         return None
 
     channel = clean_text(entry.get("channel") or entry.get("uploader"))
@@ -157,7 +185,9 @@ def episode_from_entry(entry: dict, search: dict, config: dict, rank: int) -> di
         "thumbnail": YOUTUBE_THUMB.format(video_id=video_id),
         "duration": entry.get("duration"),
         "duration_text": clock(entry.get("duration")),
-        "published": clean_text(entry.get("upload_date") or entry.get("timestamp")),
+        "published": clean_text(entry.get("upload_date")),
+        "published_iso": upload_date.isoformat(),
+        "latest_rank": rank,
         "category": search.get("id"),
         "category_label": search.get("label"),
         "query": search.get("query"),
@@ -186,6 +216,9 @@ def main() -> int:
     max_results = int(os.environ.get("PODCAST_MAX_RESULTS_PER_QUERY") or portal.get("max_results_per_query") or 10)
     max_episodes = int(os.environ.get("PODCAST_MAX_EPISODES") or portal.get("max_episodes") or 72)
     timeout = int(os.environ.get("PODCAST_SEARCH_TIMEOUT") or 90)
+    sort_mode = str(os.environ.get("PODCAST_SEARCH_SORT") or portal.get("search_sort") or "date").lower()
+    recent_days = int(os.environ.get("PODCAST_RECENT_DAYS") or portal.get("recent_days") or 365)
+    cutoff_date = datetime.now(ZoneInfo(timezone)).date() - timedelta(days=recent_days)
     previous = load_json(OUTPUT_PATH, {})
 
     episodes_by_id: dict[str, dict] = {}
@@ -196,13 +229,13 @@ def main() -> int:
         if not query:
             continue
         try:
-            entries = run_search(query, max_results, timeout)
+            entries = run_search(query, max_results, timeout, sort_mode)
         except Exception as exc:
             errors.append(f"{query}: {type(exc).__name__}: {exc}")
             continue
 
         for rank, entry in enumerate(entries, start=1):
-            episode = episode_from_entry(entry, search, config, rank)
+            episode = episode_from_entry(entry, search, config, rank, cutoff_date)
             if not episode:
                 continue
             existing = episodes_by_id.get(episode["id"])
@@ -213,9 +246,13 @@ def main() -> int:
                 "queries": [episode["query"]],
             }
 
-    episodes = sorted(episodes_by_id.values(), key=lambda item: item.get("score", 0), reverse=True)[:max_episodes]
+    episodes = sorted(
+        episodes_by_id.values(),
+        key=lambda item: (item.get("published", ""), item.get("score", 0)),
+        reverse=True,
+    )[:max_episodes]
 
-    if not episodes and previous.get("episodes"):
+    if not episodes and errors and previous.get("episodes"):
         output = dict(previous)
         output["generated_at"] = datetime.now(ZoneInfo(timezone)).isoformat()
         output["stale"] = True
@@ -223,6 +260,10 @@ def main() -> int:
     else:
         output = {
             "generated_at": datetime.now(ZoneInfo(timezone)).isoformat(),
+            "mode": "latest",
+            "search_sort": sort_mode,
+            "recent_days": recent_days,
+            "cutoff_date": cutoff_date.isoformat(),
             "episodes": episodes,
             "searches": config.get("searches", []),
             "error": "; ".join(errors) if errors else None,
@@ -240,4 +281,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
