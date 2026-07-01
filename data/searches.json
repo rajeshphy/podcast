@@ -1,0 +1,133 @@
+{
+  "portal": {
+    "title": "Podcast Radar",
+    "subtitle": "All India Radio, health, finance, markets, policy and useful long-form listening",
+    "timezone": "Asia/Kolkata",
+    "locale": "en-IN",
+    "default_category": "all",
+    "max_episodes": 72,
+    "max_results_per_query": 10
+  },
+  "searches": [
+    {
+      "id": "air",
+      "label": "AIR",
+      "query": "All India Radio Akashvani News analysis interview",
+      "weight": 1.35
+    },
+    {
+      "id": "air_spotlight",
+      "label": "Spotlight",
+      "query": "All India Radio Spotlight discussion India economy health policy",
+      "weight": 1.3
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "query": "India health podcast doctor preventive health nutrition mental health",
+      "weight": 1.25
+    },
+    {
+      "id": "finance",
+      "label": "Finance",
+      "query": "India finance podcast personal finance investing mutual funds economy",
+      "weight": 1.3
+    },
+    {
+      "id": "markets",
+      "label": "Markets",
+      "query": "India market outlook podcast investing economy expert interview",
+      "weight": 1.15
+    },
+    {
+      "id": "policy",
+      "label": "Policy",
+      "query": "India policy podcast economy public affairs expert discussion",
+      "weight": 1.1
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "query": "India science podcast health technology research interview",
+      "weight": 1.0
+    },
+    {
+      "id": "books",
+      "label": "Ideas",
+      "query": "India podcast books ideas society economics interview",
+      "weight": 0.95
+    }
+  ],
+  "positive_terms": [
+    "all india radio",
+    "akashvani",
+    "air news",
+    "spotlight",
+    "podcast",
+    "interview",
+    "discussion",
+    "explained",
+    "analysis",
+    "expert",
+    "doctor",
+    "health",
+    "mental health",
+    "nutrition",
+    "preventive",
+    "finance",
+    "personal finance",
+    "investing",
+    "mutual fund",
+    "markets",
+    "economy",
+    "rbi",
+    "policy",
+    "public affairs",
+    "research",
+    "long form",
+    "conversation"
+  ],
+  "negative_terms": [
+    "shorts",
+    "#shorts",
+    "reel",
+    "status",
+    "song",
+    "music",
+    "movie",
+    "trailer",
+    "comedy",
+    "astrology",
+    "horoscope",
+    "miracle cure",
+    "guaranteed",
+    "tips and tricks",
+    "intraday",
+    "option buying",
+    "jackpot",
+    "multibagger tomorrow",
+    "crypto pump",
+    "live trading",
+    "breaking news live",
+    "live stream",
+    "10 hours"
+  ],
+  "trusted_channels": [
+    "newsonairofficial",
+    "akashvani air",
+    "all india radio news",
+    "rbi",
+    "reserve bank of india",
+    "mint",
+    "moneycontrol",
+    "business standard",
+    "the hindu",
+    "indian express",
+    "the ken",
+    "seen and the unseen",
+    "ivar",
+    "lallantop",
+    "raj shamani"
+  ]
+}
+
