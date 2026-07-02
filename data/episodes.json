@@ -1,364 +1,31 @@
 {
-  "generated_at": "2026-07-02T02:31:06.926442+05:30",
+  "generated_at": "2026-07-02T23:14:53.485907+05:30",
   "mode": "latest",
   "search_sort": "date",
-  "recent_days": 365,
-  "cutoff_date": "2025-07-01",
+  "recent_hours": 24,
+  "youtube_search_enabled": false,
+  "cutoff_time": "2026-07-01T23:14:53.485907+05:30",
   "episodes": [
     {
-      "id": "H8YAPaCB3TY",
-      "title": "Ambani, Adani, Bitcoin, Money Mindset, SIP, Stock Market Truth🔥| Deepak Wadhwa simplifies Finance",
-      "channel": "NA",
-      "url": "https://www.youtube.com/watch?v=H8YAPaCB3TY",
-      "embed_url": "https://www.youtube.com/embed/H8YAPaCB3TY",
-      "thumbnail": "https://i.ytimg.com/vi/H8YAPaCB3TY/hqdefault.jpg",
-      "duration": "7697",
-      "duration_text": "2:08:17",
-      "published": "20260630",
-      "published_iso": "2026-06-30",
-      "latest_rank": 8,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
-      "score": 21.65,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "India finance podcast personal finance investing mutual funds economy"
-      ]
-    },
-    {
-      "id": "dn905pSv7C0",
-      "title": "Do you need alternative investments in your mutual fund portfolio?",
-      "channel": "Mutual Funds with Groww",
-      "url": "https://www.youtube.com/watch?v=dn905pSv7C0",
-      "embed_url": "https://www.youtube.com/embed/dn905pSv7C0",
-      "thumbnail": "https://i.ytimg.com/vi/dn905pSv7C0/hqdefault.jpg",
-      "duration": "2769",
-      "duration_text": "46:09",
-      "published": "20260627",
-      "published_iso": "2026-06-27",
-      "latest_rank": 4,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
-      "score": 26.45,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "India finance podcast personal finance investing mutual funds economy"
-      ]
-    },
-    {
-      "id": "rLyAQtAogHE",
-      "title": "The Wellness Podcast || Ep 3 || Neuroscience & Integrative Wellness || Dr.Bhavit Bansal",
-      "channel": "Iyka-Aram Wellness",
-      "url": "https://www.youtube.com/watch?v=rLyAQtAogHE",
-      "embed_url": "https://www.youtube.com/embed/rLyAQtAogHE",
-      "thumbnail": "https://i.ytimg.com/vi/rLyAQtAogHE/hqdefault.jpg",
-      "duration": "4966",
-      "duration_text": "1:22:46",
-      "published": "20260626",
-      "published_iso": "2026-06-26",
-      "latest_rank": 5,
-      "category": "health",
-      "category_label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "score": 25.25,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "India health podcast doctor preventive health nutrition mental health"
-      ]
-    },
-    {
-      "id": "Vppmn5Y3g5g",
-      "title": "What Japan Knows About Health That India Doesn't | GunjanShouts with Masaharu Morita",
-      "channel": "GunjanShouts",
-      "url": "https://www.youtube.com/watch?v=Vppmn5Y3g5g",
-      "embed_url": "https://www.youtube.com/embed/Vppmn5Y3g5g",
-      "thumbnail": "https://i.ytimg.com/vi/Vppmn5Y3g5g/hqdefault.jpg",
-      "duration": "2901",
-      "duration_text": "48:21",
-      "published": "20260620",
-      "published_iso": "2026-06-20",
-      "latest_rank": 3,
-      "category": "health",
-      "category_label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "score": 26.85,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "India health podcast doctor preventive health nutrition mental health"
-      ]
-    },
-    {
-      "id": "a3zujcZtLPs",
-      "title": "An $800M Investor on Market Bubbles, India’s Future & F.I.R.E. | ft. Ashish Dhawan",
-      "channel": "Thrive by Groww",
-      "url": "https://www.youtube.com/watch?v=a3zujcZtLPs",
-      "embed_url": "https://www.youtube.com/embed/a3zujcZtLPs",
-      "thumbnail": "https://i.ytimg.com/vi/a3zujcZtLPs/hqdefault.jpg",
-      "duration": "3748",
-      "duration_text": "1:02:28",
-      "published": "20260620",
-      "published_iso": "2026-06-20",
-      "latest_rank": 3,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
-      "score": 26.2,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "India finance podcast personal finance investing mutual funds economy"
-      ]
-    },
-    {
-      "id": "CJmxHtZEsKA",
-      "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
-      "channel": "Moneytalks by Groww",
-      "url": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
-      "embed_url": "https://www.youtube.com/embed/CJmxHtZEsKA",
-      "thumbnail": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg",
-      "duration": "4069",
-      "duration_text": "1:07:49",
-      "published": "20260613",
-      "published_iso": "2026-06-13",
-      "latest_rank": 5,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
-      "score": 24.6,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "India finance podcast personal finance investing mutual funds economy"
-      ]
-    },
-    {
-      "id": "rnzbM2_81_w",
-      "title": "🎙️ Now Live: Exploring the Evolution of India’s Genetic Industry",
-      "channel": "TechSci Research",
-      "url": "https://www.youtube.com/watch?v=rnzbM2_81_w",
-      "embed_url": "https://www.youtube.com/embed/rnzbM2_81_w",
-      "thumbnail": "https://i.ytimg.com/vi/rnzbM2_81_w/hqdefault.jpg",
-      "duration": "3384",
-      "duration_text": "56:24",
-      "published": "20260612",
-      "published_iso": "2026-06-12",
-      "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "India science podcast health technology research interview",
-      "score": 26.45,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "India science podcast health technology research interview"
-      ]
-    },
-    {
-      "id": "0p5iHRCXi94",
-      "title": "Don't Invest in Indian Stocks Until You Watch This 2026 Microcap Strategy! Pawan Bharaddia Explains",
-      "channel": "Sonia Shenoy",
-      "url": "https://www.youtube.com/watch?v=0p5iHRCXi94",
-      "embed_url": "https://www.youtube.com/embed/0p5iHRCXi94",
-      "thumbnail": "https://i.ytimg.com/vi/0p5iHRCXi94/hqdefault.jpg",
-      "duration": "3100",
-      "duration_text": "51:40",
-      "published": "20260603",
-      "published_iso": "2026-06-03",
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India market outlook podcast investing economy expert interview",
-      "score": 26.6,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India market outlook podcast investing economy expert interview"
-      ]
-    },
-    {
-      "id": "gxWhzOsXzzM",
-      "title": "Trump, China & Pakistan: India's Foreign Policy Reality Check | Indrani Bagchi & C Raja Mohan |EP419",
+      "id": "_6O3rwqIn1I",
+      "title": "Ministry of Ayush’s Rajesh Kotecha outlines roadmap to transform Ayurveda into global force",
       "channel": "ANI News",
-      "url": "https://www.youtube.com/watch?v=gxWhzOsXzzM",
-      "embed_url": "https://www.youtube.com/embed/gxWhzOsXzzM",
-      "thumbnail": "https://i.ytimg.com/vi/gxWhzOsXzzM/hqdefault.jpg",
-      "duration": "6057",
-      "duration_text": "1:40:57",
-      "published": "20260529",
-      "published_iso": "2026-05-29",
-      "latest_rank": 3,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "India policy podcast economy public affairs expert discussion",
-      "score": 24.05,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "India policy podcast economy public affairs expert discussion"
-      ]
-    },
-    {
-      "id": "NuBo8fvnYw0",
-      "title": "India’s Real Crisis, Gold, Middle Class & Falling Rupee| Economic Analyst| Jayant |FO510 Raj Shamani",
-      "channel": "NA",
-      "url": "https://www.youtube.com/watch?v=NuBo8fvnYw0",
-      "embed_url": "https://www.youtube.com/embed/NuBo8fvnYw0",
-      "thumbnail": "https://i.ytimg.com/vi/NuBo8fvnYw0/hqdefault.jpg",
-      "duration": "7294",
-      "duration_text": "2:01:34",
-      "published": "20260516",
-      "published_iso": "2026-05-16",
-      "latest_rank": 2,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "India policy podcast economy public affairs expert discussion",
-      "score": 23.8,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "India policy podcast economy public affairs expert discussion"
-      ]
-    },
-    {
-      "id": "59k1ccr6QB0",
-      "title": "Ep 4: Men’s Wellness Series| Stress, Lifestyle & Men’s Health | @himalayawellness3925 #podcast",
-      "channel": "SastaSundar, Health & Happiness",
-      "url": "https://www.youtube.com/watch?v=59k1ccr6QB0",
-      "embed_url": "https://www.youtube.com/embed/59k1ccr6QB0",
-      "thumbnail": "https://i.ytimg.com/vi/59k1ccr6QB0/hqdefault.jpg",
-      "duration": "1442",
-      "duration_text": "24:02",
-      "published": "20260330",
-      "published_iso": "2026-03-30",
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "score": 29.5,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "India health podcast doctor preventive health nutrition mental health"
-      ]
-    },
-    {
-      "id": "X7UWItILyS4",
-      "title": "Your Heart is at RISK (Even If You Feel Healthy) | By GunjanShouts",
-      "channel": "NA",
-      "url": "https://www.youtube.com/watch?v=X7UWItILyS4",
-      "embed_url": "https://www.youtube.com/embed/X7UWItILyS4",
-      "thumbnail": "https://i.ytimg.com/vi/X7UWItILyS4/hqdefault.jpg",
-      "duration": "5455",
-      "duration_text": "1:30:55",
-      "published": "20260322",
-      "published_iso": "2026-03-22",
-      "latest_rank": 2,
-      "category": "health",
-      "category_label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "score": 26.05,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "India health podcast doctor preventive health nutrition mental health"
-      ]
-    },
-    {
-      "id": "w60sljjJSt0",
-      "title": "₹10 Crore Corpus Decoded: Mutual Funds, SIPs & Long-Term Wealth Reality",
-      "channel": "Thrive by Groww",
-      "url": "https://www.youtube.com/watch?v=w60sljjJSt0",
-      "embed_url": "https://www.youtube.com/embed/w60sljjJSt0",
-      "thumbnail": "https://i.ytimg.com/vi/w60sljjJSt0/hqdefault.jpg",
-      "duration": "1833",
-      "duration_text": "30:33",
-      "published": "20260321",
-      "published_iso": "2026-03-21",
-      "latest_rank": 2,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
-      "score": 28.05,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "India finance podcast personal finance investing mutual funds economy"
-      ]
-    },
-    {
-      "id": "u0TV6h2v2qE",
-      "title": "Sanjeev Sanyal Unfiltered: UPSC, Pollution, Infra, Monopolies & India’s Economy | EP-375",
-      "channel": "ANI News",
-      "url": "https://www.youtube.com/watch?v=u0TV6h2v2qE",
-      "embed_url": "https://www.youtube.com/embed/u0TV6h2v2qE",
-      "thumbnail": "https://i.ytimg.com/vi/u0TV6h2v2qE/hqdefault.jpg",
-      "duration": "5790",
-      "duration_text": "1:36:30",
-      "published": "20251227",
-      "published_iso": "2025-12-27",
+      "url": "https://www.youtube.com/watch?v=_6O3rwqIn1I",
+      "embed_url": "https://www.youtube.com/embed/_6O3rwqIn1I",
+      "thumbnail": "https://i.ytimg.com/vi/_6O3rwqIn1I/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T22:58:26+05:30",
+      "published_ts": 1783013306,
       "latest_rank": 6,
       "category": "policy",
       "category_label": "Policy",
-      "query": "India policy podcast economy public affairs expert discussion",
-      "score": 21.65,
+      "query": "ANI",
+      "score": 22.2,
+      "method": "rss",
+      "feed_id": "ani_news",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
       "categories": [
         "policy"
       ],
@@ -366,51 +33,449 @@
         "Policy"
       ],
       "queries": [
-        "India policy podcast economy public affairs expert discussion"
+        "ANI"
       ]
     },
     {
-      "id": "vMSZV1RgV1E",
-      "title": "Kidney Detox & Urine Colour Guide | Stones, Prostate Solution with Dr. Priyadarshi & GunjanShouts",
-      "channel": "GunjanShouts",
-      "url": "https://www.youtube.com/watch?v=vMSZV1RgV1E",
-      "embed_url": "https://www.youtube.com/embed/vMSZV1RgV1E",
-      "thumbnail": "https://i.ytimg.com/vi/vMSZV1RgV1E/hqdefault.jpg",
-      "duration": "8374",
-      "duration_text": "2:19:34",
-      "published": "20250818",
-      "published_iso": "2025-08-18",
-      "latest_rank": 8,
-      "category": "health",
-      "category_label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "score": 20.2,
+      "id": "4ZyVtmTX2xg",
+      "title": "ACME Cleantech signs Green Hydrogen Pacts with Japanese Companies in Delhi",
+      "channel": "ANI News",
+      "url": "https://www.youtube.com/shorts/4ZyVtmTX2xg",
+      "embed_url": "https://www.youtube.com/embed/4ZyVtmTX2xg",
+      "thumbnail": "https://i.ytimg.com/vi/4ZyVtmTX2xg/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T22:39:49+05:30",
+      "published_ts": 1783012189,
+      "latest_rank": 9,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "ANI",
+      "score": 19.8,
+      "method": "rss",
+      "feed_id": "ani_news",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
       "categories": [
-        "health"
+        "policy"
       ],
       "category_labels": [
-        "Health"
+        "Policy"
       ],
       "queries": [
-        "India health podcast doctor preventive health nutrition mental health"
+        "ANI"
       ]
     },
     {
-      "id": "QpBcAu7eFnU",
-      "title": "The new medical innovations that could change everything - The Engineers, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=QpBcAu7eFnU",
-      "embed_url": "https://www.youtube.com/embed/QpBcAu7eFnU",
-      "thumbnail": "https://i.ytimg.com/vi/QpBcAu7eFnU/hqdefault.jpg",
-      "duration": "1555",
-      "duration_text": "25:55",
-      "published": "20250813",
-      "published_iso": "2025-08-13",
+      "id": "paNiUzY0-yM",
+      "title": "ACME Group signs key agreements with Japanese companies under National Green Hydrogen Mission",
+      "channel": "ANI News",
+      "url": "https://www.youtube.com/watch?v=paNiUzY0-yM",
+      "embed_url": "https://www.youtube.com/embed/paNiUzY0-yM",
+      "thumbnail": "https://i.ytimg.com/vi/paNiUzY0-yM/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T22:01:31+05:30",
+      "published_ts": 1783009891,
+      "latest_rank": 15,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "ANI",
+      "score": 15.0,
+      "method": "rss",
+      "feed_id": "ani_news",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "ANI"
+      ]
+    },
+    {
+      "id": "C01ufVS8qK4",
+      "title": "Electric Mobility: Driving India’s Green Growth | 02 July 2026",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=C01ufVS8qK4",
+      "embed_url": "https://www.youtube.com/embed/C01ufVS8qK4",
+      "thumbnail": "https://i.ytimg.com/vi/C01ufVS8qK4/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:54:54+05:30",
+      "published_ts": 1783009494,
+      "latest_rank": 1,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 26.2,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "_8IoJSOEKUw",
+      "title": "प्रधानमंत्री कृषि सिंचाई योजना — कृषि पद्धति में परिवर्तन का दशक | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=_8IoJSOEKUw",
+      "embed_url": "https://www.youtube.com/embed/_8IoJSOEKUw",
+      "thumbnail": "https://i.ytimg.com/vi/_8IoJSOEKUw/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:43:22+05:30",
+      "published_ts": 1783008802,
+      "latest_rank": 2,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 25.4,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "HabH389dF88",
+      "title": "India–Japan Special Strategic Partnership: New Opportunities in Trade, Technology and Security",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=HabH389dF88",
+      "embed_url": "https://www.youtube.com/embed/HabH389dF88",
+      "thumbnail": "https://i.ytimg.com/vi/HabH389dF88/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:32:30+05:30",
+      "published_ts": 1783008150,
       "latest_rank": 3,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 24.6,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "0fAdMCYkmM0",
+      "title": "India and Japan announce energy partnership to strengthen strategic oil reserves | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=0fAdMCYkmM0",
+      "embed_url": "https://www.youtube.com/embed/0fAdMCYkmM0",
+      "thumbnail": "https://i.ytimg.com/vi/0fAdMCYkmM0/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:27:49+05:30",
+      "published_ts": 1783007869,
+      "latest_rank": 4,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 23.8,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "WROnZaGy7Is",
+      "title": "प्रधानमंत्री मोदी ने नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्ता की | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=WROnZaGy7Is",
+      "embed_url": "https://www.youtube.com/embed/WROnZaGy7Is",
+      "thumbnail": "https://i.ytimg.com/vi/WROnZaGy7Is/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:16:08+05:30",
+      "published_ts": 1783007168,
+      "latest_rank": 5,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 23.0,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "qCtMFYbCaXQ",
+      "title": "Sports Scan | 02 July 2026",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=qCtMFYbCaXQ",
+      "embed_url": "https://www.youtube.com/embed/qCtMFYbCaXQ",
+      "thumbnail": "https://i.ytimg.com/vi/qCtMFYbCaXQ/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:09:47+05:30",
+      "published_ts": 1783006787,
+      "latest_rank": 6,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 22.2,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "7C8vFzRv8dg",
+      "title": "Comedian Hasan Minhaj on The American Dream, Stand-Up, Identity & Global Fame | FO530 Raj Shamani",
+      "channel": "Raj Shamani",
+      "url": "https://www.youtube.com/watch?v=7C8vFzRv8dg",
+      "embed_url": "https://www.youtube.com/embed/7C8vFzRv8dg",
+      "thumbnail": "https://i.ytimg.com/vi/7C8vFzRv8dg/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T21:09:15+05:30",
+      "published_ts": 1783006755,
+      "latest_rank": 1,
+      "category": "books",
+      "category_label": "Ideas",
+      "query": "Ideas",
+      "score": 28.7,
+      "method": "rss",
+      "feed_id": "raj_shamani",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg",
+      "categories": [
+        "books"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ideas"
+      ]
+    },
+    {
+      "id": "7-sY8pqlm9A",
+      "title": "The 10-7-10 Rule for Wealth Building | Mutual Funds Tips",
+      "channel": "Mutual Funds with Groww",
+      "url": "https://www.youtube.com/shorts/7-sY8pqlm9A",
+      "embed_url": "https://www.youtube.com/embed/7-sY8pqlm9A",
+      "thumbnail": "https://i.ytimg.com/vi/7-sY8pqlm9A/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T20:28:04+05:30",
+      "published_ts": 1783004284,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "MF Groww",
+      "score": 27.25,
+      "method": "rss",
+      "feed_id": "mutual_funds_groww",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "MF Groww"
+      ]
+    },
+    {
+      "id": "-D5ngz2PX48",
+      "title": "भारत-जापान की द्विपक्षीय साझेदारी से व्यापार, प्रौद्योगिकी और सुरक्षा के नए अवसर | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=-D5ngz2PX48",
+      "embed_url": "https://www.youtube.com/embed/-D5ngz2PX48",
+      "thumbnail": "https://i.ytimg.com/vi/-D5ngz2PX48/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T19:37:40+05:30",
+      "published_ts": 1783001260,
+      "latest_rank": 7,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 21.4,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "FcWgtDfq0UU",
+      "title": "Market Mantra | मार्केट मंत्रा | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=FcWgtDfq0UU",
+      "embed_url": "https://www.youtube.com/embed/FcWgtDfq0UU",
+      "thumbnail": "https://i.ytimg.com/vi/FcWgtDfq0UU/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T19:28:28+05:30",
+      "published_ts": 1783000708,
+      "latest_rank": 8,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 20.6,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "WaimXjQLYts",
+      "title": "Sanskrit News | 02 July 2026",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=WaimXjQLYts",
+      "embed_url": "https://www.youtube.com/embed/WaimXjQLYts",
+      "thumbnail": "https://i.ytimg.com/vi/WaimXjQLYts/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T19:11:44+05:30",
+      "published_ts": 1782999704,
+      "latest_rank": 9,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 19.8,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "m_OtD3ltkT4",
+      "title": "North East Diary | 02 July 2026",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=m_OtD3ltkT4",
+      "embed_url": "https://www.youtube.com/embed/m_OtD3ltkT4",
+      "thumbnail": "https://i.ytimg.com/vi/m_OtD3ltkT4/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T19:08:39+05:30",
+      "published_ts": 1782999519,
+      "latest_rank": 10,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 19.0,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "hQ5Cif8L9gs",
+      "title": "Why lifting weights could add years to your life - What in the World podcast, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=hQ5Cif8L9gs",
+      "embed_url": "https://www.youtube.com/embed/hQ5Cif8L9gs",
+      "thumbnail": "https://i.ytimg.com/vi/hQ5Cif8L9gs/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T17:30:24+05:30",
+      "published_ts": 1782993624,
+      "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "India science podcast health technology research interview",
-      "score": 23.8,
+      "query": "BBC",
+      "score": 27.25,
+      "method": "rss",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
       "categories": [
         "science"
       ],
@@ -418,7 +483,187 @@
         "Science"
       ],
       "queries": [
-        "India science podcast health technology research interview"
+        "BBC"
+      ]
+    },
+    {
+      "id": "vSiRSxOzlzQ",
+      "title": "Employment News / रोज़गार समाचार | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=vSiRSxOzlzQ",
+      "embed_url": "https://www.youtube.com/embed/vSiRSxOzlzQ",
+      "thumbnail": "https://i.ytimg.com/vi/vSiRSxOzlzQ/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T16:45:12+05:30",
+      "published_ts": 1782990912,
+      "latest_rank": 11,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 18.2,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "Gecs8tkuXbU",
+      "title": "श्री मोदी ने कहा- भारत-जापान के द्विपक्षीय संबंध समय की कसौटी पर खरे उतरे | 02 July 2026",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=Gecs8tkuXbU",
+      "embed_url": "https://www.youtube.com/embed/Gecs8tkuXbU",
+      "thumbnail": "https://i.ytimg.com/vi/Gecs8tkuXbU/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T14:44:39+05:30",
+      "published_ts": 1782983679,
+      "latest_rank": 12,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 17.4,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "g0KGqKz-e5s",
+      "title": "भारत-जापान संबंधों का नया अध्याय | PM मोदी और PM सनाए तकाइची",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=g0KGqKz-e5s",
+      "embed_url": "https://www.youtube.com/embed/g0KGqKz-e5s",
+      "thumbnail": "https://i.ytimg.com/vi/g0KGqKz-e5s/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T14:31:51+05:30",
+      "published_ts": 1782982911,
+      "latest_rank": 13,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 16.6,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "IDL4v9utk58",
+      "title": "PM Modi & Japan PM Sanae Takaichi attend joint press meet in New Delhi",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=IDL4v9utk58",
+      "embed_url": "https://www.youtube.com/embed/IDL4v9utk58",
+      "thumbnail": "https://i.ytimg.com/vi/IDL4v9utk58/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T14:29:57+05:30",
+      "published_ts": 1782982797,
+      "latest_rank": 14,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 15.8,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "eUyUp-D2D1c",
+      "title": "Prime Minister Modi says, India-Japan bilateral relationship has stood the test of time | 02 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=eUyUp-D2D1c",
+      "embed_url": "https://www.youtube.com/embed/eUyUp-D2D1c",
+      "thumbnail": "https://i.ytimg.com/vi/eUyUp-D2D1c/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T14:28:55+05:30",
+      "published_ts": 1782982735,
+      "latest_rank": 15,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 15.0,
+      "method": "rss",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "4PmGTEiq4Fo",
+      "title": "How the United States became a country - BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=4PmGTEiq4Fo",
+      "embed_url": "https://www.youtube.com/embed/4PmGTEiq4Fo",
+      "thumbnail": "https://i.ytimg.com/vi/4PmGTEiq4Fo/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T04:30:27+05:30",
+      "published_ts": 1782946827,
+      "latest_rank": 3,
+      "category": "science",
+      "category_label": "Science",
+      "query": "BBC",
+      "score": 24.6,
+      "method": "rss",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "BBC"
       ]
     }
   ],
@@ -472,6 +717,98 @@
       "weight": 0.95
     }
   ],
-  "error": "Refresh failed; kept previous episodes. All India Radio Akashvani News analysis interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); All India Radio Spotlight discussion India economy health policy: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India health podcast doctor preventive health nutrition mental health: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India finance podcast personal finance investing mutual funds economy: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India market outlook podcast investing economy expert interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India policy podcast economy public affairs expert discussion: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India science podcast health technology research interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib); India podcast books ideas society economics interview: RuntimeError: ERROR: Unable to handle request: Unsupported url scheme: \"ytsearchdate8\" (urllib)",
-  "stale": true
+  "rss_feeds": [
+    {
+      "id": "news_on_air",
+      "label": "AIR",
+      "category": "air",
+      "category_label": "AIR",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+    },
+    {
+      "id": "news_on_air_spotlight",
+      "label": "Spotlight",
+      "category": "air_spotlight",
+      "category_label": "Spotlight",
+      "match_terms": [
+        "spotlight",
+        "discussion",
+        "analysis"
+      ],
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+    },
+    {
+      "id": "mutual_funds_groww",
+      "label": "MF Groww",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw"
+    },
+    {
+      "id": "thrive_groww",
+      "label": "Thrive",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw"
+    },
+    {
+      "id": "moneytalks_groww",
+      "label": "Moneytalks",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ"
+    },
+    {
+      "id": "ani_news",
+      "label": "ANI",
+      "category": "policy",
+      "category_label": "Policy",
+      "match_terms": [
+        "economy",
+        "economic",
+        "policy",
+        "rbi",
+        "budget",
+        "finance",
+        "market",
+        "investment",
+        "health",
+        "ayush",
+        "ministry",
+        "green hydrogen",
+        "infrastructure"
+      ],
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg"
+    },
+    {
+      "id": "sastasundar",
+      "label": "Health",
+      "category": "health",
+      "category_label": "Health",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ"
+    },
+    {
+      "id": "gunjanshouts",
+      "label": "Health",
+      "category": "health",
+      "category_label": "Health",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw"
+    },
+    {
+      "id": "bbc_world_service",
+      "label": "BBC",
+      "category": "science",
+      "category_label": "Science",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA"
+    },
+    {
+      "id": "raj_shamani",
+      "label": "Ideas",
+      "category": "books",
+      "category_label": "Ideas",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg"
+    }
+  ],
+  "error": null,
+  "stale": false
 }

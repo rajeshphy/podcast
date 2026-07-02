@@ -2,11 +2,14 @@
 from __future__ import annotations
 
 from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 import json
 import os
 import re
 import subprocess
+import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
 
@@ -15,6 +18,8 @@ CONFIG_PATH = ROOT / "data" / "searches.json"
 OUTPUT_PATH = ROOT / "data" / "episodes.json"
 YOUTUBE_WATCH = "https://www.youtube.com/watch?v={video_id}"
 YOUTUBE_THUMB = "https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+ATOM = "{http://www.w3.org/2005/Atom}"
+YT = "{http://www.youtube.com/xml/schemas/2015}"
 
 
 def load_json(path: Path, fallback):
@@ -44,20 +49,38 @@ def clock(seconds: object) -> str:
     return f"{minutes}:{secs:02d}"
 
 
-def parse_upload_date(value: object):
+def parse_timestamp(value: object, timezone: str):
     text = clean_text(value)
-    if not re.fullmatch(r"\d{8}", text):
+    if not re.fullmatch(r"\d+(?:\.\d+)?", text):
         return None
     try:
-        return datetime.strptime(text, "%Y%m%d").date()
-    except ValueError:
+        return datetime.fromtimestamp(float(text), tz=ZoneInfo(timezone))
+    except (OverflowError, OSError, ValueError):
         return None
+
+
+def parse_feed_datetime(value: object, timezone: str):
+    text = clean_text(value)
+    if not text:
+        return None
+    try:
+        if text.endswith("Z"):
+            return datetime.fromisoformat(text.replace("Z", "+00:00")).astimezone(ZoneInfo(timezone))
+        parsed = datetime.fromisoformat(text)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=ZoneInfo(timezone))
+        return parsed.astimezone(ZoneInfo(timezone))
+    except ValueError:
+        try:
+            return parsedate_to_datetime(text).astimezone(ZoneInfo(timezone))
+        except (TypeError, ValueError, AttributeError):
+            return None
 
 
 def run_search(query: str, max_results: int, timeout: int, sort_mode: str) -> list[dict]:
     prefix = "ytsearchdate" if sort_mode == "date" else "ytsearch"
     target = f"{prefix}{max_results}:{query}"
-    fields = "%(id)s\t%(title)s\t%(channel)s\t%(duration)s\t%(upload_date)s\t%(webpage_url)s"
+    fields = "%(id)s\t%(title)s\t%(channel)s\t%(duration)s\t%(upload_date)s\t%(timestamp)s\t%(webpage_url)s"
     command = [
         "yt-dlp",
         "--skip-download",
@@ -78,22 +101,99 @@ def run_search(query: str, max_results: int, timeout: int, sort_mode: str) -> li
     )
     entries = []
     for line in completed.stdout.splitlines():
-        parts = line.split("\t", 5)
-        if len(parts) != 6:
+        parts = line.split("\t", 6)
+        if len(parts) != 7:
             continue
-        video_id, title, channel, duration, upload_date, webpage_url = parts
+        video_id, title, channel, duration, upload_date, timestamp, webpage_url = parts
         entries.append({
             "id": clean_text(video_id),
             "title": clean_text(title),
             "channel": clean_text(channel),
             "duration": None if duration == "NA" else duration,
             "upload_date": "" if upload_date == "NA" else clean_text(upload_date),
+            "timestamp": "" if timestamp == "NA" else clean_text(timestamp),
             "webpage_url": clean_text(webpage_url),
         })
 
     if not entries and completed.returncode:
         raise RuntimeError((completed.stderr or "yt-dlp returned no entries").strip())
     return entries
+
+
+def fetch_feed(feed: dict, timeout: int) -> ET.Element:
+    req = Request(str(feed["url"]), headers={"User-Agent": "podcast-radar/1.0"})
+    with urlopen(req, timeout=timeout) as response:
+        status = getattr(response, "status", 200)
+        if status >= 400:
+            raise RuntimeError(f"HTTP {status}")
+        data = response.read(500000)
+    root = ET.fromstring(data)
+    entries = root.findall(f"{ATOM}entry")
+    if not entries:
+        raise RuntimeError("RSS feed has no entries")
+    return root
+
+
+def feed_link(entry: ET.Element) -> str:
+    for link in entry.findall(f"{ATOM}link"):
+        rel = link.attrib.get("rel", "alternate")
+        href = link.attrib.get("href", "")
+        if rel == "alternate" and href:
+            return href
+    video_id = clean_text(entry.findtext(f"{YT}videoId"))
+    return YOUTUBE_WATCH.format(video_id=video_id) if video_id else ""
+
+
+def feed_items(feed: dict, config: dict, cutoff_time, timezone: str, timeout: int) -> list[dict]:
+    root = fetch_feed(feed, timeout)
+    channel = clean_text(root.findtext(f"{ATOM}title")) or clean_text(feed.get("label"))
+    items = []
+    for rank, entry in enumerate(root.findall(f"{ATOM}entry"), start=1):
+        title = clean_text(entry.findtext(f"{ATOM}title"))
+        video_id = clean_text(entry.findtext(f"{YT}videoId"))
+        url = feed_link(entry)
+        published_at = parse_feed_datetime(entry.findtext(f"{ATOM}published") or entry.findtext(f"{ATOM}updated"), timezone)
+        if not title or not url or not published_at or published_at < cutoff_time:
+            continue
+
+        match_terms = [normalize(term) for term in feed.get("match_terms", [])]
+        normalized_title = normalize(title)
+        if match_terms and not any(term in normalized_title for term in match_terms):
+            continue
+
+        raw = {
+            "title": title,
+            "channel": channel,
+            "duration": None,
+        }
+        text = normalize(f"{title} {channel}")
+        if term_score(text, config.get("negative_terms", []), 1) > 0:
+            continue
+
+        score = score_entry(raw, {"id": feed.get("category"), "weight": feed.get("weight", 1.0)}, config, rank)
+        item_id = video_id or re.sub(r"[^a-zA-Z0-9_-]+", "-", url)[-80:]
+        items.append({
+            "id": item_id,
+            "title": title,
+            "channel": channel,
+            "url": url,
+            "embed_url": f"https://www.youtube.com/embed/{video_id}" if video_id else url,
+            "thumbnail": YOUTUBE_THUMB.format(video_id=video_id) if video_id else "",
+            "duration": None,
+            "duration_text": "",
+            "published": published_at.strftime("%Y%m%d"),
+            "published_at": published_at.isoformat(),
+            "published_ts": int(published_at.timestamp()),
+            "latest_rank": rank,
+            "category": feed.get("category"),
+            "category_label": feed.get("category_label") or feed.get("label"),
+            "query": feed.get("label") or channel,
+            "score": score + 3.0,
+            "method": "rss",
+            "feed_id": feed.get("id"),
+            "feed_url": feed.get("url"),
+        })
+    return items
 
 
 def term_score(text: str, terms: list[str], value: float) -> float:
@@ -161,14 +261,14 @@ def video_id_from(entry: dict) -> str:
     return match.group(1) if match else ""
 
 
-def episode_from_entry(entry: dict, search: dict, config: dict, rank: int, cutoff_date) -> dict | None:
+def episode_from_entry(entry: dict, search: dict, config: dict, rank: int, cutoff_time, timezone: str) -> dict | None:
     video_id = video_id_from(entry)
     title = clean_text(entry.get("title"))
     if not video_id or not title:
         return None
 
-    upload_date = parse_upload_date(entry.get("upload_date"))
-    if not upload_date or upload_date < cutoff_date:
+    published_at = parse_timestamp(entry.get("timestamp"), timezone)
+    if not published_at or published_at < cutoff_time:
         return None
 
     channel = clean_text(entry.get("channel") or entry.get("uploader"))
@@ -186,7 +286,8 @@ def episode_from_entry(entry: dict, search: dict, config: dict, rank: int, cutof
         "duration": entry.get("duration"),
         "duration_text": clock(entry.get("duration")),
         "published": clean_text(entry.get("upload_date")),
-        "published_iso": upload_date.isoformat(),
+        "published_at": published_at.isoformat(),
+        "published_ts": int(published_at.timestamp()),
         "latest_rank": rank,
         "category": search.get("id"),
         "category_label": search.get("label"),
@@ -217,58 +318,71 @@ def main() -> int:
     max_episodes = int(os.environ.get("PODCAST_MAX_EPISODES") or portal.get("max_episodes") or 72)
     timeout = int(os.environ.get("PODCAST_SEARCH_TIMEOUT") or 90)
     sort_mode = str(os.environ.get("PODCAST_SEARCH_SORT") or portal.get("search_sort") or "date").lower()
-    recent_days = int(os.environ.get("PODCAST_RECENT_DAYS") or portal.get("recent_days") or 365)
-    cutoff_date = datetime.now(ZoneInfo(timezone)).date() - timedelta(days=recent_days)
-    previous = load_json(OUTPUT_PATH, {})
+    recent_hours = int(os.environ.get("PODCAST_RECENT_HOURS") or portal.get("recent_hours") or 24)
+    youtube_search_enabled = str(
+        os.environ.get("PODCAST_YOUTUBE_SEARCH_ENABLED", portal.get("youtube_search_enabled", False))
+    ).lower() in {"1", "true", "yes", "on"}
+    now = datetime.now(ZoneInfo(timezone))
+    cutoff_time = now - timedelta(hours=recent_hours)
 
     episodes_by_id: dict[str, dict] = {}
     errors = []
 
-    for search in config.get("searches", []):
-        query = clean_text(search.get("query"))
-        if not query:
-            continue
+    for feed in config.get("rss_feeds", []):
         try:
-            entries = run_search(query, max_results, timeout, sort_mode)
+            for episode in feed_items(feed, config, cutoff_time, timezone, timeout):
+                existing = episodes_by_id.get(episode["id"])
+                episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
+                    **episode,
+                    "categories": [episode["category"]],
+                    "category_labels": [episode["category_label"]],
+                    "queries": [episode["query"]],
+                }
         except Exception as exc:
-            errors.append(f"{query}: {type(exc).__name__}: {exc}")
-            continue
+            errors.append(f"{feed.get('id') or feed.get('url')}: {type(exc).__name__}: {exc}")
 
-        for rank, entry in enumerate(entries, start=1):
-            episode = episode_from_entry(entry, search, config, rank, cutoff_date)
-            if not episode:
+    if youtube_search_enabled:
+        for search in config.get("searches", []):
+            query = clean_text(search.get("query"))
+            if not query:
                 continue
-            existing = episodes_by_id.get(episode["id"])
-            episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
-                **episode,
-                "categories": [episode["category"]],
-                "category_labels": [episode["category_label"]],
-                "queries": [episode["query"]],
-            }
+            try:
+                entries = run_search(query, max_results, timeout, sort_mode)
+            except Exception as exc:
+                errors.append(f"{query}: {type(exc).__name__}: {exc}")
+                continue
+
+            for rank, entry in enumerate(entries, start=1):
+                episode = episode_from_entry(entry, search, config, rank, cutoff_time, timezone)
+                if not episode:
+                    continue
+                existing = episodes_by_id.get(episode["id"])
+                episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
+                    **episode,
+                    "categories": [episode["category"]],
+                    "category_labels": [episode["category_label"]],
+                    "queries": [episode["query"]],
+                }
 
     episodes = sorted(
         episodes_by_id.values(),
-        key=lambda item: (item.get("published", ""), item.get("score", 0)),
+        key=lambda item: (item.get("published_ts", 0), item.get("score", 0)),
         reverse=True,
     )[:max_episodes]
 
-    if not episodes and errors and previous.get("episodes"):
-        output = dict(previous)
-        output["generated_at"] = datetime.now(ZoneInfo(timezone)).isoformat()
-        output["stale"] = True
-        output["error"] = "Refresh failed; kept previous episodes. " + "; ".join(errors)
-    else:
-        output = {
-            "generated_at": datetime.now(ZoneInfo(timezone)).isoformat(),
-            "mode": "latest",
-            "search_sort": sort_mode,
-            "recent_days": recent_days,
-            "cutoff_date": cutoff_date.isoformat(),
-            "episodes": episodes,
-            "searches": config.get("searches", []),
-            "error": "; ".join(errors) if errors else None,
-            "stale": False,
-        }
+    output = {
+        "generated_at": now.isoformat(),
+        "mode": "latest",
+        "search_sort": sort_mode,
+        "recent_hours": recent_hours,
+        "youtube_search_enabled": youtube_search_enabled,
+        "cutoff_time": cutoff_time.isoformat(),
+        "episodes": episodes,
+        "searches": config.get("searches", []),
+        "rss_feeds": config.get("rss_feeds", []),
+        "error": "; ".join(errors) if errors else None,
+        "stale": False,
+    }
 
     OUTPUT_PATH.write_text(json.dumps(output, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"Wrote {len(output.get('episodes') or [])} episodes to {OUTPUT_PATH.relative_to(ROOT)}")
@@ -276,7 +390,7 @@ def main() -> int:
         print("Warnings:")
         for error in errors:
             print(f"- {error}")
-    return 0 if output.get("episodes") else 1
+    return 0
 
 
 if __name__ == "__main__":

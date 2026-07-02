@@ -57,8 +57,13 @@
   function buildTabs() {
     tabs.replaceChildren();
     tabs.append(tabButton("all", "All"));
+    const activeCategories = new Set(episodes.flatMap(episode => episode.categories || []));
     for (const search of searches) {
+      if (!activeCategories.has(search.id)) continue;
       tabs.append(tabButton(search.id, search.label));
+    }
+    if (activeCategory !== "all" && !activeCategories.has(activeCategory)) {
+      activeCategory = "all";
     }
   }
 
@@ -182,4 +187,3 @@
     episodesElement.replaceChildren(empty);
   });
 })();
-

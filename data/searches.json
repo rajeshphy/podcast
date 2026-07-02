@@ -1,14 +1,15 @@
 {
   "portal": {
     "title": "Podcast Radar",
-    "subtitle": "Latest All India Radio, health, finance, markets, policy and useful long-form listening",
+    "subtitle": "Latest 24-hour All India Radio, health, finance, markets, policy and useful long-form listening",
     "timezone": "Asia/Kolkata",
     "locale": "en-IN",
     "default_category": "all",
     "max_episodes": 72,
     "max_results_per_query": 8,
     "search_sort": "date",
-    "recent_days": 365
+    "recent_hours": 24,
+    "youtube_search_enabled": false
   },
   "searches": [
     {
@@ -58,6 +59,98 @@
       "label": "Ideas",
       "query": "India podcast books ideas society economics interview",
       "weight": 0.95
+    }
+  ],
+  "rss_feeds": [
+    {
+      "id": "news_on_air",
+      "label": "AIR",
+      "category": "air",
+      "category_label": "AIR",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+    },
+    {
+      "id": "news_on_air_spotlight",
+      "label": "Spotlight",
+      "category": "air_spotlight",
+      "category_label": "Spotlight",
+      "match_terms": [
+        "spotlight",
+        "discussion",
+        "analysis"
+      ],
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+    },
+    {
+      "id": "mutual_funds_groww",
+      "label": "MF Groww",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw"
+    },
+    {
+      "id": "thrive_groww",
+      "label": "Thrive",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw"
+    },
+    {
+      "id": "moneytalks_groww",
+      "label": "Moneytalks",
+      "category": "finance",
+      "category_label": "Finance",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ"
+    },
+    {
+      "id": "ani_news",
+      "label": "ANI",
+      "category": "policy",
+      "category_label": "Policy",
+      "match_terms": [
+        "economy",
+        "economic",
+        "policy",
+        "rbi",
+        "budget",
+        "finance",
+        "market",
+        "investment",
+        "health",
+        "ayush",
+        "ministry",
+        "green hydrogen",
+        "infrastructure"
+      ],
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg"
+    },
+    {
+      "id": "sastasundar",
+      "label": "Health",
+      "category": "health",
+      "category_label": "Health",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ"
+    },
+    {
+      "id": "gunjanshouts",
+      "label": "Health",
+      "category": "health",
+      "category_label": "Health",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw"
+    },
+    {
+      "id": "bbc_world_service",
+      "label": "BBC",
+      "category": "science",
+      "category_label": "Science",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA"
+    },
+    {
+      "id": "raj_shamani",
+      "label": "Ideas",
+      "category": "books",
+      "category_label": "Ideas",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg"
     }
   ],
   "positive_terms": [
