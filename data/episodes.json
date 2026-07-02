@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-07-02T23:14:53.485907+05:30",
+  "generated_at": "2026-07-02T23:37:18.292153+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-01T23:14:53.485907+05:30",
+  "cutoff_time": "2026-07-01T23:37:18.292153+05:30",
   "episodes": [
+    {
+      "id": "lqlhjfJmNbc",
+      "title": "ACME Group signs key agreements with Japanese companies under National Green Hydrogen Mission",
+      "channel": "ANI News",
+      "url": "https://www.youtube.com/shorts/lqlhjfJmNbc",
+      "embed_url": "https://www.youtube.com/embed/lqlhjfJmNbc",
+      "thumbnail": "https://i.ytimg.com/vi/lqlhjfJmNbc/hqdefault.jpg",
+      "duration": null,
+      "duration_text": "",
+      "published": "20260702",
+      "published_at": "2026-07-02T23:06:25+05:30",
+      "published_ts": 1783013785,
+      "latest_rank": 6,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "ANI",
+      "score": 22.2,
+      "method": "rss",
+      "feed_id": "ani_news",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "ANI"
+      ]
+    },
     {
       "id": "_6O3rwqIn1I",
       "title": "Ministry of Ayush’s Rajesh Kotecha outlines roadmap to transform Ayurveda into global force",
@@ -18,11 +48,11 @@
       "published": "20260702",
       "published_at": "2026-07-02T22:58:26+05:30",
       "published_ts": 1783013306,
-      "latest_rank": 6,
+      "latest_rank": 10,
       "category": "policy",
       "category_label": "Policy",
       "query": "ANI",
-      "score": 22.2,
+      "score": 19.0,
       "method": "rss",
       "feed_id": "ani_news",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
@@ -48,41 +78,11 @@
       "published": "20260702",
       "published_at": "2026-07-02T22:39:49+05:30",
       "published_ts": 1783012189,
-      "latest_rank": 9,
+      "latest_rank": 13,
       "category": "policy",
       "category_label": "Policy",
       "query": "ANI",
-      "score": 19.8,
-      "method": "rss",
-      "feed_id": "ani_news",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "ANI"
-      ]
-    },
-    {
-      "id": "paNiUzY0-yM",
-      "title": "ACME Group signs key agreements with Japanese companies under National Green Hydrogen Mission",
-      "channel": "ANI News",
-      "url": "https://www.youtube.com/watch?v=paNiUzY0-yM",
-      "embed_url": "https://www.youtube.com/embed/paNiUzY0-yM",
-      "thumbnail": "https://i.ytimg.com/vi/paNiUzY0-yM/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260702",
-      "published_at": "2026-07-02T22:01:31+05:30",
-      "published_ts": 1783009891,
-      "latest_rank": 15,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "ANI",
-      "score": 15.0,
+      "score": 16.6,
       "method": "rss",
       "feed_id": "ani_news",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg",
