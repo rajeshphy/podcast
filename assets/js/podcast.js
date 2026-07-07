@@ -117,6 +117,12 @@
 
     const chips = document.createElement("div");
     chips.className = "chips";
+    if (episode.evergreen) {
+      const evergreen = document.createElement("span");
+      evergreen.className = "chip";
+      evergreen.textContent = "Evergreen";
+      chips.append(evergreen);
+    }
     for (const label of episode.category_labels || []) {
       const chip = document.createElement("span");
       chip.className = "chip";

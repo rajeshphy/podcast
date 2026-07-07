@@ -1,7 +1,7 @@
 {
   "portal": {
     "title": "Podcast Radar",
-    "subtitle": "Latest long-form India podcasts and useful listening on finance, markets, health, policy, science and ideas",
+    "subtitle": "Latest long-form India podcasts plus evergreen useful listening on finance, markets, health, policy, science and ideas",
     "timezone": "Asia/Kolkata",
     "locale": "en-IN",
     "default_category": "all",
@@ -11,7 +11,8 @@
     "recent_hours": 24,
     "youtube_search_enabled": false,
     "max_items_per_feed": 4,
-    "min_duration_seconds": 600
+    "min_duration_seconds": 600,
+    "evergreen_items_per_category": 2
   },
   "searches": [
     {
@@ -451,5 +452,157 @@
     "bbc world service",
     "raj shamani",
     "the seen and the unseen"
+  ],
+  "evergreen_episodes": [
+    {
+      "category": "finance",
+      "category_label": "Finance",
+      "id": "scKXvnWCRW4",
+      "duration": 4364,
+      "title": "₹5000 Crore Wealth Manager’s Stock Playbook in 72 Mins | Melody, SpaceX, Next Sectors & Framework",
+      "channel": "Moneytalks by Groww",
+      "url": "https://www.youtube.com/watch?v=scKXvnWCRW4",
+      "weight": 1.15
+    },
+    {
+      "category": "finance",
+      "category_label": "Finance",
+      "id": "CJmxHtZEsKA",
+      "duration": 4069,
+      "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
+      "channel": "Moneytalks by Groww",
+      "url": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
+      "weight": 1.15
+    },
+    {
+      "category": "health",
+      "category_label": "Health",
+      "id": "altjt8zrCLc",
+      "duration": 3696,
+      "title": "How To Stay Healthy & Fit Even If You Have No Time",
+      "channel": "Dr Pal",
+      "url": "https://www.youtube.com/watch?v=altjt8zrCLc",
+      "weight": 1.15
+    },
+    {
+      "category": "health",
+      "category_label": "Health",
+      "id": "A9OUgk3H4AY",
+      "duration": 6245,
+      "title": "Gut Health & Weight Loss Secrets: Dr Pal Reveals the Science Behind Cravings | TRS",
+      "channel": "BeerBiceps",
+      "url": "https://www.youtube.com/watch?v=A9OUgk3H4AY",
+      "weight": 1.15
+    },
+    {
+      "category": "markets",
+      "category_label": "Markets",
+      "id": "gLeMTK3PeC8",
+      "duration": 5534,
+      "title": "10X Your BUSINESS and Build POWERFUL Career: Kunal Shah’s UNFILTERED Business MASTERCLASS | IBP EP36",
+      "channel": "Think School",
+      "url": "https://www.youtube.com/watch?v=gLeMTK3PeC8",
+      "weight": 1.15
+    },
+    {
+      "category": "markets",
+      "category_label": "Markets",
+      "id": "xqSmbDTS-sY",
+      "duration": 7416,
+      "title": "FREE MBA on Indian Retail: Big Bazaar’s Shocking Fall Explained by Its Founder | IBP EP31",
+      "channel": "Think School",
+      "url": "https://www.youtube.com/watch?v=xqSmbDTS-sY",
+      "weight": 1.15
+    },
+    {
+      "category": "policy",
+      "category_label": "Policy",
+      "id": "Y5mtTLKnnII",
+      "duration": 13249,
+      "title": "Ep 237: The Importance of the 1991 Reforms",
+      "channel": "The Seen and the Unseen",
+      "url": "https://www.youtube.com/watch?v=Y5mtTLKnnII",
+      "weight": 1.15
+    },
+    {
+      "category": "policy",
+      "category_label": "Policy",
+      "id": "wCUoBiCwqw8",
+      "duration": 17543,
+      "title": "Ep 447: Rahul Ahluwalia Fights for Growth and Freedom",
+      "channel": "The Seen and the Unseen",
+      "url": "https://www.youtube.com/watch?v=wCUoBiCwqw8",
+      "weight": 1.15
+    },
+    {
+      "category": "science",
+      "category_label": "Science",
+      "id": "WNGAQxVQPQE",
+      "duration": 1549,
+      "title": "Is there a link between our gut and mental health? - CrowdScience podcast, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=WNGAQxVQPQE",
+      "weight": 1.15
+    },
+    {
+      "category": "science",
+      "category_label": "Science",
+      "id": "cakgYBf_Ah0",
+      "duration": 1858,
+      "title": "What's the science behind weight-loss drugs? - The Food Chain podcast, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=cakgYBf_Ah0",
+      "weight": 1.15
+    },
+    {
+      "category": "ideas",
+      "category_label": "Ideas",
+      "id": "MmOyVNvsdm0",
+      "duration": 6853,
+      "title": "Ep 153: The Indian Economy in 2019",
+      "channel": "The Seen and the Unseen",
+      "url": "https://www.youtube.com/watch?v=MmOyVNvsdm0",
+      "weight": 1.15
+    },
+    {
+      "category": "ideas",
+      "category_label": "Ideas",
+      "id": "qt2XslRMOto",
+      "duration": 5770,
+      "title": "Nobel Laureate Explains India’s Economy, Poverty, GDP & AI | Abhijit Banerjee | FO521 Raj Shamani",
+      "channel": "Raj Shamani",
+      "url": "https://www.youtube.com/watch?v=qt2XslRMOto",
+      "weight": 1.15
+    },
+    {
+      "category": "interviews",
+      "category_label": "Interviews",
+      "id": "LqSEfz4YUFA",
+      "duration": 11790,
+      "title": "Ep. #20 | WTF are Indian Real Estate Giants Up To? Nikhil ft. Irfan, Nirupa, & Karan",
+      "channel": "Nikhil Kamath",
+      "url": "https://www.youtube.com/watch?v=LqSEfz4YUFA",
+      "weight": 1.15
+    },
+    {
+      "category": "interviews",
+      "category_label": "Interviews",
+      "id": "7KI-tp4Y4FA",
+      "duration": 7350,
+      "title": "India-China History Podcast - Geopolitics, Wars, Brutalness, Philosophy & More | Maj Gen Rajiv N, TRS",
+      "channel": "Ranveer Allahbadia",
+      "url": "https://www.youtube.com/watch?v=7KI-tp4Y4FA",
+      "weight": 1.15
+    },
+    {
+      "category": "air",
+      "category_label": "AIR",
+      "id": "9ImnwpuL-mE",
+      "duration": 875,
+      "title": "Exclusive Interview with Nagesh Singh, High Commissioner of India to Australia | 07 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=9ImnwpuL-mE",
+      "weight": 1.15
+    }
   ]
 }

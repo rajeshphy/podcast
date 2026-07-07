@@ -372,6 +372,48 @@ def episode_from_entry(entry: dict, search: dict, config: dict, rank: int, cutof
     }
 
 
+def episode_from_evergreen(entry: dict, config: dict, rank: int) -> dict | None:
+    video_id = clean_text(entry.get("id"))
+    title = clean_text(entry.get("title"))
+    channel = clean_text(entry.get("channel"))
+    category = clean_text(entry.get("category"))
+    category_label = clean_text(entry.get("category_label"))
+    duration = seconds_value(entry.get("duration"))
+    min_duration = int(config.get("portal", {}).get("min_duration_seconds") or 600)
+    if not video_id or not title or not category or duration is None or duration < min_duration:
+        return None
+
+    text = normalize(f"{title} {channel}")
+    if is_blocked_text(text, config):
+        return None
+
+    score = score_entry({"title": title, "channel": channel, "duration": duration}, {
+        "id": category,
+        "weight": float(entry.get("weight", 1.0)),
+    }, config, rank) + 4.0
+
+    return {
+        "id": video_id,
+        "title": title,
+        "channel": channel,
+        "url": entry.get("url") or YOUTUBE_WATCH.format(video_id=video_id),
+        "embed_url": f"https://www.youtube.com/embed/{video_id}",
+        "thumbnail": YOUTUBE_THUMB.format(video_id=video_id),
+        "duration": duration,
+        "duration_text": clock(duration),
+        "published": "evergreen",
+        "published_at": None,
+        "published_ts": 0,
+        "latest_rank": rank,
+        "category": category,
+        "category_label": category_label,
+        "query": "Evergreen",
+        "score": round(score, 3),
+        "method": "evergreen",
+        "evergreen": True,
+    }
+
+
 def merge_episode(existing: dict, incoming: dict) -> dict:
     merged = {**existing, **incoming} if incoming["score"] > existing["score"] else dict(existing)
     categories = set(existing.get("categories") or [existing.get("category")])
@@ -442,6 +484,24 @@ def main() -> int:
                     "queries": [episode["query"]],
                 }
 
+    evergreen_limit = int(portal.get("evergreen_items_per_category") or 2)
+    evergreen_counts: dict[str, int] = {}
+    for rank, entry in enumerate(config.get("evergreen_episodes", []), start=1):
+        category = clean_text(entry.get("category"))
+        if not category or evergreen_counts.get(category, 0) >= evergreen_limit:
+            continue
+        episode = episode_from_evergreen(entry, config, rank)
+        if not episode:
+            continue
+        evergreen_counts[category] = evergreen_counts.get(category, 0) + 1
+        existing = episodes_by_id.get(episode["id"])
+        episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
+            **episode,
+            "categories": [episode["category"]],
+            "category_labels": [episode["category_label"]],
+            "queries": [episode["query"]],
+        }
+
     sorted_episodes = sorted(
         episodes_by_id.values(),
         key=lambda item: (item.get("published_ts", 0), item.get("score", 0)),
@@ -464,11 +524,13 @@ def main() -> int:
         "search_sort": sort_mode,
         "recent_hours": recent_hours,
         "min_duration_seconds": int(portal.get("min_duration_seconds") or 600),
+        "evergreen_items_per_category": evergreen_limit,
         "youtube_search_enabled": youtube_search_enabled,
         "cutoff_time": cutoff_time.isoformat(),
         "episodes": episodes,
         "searches": config.get("searches", []),
         "rss_feeds": config.get("rss_feeds", []),
+        "evergreen_episodes": config.get("evergreen_episodes", []),
         "error": "; ".join(errors) if errors else None,
         "stale": False,
     }
