@@ -1,13 +1,44 @@
 {
-  "generated_at": "2026-07-08T00:08:43.466622+05:30",
+  "generated_at": "2026-07-08T02:32:55.948858+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
   "min_duration_seconds": 600,
   "evergreen_items_per_category": 2,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-07T00:08:43.466622+05:30",
+  "cutoff_time": "2026-07-07T02:32:55.948858+05:30",
   "episodes": [
+    {
+      "id": "vRY3nBTzzKM",
+      "title": "Finding my Abusers: Surviving Russian Detention in Occupied Ukraine - BBC World Service Docs",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=vRY3nBTzzKM",
+      "embed_url": "https://www.youtube.com/embed/vRY3nBTzzKM",
+      "thumbnail": "https://i.ytimg.com/vi/vRY3nBTzzKM/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T00:59:00+05:30",
+      "published_ts": 1783452540,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "BBC",
+      "score": 30.9,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "BBC"
+      ]
+    },
     {
       "id": "_XOBDjy1ovs",
       "title": "How dangerous is extreme heat? - BBC World Service",
@@ -20,11 +51,11 @@
       "published": "20260707",
       "published_at": "2026-07-07T20:42:44+05:30",
       "published_ts": 1783437164,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "BBC",
-      "score": 30.9,
+      "score": 30.1,
       "method": "rss",
       "duration_source": "feed_fallback",
       "feed_id": "bbc_world_service",
