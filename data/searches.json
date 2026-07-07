@@ -1,64 +1,66 @@
 {
   "portal": {
     "title": "Podcast Radar",
-    "subtitle": "Latest 24-hour All India Radio, health, finance, markets, policy and useful long-form listening",
+    "subtitle": "Latest long-form India podcasts and useful listening on finance, markets, health, policy, science and ideas",
     "timezone": "Asia/Kolkata",
     "locale": "en-IN",
     "default_category": "all",
-    "max_episodes": 72,
+    "max_episodes": 80,
     "max_results_per_query": 8,
     "search_sort": "date",
     "recent_hours": 24,
-    "youtube_search_enabled": false
+    "youtube_search_enabled": false,
+    "max_items_per_feed": 4,
+    "min_duration_seconds": 600
   },
   "searches": [
     {
       "id": "air",
       "label": "AIR",
-      "query": "All India Radio Akashvani News analysis interview",
-      "weight": 1.35
-    },
-    {
-      "id": "air_spotlight",
-      "label": "Spotlight",
-      "query": "All India Radio Spotlight discussion India economy health policy",
+      "query": "All India Radio Spotlight Market Mantra discussion analysis",
       "weight": 1.3
-    },
-    {
-      "id": "health",
-      "label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "weight": 1.25
     },
     {
       "id": "finance",
       "label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
+      "query": "India finance investing mutual funds podcast long discussion",
       "weight": 1.3
     },
     {
       "id": "markets",
       "label": "Markets",
-      "query": "India market outlook podcast investing economy expert interview",
-      "weight": 1.15
+      "query": "India markets business economy long podcast analysis",
+      "weight": 1.2
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "query": "India health doctor nutrition fitness mental health podcast",
+      "weight": 1.25
     },
     {
       "id": "policy",
       "label": "Policy",
-      "query": "India policy podcast economy public affairs expert discussion",
-      "weight": 1.1
+      "query": "India policy economy geopolitics public affairs long discussion",
+      "weight": 1.15
     },
     {
       "id": "science",
       "label": "Science",
-      "query": "India science podcast health technology research interview",
+      "query": "science health climate technology research podcast",
       "weight": 1.0
     },
     {
-      "id": "books",
+      "id": "ideas",
       "label": "Ideas",
-      "query": "India podcast books ideas society economics interview",
-      "weight": 0.95
+      "query": "India ideas society books long conversation podcast",
+      "weight": 1.0
+    },
+    {
+      "id": "interviews",
+      "label": "Interviews",
+      "query": "India founder creator expert interview long podcast",
+      "weight": 1.15
     }
   ],
   "rss_feeds": [
@@ -67,131 +69,350 @@
       "label": "AIR",
       "category": "air",
       "category_label": "AIR",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "match_terms": [
+        "market mantra",
+        "spotlight",
+        "discussion",
+        "analysis",
+        "interview"
+      ]
     },
     {
       "id": "news_on_air_spotlight",
       "label": "Spotlight",
-      "category": "air_spotlight",
-      "category_label": "Spotlight",
+      "category": "air",
+      "category_label": "AIR",
+      "weight": 1.35,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
       "match_terms": [
         "spotlight",
         "discussion",
         "analysis"
-      ],
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+      ]
     },
     {
       "id": "mutual_funds_groww",
       "label": "MF Groww",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw"
+      "weight": 1.15,
+      "max_items": 3,
+      "fallback_duration": 900,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw",
+      "match_terms": [
+        "mutual fund",
+        "invest",
+        "finance",
+        "wealth",
+        "portfolio",
+        "retire",
+        "nps",
+        "sip"
+      ]
     },
     {
       "id": "thrive_groww",
       "label": "Thrive",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw"
+      "weight": 1.15,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw",
+      "match_terms": [
+        "finance",
+        "business",
+        "ai",
+        "productivity",
+        "career",
+        "invest",
+        "founder",
+        "economy"
+      ]
     },
     {
       "id": "moneytalks_groww",
       "label": "Moneytalks",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ"
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ",
+      "match_terms": [
+        "moneytalks",
+        "wealth",
+        "finance",
+        "crore",
+        "invest",
+        "market",
+        "personal finance"
+      ]
     },
     {
-      "id": "ani_news",
-      "label": "ANI",
-      "category": "policy",
-      "category_label": "Policy",
+      "id": "zerodha_varsity",
+      "label": "Zerodha Varsity",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 900,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXwgooTlP6tk2a-u6vgyUA",
       "match_terms": [
-        "economy",
-        "economic",
-        "policy",
-        "rbi",
-        "budget",
+        "invest",
         "finance",
-        "market",
-        "investment",
+        "nps",
+        "emergency fund",
+        "mutual fund",
+        "etf",
+        "personal finance"
+      ]
+    },
+    {
+      "id": "think_school",
+      "label": "Think School",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
+      "match_terms": [
+        "business",
+        "economy",
+        "farming",
+        "budget",
+        "founder",
+        "masterclass",
+        "case study",
+        "india"
+      ]
+    },
+    {
+      "id": "nikhil_kamath",
+      "label": "Nikhil Kamath",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnC8SAZzQiBGYVSKZ_S3y4Q",
+      "match_terms": [
+        "wtf",
+        "people",
+        "episode",
+        "conversation",
+        "founder",
+        "influence",
+        "consumer",
+        "india"
+      ]
+    },
+    {
+      "id": "ranveer",
+      "label": "Ranveer",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
+      "match_terms": [
+        "podcast",
+        "trs",
         "health",
-        "ayush",
-        "ministry",
-        "green hydrogen",
-        "infrastructure"
-      ],
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg"
+        "fitness",
+        "doctor",
+        "history",
+        "geopolitics",
+        "business",
+        "science",
+        "parenting",
+        "psychology"
+      ]
+    },
+    {
+      "id": "dr_pal",
+      "label": "Dr Pal",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4k407eomZThGHo_9sgMkg",
+      "match_terms": [
+        "podcast",
+        "doctor",
+        "health",
+        "nutrition",
+        "gut",
+        "diet",
+        "women",
+        "fitness",
+        "wellness"
+      ]
     },
     {
       "id": "sastasundar",
       "label": "Health",
       "category": "health",
       "category_label": "Health",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ"
+      "weight": 1.05,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ",
+      "match_terms": [
+        "podcast",
+        "doctor",
+        "health",
+        "wellness",
+        "nutrition",
+        "intimacy"
+      ]
     },
     {
       "id": "gunjanshouts",
       "label": "Health",
       "category": "health",
       "category_label": "Health",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw"
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw",
+      "match_terms": [
+        "health",
+        "fitness",
+        "nutrition",
+        "mental",
+        "doctor",
+        "wellness"
+      ]
     },
     {
       "id": "bbc_world_service",
       "label": "BBC",
       "category": "science",
       "category_label": "Science",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA"
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "match_terms": [
+        "podcast",
+        "climate",
+        "world",
+        "science",
+        "health",
+        "technology",
+        "what in the world",
+        "question"
+      ]
     },
     {
       "id": "raj_shamani",
-      "label": "Ideas",
-      "category": "books",
+      "label": "Raj Shamani",
+      "category": "ideas",
       "category_label": "Ideas",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg"
+      "weight": 1.1,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg",
+      "match_terms": [
+        "podcast",
+        "founder",
+        "finance",
+        "business",
+        "health",
+        "doctor",
+        "psychology",
+        "economy",
+        "interview"
+      ]
+    },
+    {
+      "id": "seen_unseen",
+      "label": "Seen/Unseen",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.1,
+      "max_items": 2,
+      "fallback_duration": 5400,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdb70s_KLErbXcjxjhCFb1g",
+      "match_terms": [
+        "ep",
+        "episode",
+        "india",
+        "history",
+        "economics",
+        "society",
+        "politics"
+      ]
     }
   ],
   "positive_terms": [
-    "all india radio",
-    "akashvani",
-    "air news",
-    "spotlight",
     "podcast",
+    "episode",
     "interview",
+    "conversation",
     "discussion",
-    "explained",
     "analysis",
     "expert",
     "doctor",
     "health",
-    "mental health",
     "nutrition",
-    "preventive",
+    "fitness",
+    "wellness",
+    "mental health",
     "finance",
     "personal finance",
     "investing",
     "mutual fund",
     "markets",
+    "business",
     "economy",
+    "founder",
     "rbi",
     "policy",
     "public affairs",
+    "geopolitics",
+    "science",
+    "climate",
+    "technology",
     "research",
     "long form",
-    "conversation"
+    "masterclass",
+    "wtf",
+    "trs",
+    "market mantra",
+    "spotlight"
   ],
   "negative_terms": [
     "shorts",
     "#shorts",
     "reel",
+    "reels",
+    "clip",
+    "clips",
     "status",
+    "teaser",
+    "promo",
+    "trailer",
+    "stand-up",
+    "standup",
+    "comedy",
+    "comedian",
     "song",
     "music",
     "movie",
-    "trailer",
-    "comedy",
+    "film",
+    "vlog",
+    "reaction",
     "astrology",
     "horoscope",
     "miracle cure",
@@ -205,23 +426,30 @@
     "live trading",
     "breaking news live",
     "live stream",
-    "10 hours"
+    "press meet",
+    "joint press meet",
+    "sports scan",
+    "sanskrit news",
+    "employment news",
+    "headline",
+    "headlines",
+    "bulletin",
+    "news bulletin",
+    "viral",
+    "roast"
   ],
   "trusted_channels": [
-    "newsonairofficial",
-    "akashvani air",
-    "all india radio news",
-    "rbi",
-    "reserve bank of india",
-    "mint",
-    "moneycontrol",
-    "business standard",
-    "the hindu",
-    "indian express",
-    "the ken",
-    "seen and the unseen",
-    "ivar",
-    "lallantop",
-    "raj shamani"
+    "news on air official",
+    "akashvani",
+    "groww",
+    "zerodha varsity",
+    "think school",
+    "nikhil kamath",
+    "ranveer allahbadia",
+    "dr pal",
+    "sastasundar",
+    "bbc world service",
+    "raj shamani",
+    "the seen and the unseen"
   ]
 }

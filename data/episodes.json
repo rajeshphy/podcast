@@ -1,209 +1,31 @@
 {
-  "generated_at": "2026-07-07T02:38:38.144139+05:30",
+  "generated_at": "2026-07-07T23:59:35.902214+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
+  "min_duration_seconds": 600,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-06T02:38:38.144139+05:30",
+  "cutoff_time": "2026-07-06T23:59:35.902214+05:30",
   "episodes": [
     {
-      "id": "Q_Y7kgqdxwo",
-      "title": "Digital India: Empowering Citizens through Technology | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=Q_Y7kgqdxwo",
-      "embed_url": "https://www.youtube.com/embed/Q_Y7kgqdxwo",
-      "thumbnail": "https://i.ytimg.com/vi/Q_Y7kgqdxwo/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T22:30:45+05:30",
-      "published_ts": 1783357245,
-      "latest_rank": 1,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 26.2,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "3f0LJ4L3N2o",
-      "title": "Prime Minister’s Indonesia, Australia and New Zealand Visit and Its Strategic Significance | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=3f0LJ4L3N2o",
-      "embed_url": "https://www.youtube.com/embed/3f0LJ4L3N2o",
-      "thumbnail": "https://i.ytimg.com/vi/3f0LJ4L3N2o/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T21:36:18+05:30",
-      "published_ts": 1783353978,
-      "latest_rank": 2,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 25.4,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "pMSvoVJ2h6w",
-      "title": "PM Modi pays tributes to Dr Syama Prasad Mookerjee on his 125th birth anniversary | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=pMSvoVJ2h6w",
-      "embed_url": "https://www.youtube.com/embed/pMSvoVJ2h6w",
-      "thumbnail": "https://i.ytimg.com/vi/pMSvoVJ2h6w/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T21:32:56+05:30",
-      "published_ts": 1783353776,
-      "latest_rank": 3,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 24.6,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "FFboh65j9ds",
-      "title": "NEWS ON AIR OFFICIAL",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=FFboh65j9ds",
-      "embed_url": "https://www.youtube.com/embed/FFboh65j9ds",
-      "thumbnail": "https://i.ytimg.com/vi/FFboh65j9ds/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T21:18:52+05:30",
-      "published_ts": 1783352932,
-      "latest_rank": 4,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 23.8,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "AQyT6Az6Mms",
-      "title": "प्रधानमंत्री नरेंद्र मोदी तीन देशों के दौरे के पहले चरण में जकार्ता पहुँचे | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=AQyT6Az6Mms",
-      "embed_url": "https://www.youtube.com/embed/AQyT6Az6Mms",
-      "thumbnail": "https://i.ytimg.com/vi/AQyT6Az6Mms/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T21:15:00+05:30",
-      "published_ts": 1783352700,
-      "latest_rank": 5,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 23.0,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "DQlrIcGuUKI",
-      "title": "Sports Scan | 06 July 2026",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=DQlrIcGuUKI",
-      "embed_url": "https://www.youtube.com/embed/DQlrIcGuUKI",
-      "thumbnail": "https://i.ytimg.com/vi/DQlrIcGuUKI/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T21:03:14+05:30",
-      "published_ts": 1783351994,
-      "latest_rank": 7,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 21.4,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "IfDLX3SvX3M",
-      "title": "Why is West Africa experiencing extreme rainfall and floods - BBC World Service",
+      "id": "_XOBDjy1ovs",
+      "title": "How dangerous is extreme heat? - BBC World Service",
       "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=IfDLX3SvX3M",
-      "embed_url": "https://www.youtube.com/embed/IfDLX3SvX3M",
-      "thumbnail": "https://i.ytimg.com/vi/IfDLX3SvX3M/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T20:39:25+05:30",
-      "published_ts": 1783350565,
+      "url": "https://www.youtube.com/watch?v=_XOBDjy1ovs",
+      "embed_url": "https://www.youtube.com/embed/_XOBDjy1ovs",
+      "thumbnail": "https://i.ytimg.com/vi/_XOBDjy1ovs/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260707",
+      "published_at": "2026-07-07T20:42:44+05:30",
+      "published_ts": 1783437164,
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
       "query": "BBC",
-      "score": 26.2,
+      "score": 30.9,
       "method": "rss",
+      "duration_source": "feed_fallback",
       "feed_id": "bbc_world_service",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
       "categories": [
@@ -217,293 +39,24 @@
       ]
     },
     {
-      "id": "_Om_hP6hSCg",
-      "title": "Top 5 Mid Cap Funds by AUM | Mutual Funds Comparison | Best Mutual Funds Analysis",
-      "channel": "Mutual Funds with Groww",
-      "url": "https://www.youtube.com/watch?v=_Om_hP6hSCg",
-      "embed_url": "https://www.youtube.com/embed/_Om_hP6hSCg",
-      "thumbnail": "https://i.ytimg.com/vi/_Om_hP6hSCg/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T20:29:27+05:30",
-      "published_ts": 1783349967,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "MF Groww",
-      "score": 28.3,
-      "method": "rss",
-      "feed_id": "mutual_funds_groww",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "MF Groww"
-      ]
-    },
-    {
-      "id": "OEHnnkyzTM0",
-      "title": "NEWS ON AIR OFFICIAL",
+      "id": "9ImnwpuL-mE",
+      "title": "Exclusive Interview with Nagesh Singh, High Commissioner of India to Australia | 07 July",
       "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=OEHnnkyzTM0",
-      "embed_url": "https://www.youtube.com/embed/OEHnnkyzTM0",
-      "thumbnail": "https://i.ytimg.com/vi/OEHnnkyzTM0/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T20:01:13+05:30",
-      "published_ts": 1783348273,
-      "latest_rank": 8,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 20.6,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "EKHtFc5GcBE",
-      "title": "NEWS ON AIR OFFICIAL",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=EKHtFc5GcBE",
-      "embed_url": "https://www.youtube.com/embed/EKHtFc5GcBE",
-      "thumbnail": "https://i.ytimg.com/vi/EKHtFc5GcBE/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:54:18+05:30",
-      "published_ts": 1783347858,
-      "latest_rank": 6,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 22.2,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "tXmpf226efU",
-      "title": "प्रधानमंत्री की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की यात्रा - रणनीतिक महत्व | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=tXmpf226efU",
-      "embed_url": "https://www.youtube.com/embed/tXmpf226efU",
-      "thumbnail": "https://i.ytimg.com/vi/tXmpf226efU/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:53:54+05:30",
-      "published_ts": 1783347834,
-      "latest_rank": 9,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 19.8,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "-xbc7Yo3HlM",
-      "title": "NEWS ON AIR OFFICIAL",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=-xbc7Yo3HlM",
-      "embed_url": "https://www.youtube.com/embed/-xbc7Yo3HlM",
-      "thumbnail": "https://i.ytimg.com/vi/-xbc7Yo3HlM/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:50:32+05:30",
-      "published_ts": 1783347632,
-      "latest_rank": 10,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 19.0,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "JfKkGGOFWho",
-      "title": "PM मोदी बोले—'श्रेष्ठ भारत' के लिए जीवन समर्पित करें युवा",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/shorts/JfKkGGOFWho",
-      "embed_url": "https://www.youtube.com/embed/JfKkGGOFWho",
-      "thumbnail": "https://i.ytimg.com/vi/JfKkGGOFWho/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:38:37+05:30",
-      "published_ts": 1783346917,
-      "latest_rank": 11,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 18.2,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "1_VZ3qH2mzA",
-      "title": "डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर 2 वर्षीय राष्ट्रीय उत्सव: PM मोदी",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/shorts/1_VZ3qH2mzA",
-      "embed_url": "https://www.youtube.com/embed/1_VZ3qH2mzA",
-      "thumbnail": "https://i.ytimg.com/vi/1_VZ3qH2mzA/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:37:14+05:30",
-      "published_ts": 1783346834,
-      "latest_rank": 12,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 17.4,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "X8fVzSJtKXA",
-      "title": "Market Mantra | मार्केट मंत्रा | 06 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=X8fVzSJtKXA",
-      "embed_url": "https://www.youtube.com/embed/X8fVzSJtKXA",
-      "thumbnail": "https://i.ytimg.com/vi/X8fVzSJtKXA/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:37:07+05:30",
-      "published_ts": 1783346827,
-      "latest_rank": 13,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 16.6,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "bDKVaLcqetA",
-      "title": "PM मोदी ने डॉ. श्यामा प्रसाद मुखर्जी को 125वीं जयंती पर किया नमन",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/shorts/bDKVaLcqetA",
-      "embed_url": "https://www.youtube.com/embed/bDKVaLcqetA",
-      "thumbnail": "https://i.ytimg.com/vi/bDKVaLcqetA/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:35:59+05:30",
-      "published_ts": 1783346759,
-      "latest_rank": 14,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 15.8,
-      "method": "rss",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "8tWUsOJxdS4",
-      "title": "Sanskrit News | 06 July 2026",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=8tWUsOJxdS4",
-      "embed_url": "https://www.youtube.com/embed/8tWUsOJxdS4",
-      "thumbnail": "https://i.ytimg.com/vi/8tWUsOJxdS4/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:16:04+05:30",
-      "published_ts": 1783345564,
+      "url": "https://www.youtube.com/watch?v=9ImnwpuL-mE",
+      "embed_url": "https://www.youtube.com/embed/9ImnwpuL-mE",
+      "thumbnail": "https://i.ytimg.com/vi/9ImnwpuL-mE/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260707",
+      "published_at": "2026-07-07T20:14:47+05:30",
+      "published_ts": 1783435487,
       "latest_rank": 15,
       "category": "air",
       "category_label": "AIR",
       "query": "AIR",
-      "score": 15.0,
+      "score": 21.75,
       "method": "rss",
+      "duration_source": "feed_fallback",
       "feed_id": "news_on_air",
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
       "categories": [
@@ -517,123 +70,34 @@
       ]
     },
     {
-      "id": "jOMMZzL9yYk",
-      "title": "Making ₹1 Crore vs ₹10 Crore - What’s the Real Difference? | ft. Feroze Azeez",
-      "channel": "Moneytalks by Groww",
-      "url": "https://www.youtube.com/shorts/jOMMZzL9yYk",
-      "embed_url": "https://www.youtube.com/embed/jOMMZzL9yYk",
-      "thumbnail": "https://i.ytimg.com/vi/jOMMZzL9yYk/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T19:11:35+05:30",
-      "published_ts": 1783345295,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Moneytalks",
-      "score": 26.2,
+      "id": "0EOhz2ltIOc",
+      "title": "Jaya Kishori X Ranveer - God's Love, Marriage, Relationships, Parenting & Life | TRS",
+      "channel": "Ranveer Allahbadia",
+      "url": "https://www.youtube.com/watch?v=0EOhz2ltIOc",
+      "embed_url": "https://www.youtube.com/embed/0EOhz2ltIOc",
+      "thumbnail": "https://i.ytimg.com/vi/0EOhz2ltIOc/hqdefault.jpg",
+      "duration": 3600,
+      "duration_text": "1:00:00",
+      "published": "20260707",
+      "published_at": "2026-07-07T19:55:58+05:30",
+      "published_ts": 1783434358,
+      "latest_rank": 3,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Ranveer",
+      "score": 30.35,
       "method": "rss",
-      "feed_id": "moneytalks_groww",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ",
+      "duration_source": "feed_fallback",
+      "feed_id": "ranveer",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
       "categories": [
-        "finance"
+        "interviews"
       ],
       "category_labels": [
-        "Finance"
+        "Interviews"
       ],
       "queries": [
-        "Moneytalks"
-      ]
-    },
-    {
-      "id": "S5iZjol7sw8",
-      "title": "Indians are using Internet wrong | Kunal Shah on AI, Indian Youth, Productivity",
-      "channel": "Thrive by Groww",
-      "url": "https://www.youtube.com/shorts/S5iZjol7sw8",
-      "embed_url": "https://www.youtube.com/embed/S5iZjol7sw8",
-      "thumbnail": "https://i.ytimg.com/vi/S5iZjol7sw8/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T18:07:15+05:30",
-      "published_ts": 1783341435,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Thrive",
-      "score": 26.2,
-      "method": "rss",
-      "feed_id": "thrive_groww",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Thrive"
-      ]
-    },
-    {
-      "id": "sIz8hKNNpEE",
-      "title": "Vaginal Health, Intimacy & Wellness | Dr. Souvik Kumar Mondal | Cosmetic Gynaecology | #podcast",
-      "channel": "SastaSundar, Health & Happiness",
-      "url": "https://www.youtube.com/watch?v=sIz8hKNNpEE",
-      "embed_url": "https://www.youtube.com/embed/sIz8hKNNpEE",
-      "thumbnail": "https://i.ytimg.com/vi/sIz8hKNNpEE/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T18:00:18+05:30",
-      "published_ts": 1783341018,
-      "latest_rank": 2,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Health",
-      "score": 27.5,
-      "method": "rss",
-      "feed_id": "sastasundar",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ",
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Health"
-      ]
-    },
-    {
-      "id": "9deaC6XgoFw",
-      "title": "How to build a climate-friendly city - The Climate Question podcast, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=9deaC6XgoFw",
-      "embed_url": "https://www.youtube.com/embed/9deaC6XgoFw",
-      "thumbnail": "https://i.ytimg.com/vi/9deaC6XgoFw/hqdefault.jpg",
-      "duration": null,
-      "duration_text": "",
-      "published": "20260706",
-      "published_at": "2026-07-06T17:30:35+05:30",
-      "published_ts": 1783339235,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 26.45,
-      "method": "rss",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
+        "Ranveer"
       ]
     }
   ],
@@ -641,50 +105,50 @@
     {
       "id": "air",
       "label": "AIR",
-      "query": "All India Radio Akashvani News analysis interview",
-      "weight": 1.35
-    },
-    {
-      "id": "air_spotlight",
-      "label": "Spotlight",
-      "query": "All India Radio Spotlight discussion India economy health policy",
+      "query": "All India Radio Spotlight Market Mantra discussion analysis",
       "weight": 1.3
-    },
-    {
-      "id": "health",
-      "label": "Health",
-      "query": "India health podcast doctor preventive health nutrition mental health",
-      "weight": 1.25
     },
     {
       "id": "finance",
       "label": "Finance",
-      "query": "India finance podcast personal finance investing mutual funds economy",
+      "query": "India finance investing mutual funds podcast long discussion",
       "weight": 1.3
     },
     {
       "id": "markets",
       "label": "Markets",
-      "query": "India market outlook podcast investing economy expert interview",
-      "weight": 1.15
+      "query": "India markets business economy long podcast analysis",
+      "weight": 1.2
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "query": "India health doctor nutrition fitness mental health podcast",
+      "weight": 1.25
     },
     {
       "id": "policy",
       "label": "Policy",
-      "query": "India policy podcast economy public affairs expert discussion",
-      "weight": 1.1
+      "query": "India policy economy geopolitics public affairs long discussion",
+      "weight": 1.15
     },
     {
       "id": "science",
       "label": "Science",
-      "query": "India science podcast health technology research interview",
+      "query": "science health climate technology research podcast",
       "weight": 1.0
     },
     {
-      "id": "books",
+      "id": "ideas",
       "label": "Ideas",
-      "query": "India podcast books ideas society economics interview",
-      "weight": 0.95
+      "query": "India ideas society books long conversation podcast",
+      "weight": 1.0
+    },
+    {
+      "id": "interviews",
+      "label": "Interviews",
+      "query": "India founder creator expert interview long podcast",
+      "weight": 1.15
     }
   ],
   "rss_feeds": [
@@ -693,90 +157,290 @@
       "label": "AIR",
       "category": "air",
       "category_label": "AIR",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "match_terms": [
+        "market mantra",
+        "spotlight",
+        "discussion",
+        "analysis",
+        "interview"
+      ]
     },
     {
       "id": "news_on_air_spotlight",
       "label": "Spotlight",
-      "category": "air_spotlight",
-      "category_label": "Spotlight",
+      "category": "air",
+      "category_label": "AIR",
+      "weight": 1.35,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
       "match_terms": [
         "spotlight",
         "discussion",
         "analysis"
-      ],
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w"
+      ]
     },
     {
       "id": "mutual_funds_groww",
       "label": "MF Groww",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw"
+      "weight": 1.15,
+      "max_items": 3,
+      "fallback_duration": 900,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWW7i7KnwQfqp6HFg1diFw",
+      "match_terms": [
+        "mutual fund",
+        "invest",
+        "finance",
+        "wealth",
+        "portfolio",
+        "retire",
+        "nps",
+        "sip"
+      ]
     },
     {
       "id": "thrive_groww",
       "label": "Thrive",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw"
+      "weight": 1.15,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgzsMmQiwJsE9D43Qx2bBvw",
+      "match_terms": [
+        "finance",
+        "business",
+        "ai",
+        "productivity",
+        "career",
+        "invest",
+        "founder",
+        "economy"
+      ]
     },
     {
       "id": "moneytalks_groww",
       "label": "Moneytalks",
       "category": "finance",
       "category_label": "Finance",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ"
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuA2G-T1WmPRCHwDb713pVQ",
+      "match_terms": [
+        "moneytalks",
+        "wealth",
+        "finance",
+        "crore",
+        "invest",
+        "market",
+        "personal finance"
+      ]
     },
     {
-      "id": "ani_news",
-      "label": "ANI",
-      "category": "policy",
-      "category_label": "Policy",
+      "id": "zerodha_varsity",
+      "label": "Zerodha Varsity",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 900,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXwgooTlP6tk2a-u6vgyUA",
       "match_terms": [
-        "economy",
-        "economic",
-        "policy",
-        "rbi",
-        "budget",
+        "invest",
         "finance",
-        "market",
-        "investment",
+        "nps",
+        "emergency fund",
+        "mutual fund",
+        "etf",
+        "personal finance"
+      ]
+    },
+    {
+      "id": "think_school",
+      "label": "Think School",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.2,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
+      "match_terms": [
+        "business",
+        "economy",
+        "farming",
+        "budget",
+        "founder",
+        "masterclass",
+        "case study",
+        "india"
+      ]
+    },
+    {
+      "id": "nikhil_kamath",
+      "label": "Nikhil Kamath",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnC8SAZzQiBGYVSKZ_S3y4Q",
+      "match_terms": [
+        "wtf",
+        "people",
+        "episode",
+        "conversation",
+        "founder",
+        "influence",
+        "consumer",
+        "india"
+      ]
+    },
+    {
+      "id": "ranveer",
+      "label": "Ranveer",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
+      "match_terms": [
+        "podcast",
+        "trs",
         "health",
-        "ayush",
-        "ministry",
-        "green hydrogen",
-        "infrastructure"
-      ],
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtFQDgA8J8_iiwc5-KoAQlg"
+        "fitness",
+        "doctor",
+        "history",
+        "geopolitics",
+        "business",
+        "science",
+        "parenting",
+        "psychology"
+      ]
+    },
+    {
+      "id": "dr_pal",
+      "label": "Dr Pal",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.25,
+      "max_items": 3,
+      "fallback_duration": 1800,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4k407eomZThGHo_9sgMkg",
+      "match_terms": [
+        "podcast",
+        "doctor",
+        "health",
+        "nutrition",
+        "gut",
+        "diet",
+        "women",
+        "fitness",
+        "wellness"
+      ]
     },
     {
       "id": "sastasundar",
       "label": "Health",
       "category": "health",
       "category_label": "Health",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ"
+      "weight": 1.05,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtpyREKe4nFe-d7xAKyVECQ",
+      "match_terms": [
+        "podcast",
+        "doctor",
+        "health",
+        "wellness",
+        "nutrition",
+        "intimacy"
+      ]
     },
     {
       "id": "gunjanshouts",
       "label": "Health",
       "category": "health",
       "category_label": "Health",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw"
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKRpf_HZfpLwxuIgyeYnsVw",
+      "match_terms": [
+        "health",
+        "fitness",
+        "nutrition",
+        "mental",
+        "doctor",
+        "wellness"
+      ]
     },
     {
       "id": "bbc_world_service",
       "label": "BBC",
       "category": "science",
       "category_label": "Science",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA"
+      "weight": 1.0,
+      "max_items": 3,
+      "fallback_duration": 1200,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "match_terms": [
+        "podcast",
+        "climate",
+        "world",
+        "science",
+        "health",
+        "technology",
+        "what in the world",
+        "question"
+      ]
     },
     {
       "id": "raj_shamani",
-      "label": "Ideas",
-      "category": "books",
+      "label": "Raj Shamani",
+      "category": "ideas",
       "category_label": "Ideas",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg"
+      "weight": 1.1,
+      "max_items": 3,
+      "fallback_duration": 3600,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzwCEE_PchiBULMnAJqhGVg",
+      "match_terms": [
+        "podcast",
+        "founder",
+        "finance",
+        "business",
+        "health",
+        "doctor",
+        "psychology",
+        "economy",
+        "interview"
+      ]
+    },
+    {
+      "id": "seen_unseen",
+      "label": "Seen/Unseen",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.1,
+      "max_items": 2,
+      "fallback_duration": 5400,
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdb70s_KLErbXcjxjhCFb1g",
+      "match_terms": [
+        "ep",
+        "episode",
+        "india",
+        "history",
+        "economics",
+        "society",
+        "politics"
+      ]
     }
   ],
   "error": null,
