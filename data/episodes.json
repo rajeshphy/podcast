@@ -1,56 +1,25 @@
 {
-  "generated_at": "2026-07-08T02:32:55.948858+05:30",
+  "generated_at": "2026-07-09T02:11:32.928684+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
   "min_duration_seconds": 600,
   "evergreen_items_per_category": 2,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-07T02:32:55.948858+05:30",
+  "cutoff_time": "2026-07-08T02:11:32.928684+05:30",
   "episodes": [
     {
-      "id": "vRY3nBTzzKM",
-      "title": "Finding my Abusers: Surviving Russian Detention in Occupied Ukraine - BBC World Service Docs",
+      "id": "bF1gk5cv_L0",
+      "title": "China says no to AI boyfriends - BBC World Service",
       "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=vRY3nBTzzKM",
-      "embed_url": "https://www.youtube.com/embed/vRY3nBTzzKM",
-      "thumbnail": "https://i.ytimg.com/vi/vRY3nBTzzKM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bF1gk5cv_L0",
+      "embed_url": "https://www.youtube.com/embed/bF1gk5cv_L0",
+      "thumbnail": "https://i.ytimg.com/vi/bF1gk5cv_L0/hqdefault.jpg",
       "duration": 1200,
       "duration_text": "20:00",
       "published": "20260708",
-      "published_at": "2026-07-08T00:59:00+05:30",
-      "published_ts": 1783452540,
-      "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 30.9,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "_XOBDjy1ovs",
-      "title": "How dangerous is extreme heat? - BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=_XOBDjy1ovs",
-      "embed_url": "https://www.youtube.com/embed/_XOBDjy1ovs",
-      "thumbnail": "https://i.ytimg.com/vi/_XOBDjy1ovs/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260707",
-      "published_at": "2026-07-07T20:42:44+05:30",
-      "published_ts": 1783437164,
+      "published_at": "2026-07-08T21:56:21+05:30",
+      "published_ts": 1783527981,
       "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
@@ -71,34 +40,158 @@
       ]
     },
     {
-      "id": "0EOhz2ltIOc",
-      "title": "Jaya Kishori X Ranveer - God's Love, Marriage, Relationships, Parenting & Life | TRS",
-      "channel": "Ranveer Allahbadia",
-      "url": "https://www.youtube.com/watch?v=0EOhz2ltIOc",
-      "embed_url": "https://www.youtube.com/embed/0EOhz2ltIOc",
-      "thumbnail": "https://i.ytimg.com/vi/0EOhz2ltIOc/hqdefault.jpg",
-      "duration": 3600,
-      "duration_text": "1:00:00",
-      "published": "20260707",
-      "published_at": "2026-07-07T19:55:58+05:30",
-      "published_ts": 1783434358,
-      "latest_rank": 3,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Ranveer",
-      "score": 30.35,
+      "id": "Sy_FhoGSGs8",
+      "title": "India's Richest SCAM : With 81,000cr Why does Mumbai still look like a Poor African Country?",
+      "channel": "Think School",
+      "url": "https://www.youtube.com/watch?v=Sy_FhoGSGs8",
+      "embed_url": "https://www.youtube.com/embed/Sy_FhoGSGs8",
+      "thumbnail": "https://i.ytimg.com/vi/Sy_FhoGSGs8/hqdefault.jpg",
+      "duration": 1800,
+      "duration_text": "30:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T20:50:16+05:30",
+      "published_ts": 1783524016,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Think School",
+      "score": 32.5,
       "method": "rss",
       "duration_source": "feed_fallback",
-      "feed_id": "ranveer",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
+      "feed_id": "think_school",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "categories": [
-        "interviews"
+        "markets"
       ],
       "category_labels": [
-        "Interviews"
+        "Markets"
       ],
       "queries": [
-        "Ranveer"
+        "Think School"
+      ]
+    },
+    {
+      "id": "xibgOqfKRx0",
+      "title": "Market Mantra | मार्केट मंत्रा | 08 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=xibgOqfKRx0",
+      "embed_url": "https://www.youtube.com/embed/xibgOqfKRx0",
+      "thumbnail": "https://i.ytimg.com/vi/xibgOqfKRx0/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T19:32:44+05:30",
+      "published_ts": 1783519364,
+      "latest_rank": 15,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 21.75,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "j-mZyvmJ_1k",
+      "title": "How to Eat Nuts the Right Way (Doctor’s Simple Guide)| Dr Pal",
+      "channel": "Dr Pal",
+      "url": "https://www.youtube.com/watch?v=j-mZyvmJ_1k",
+      "embed_url": "https://www.youtube.com/embed/j-mZyvmJ_1k",
+      "thumbnail": "https://i.ytimg.com/vi/j-mZyvmJ_1k/hqdefault.jpg",
+      "duration": 1800,
+      "duration_text": "30:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T18:32:53+05:30",
+      "published_ts": 1783515773,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Dr Pal",
+      "score": 33.95,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "dr_pal",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4k407eomZThGHo_9sgMkg",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Dr Pal"
+      ]
+    },
+    {
+      "id": "yYd5a4o-fx0",
+      "title": "I donated my eggs to a stranger on the train - Lives Less Ordinary, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=yYd5a4o-fx0",
+      "embed_url": "https://www.youtube.com/embed/yYd5a4o-fx0",
+      "thumbnail": "https://i.ytimg.com/vi/yYd5a4o-fx0/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T17:30:17+05:30",
+      "published_ts": 1783512017,
+      "latest_rank": 3,
+      "category": "science",
+      "category_label": "Science",
+      "query": "BBC",
+      "score": 29.3,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "BBC"
+      ]
+    },
+    {
+      "id": "aaXA0NKLxak",
+      "title": "Thailand’s sex worker legal limbo - Asia Specific podcast, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=aaXA0NKLxak",
+      "embed_url": "https://www.youtube.com/embed/aaXA0NKLxak",
+      "thumbnail": "https://i.ytimg.com/vi/aaXA0NKLxak/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260708",
+      "published_at": "2026-07-08T04:30:25+05:30",
+      "published_ts": 1783465225,
+      "latest_rank": 5,
+      "category": "science",
+      "category_label": "Science",
+      "query": "BBC",
+      "score": 28.75,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "BBC"
       ]
     },
     {
@@ -496,9 +589,7 @@
       "query": "Evergreen",
       "score": 21.95,
       "method": "evergreen",
-      "duration_source": "feed_fallback",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "evergreen": true,
       "categories": [
         "air"
       ],
@@ -506,10 +597,8 @@
         "AIR"
       ],
       "queries": [
-        "AIR",
         "Evergreen"
-      ],
-      "evergreen": true
+      ]
     },
     {
       "id": "LqSEfz4YUFA",
