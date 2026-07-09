@@ -1,25 +1,149 @@
 {
-  "generated_at": "2026-07-09T02:11:32.928684+05:30",
+  "generated_at": "2026-07-10T02:30:52.422519+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
   "min_duration_seconds": 600,
   "evergreen_items_per_category": 2,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-08T02:11:32.928684+05:30",
+  "cutoff_time": "2026-07-09T02:30:52.422519+05:30",
   "episodes": [
     {
-      "id": "bF1gk5cv_L0",
-      "title": "China says no to AI boyfriends - BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=bF1gk5cv_L0",
-      "embed_url": "https://www.youtube.com/embed/bF1gk5cv_L0",
-      "thumbnail": "https://i.ytimg.com/vi/bF1gk5cv_L0/hqdefault.jpg",
+      "id": "Yi9robKgp9A",
+      "title": "Exclusive Interview with Muanpuii Saiawi, High Commissioner of India to New Zealand",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=Yi9robKgp9A",
+      "embed_url": "https://www.youtube.com/embed/Yi9robKgp9A",
+      "thumbnail": "https://i.ytimg.com/vi/Yi9robKgp9A/hqdefault.jpg",
       "duration": 1200,
       "duration_text": "20:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T21:56:21+05:30",
-      "published_ts": 1783527981,
+      "published": "20260709",
+      "published_at": "2026-07-09T21:37:44+05:30",
+      "published_ts": 1783613264,
+      "latest_rank": 5,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 29.75,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "9WCmdlhn_lc",
+      "title": "Are maybelaterships the new situationships? - BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=9WCmdlhn_lc",
+      "embed_url": "https://www.youtube.com/embed/9WCmdlhn_lc",
+      "thumbnail": "https://i.ytimg.com/vi/9WCmdlhn_lc/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260709",
+      "published_at": "2026-07-09T20:30:17+05:30",
+      "published_ts": 1783609217,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "BBC",
+      "score": 30.9,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "bbc_world_service",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "BBC"
+      ]
+    },
+    {
+      "id": "GpUvL3Tzsr8",
+      "title": "2026 FIFA World Cup Review Ft. @Markaroni & @DrogBABA on TRS | Messi, Ronaldo, Mbappe & Haaland",
+      "channel": "Ranveer Allahbadia",
+      "url": "https://www.youtube.com/watch?v=GpUvL3Tzsr8",
+      "embed_url": "https://www.youtube.com/embed/GpUvL3Tzsr8",
+      "thumbnail": "https://i.ytimg.com/vi/GpUvL3Tzsr8/hqdefault.jpg",
+      "duration": 3600,
+      "duration_text": "1:00:00",
+      "published": "20260709",
+      "published_at": "2026-07-09T20:03:18+05:30",
+      "published_ts": 1783607598,
+      "latest_rank": 5,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Ranveer",
+      "score": 28.75,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "ranveer",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Ranveer"
+      ]
+    },
+    {
+      "id": "pfzF4HMaQRQ",
+      "title": "Market Mantra | मार्केट मंत्रा | 09 July",
+      "channel": "NEWS ON AIR OFFICIAL",
+      "url": "https://www.youtube.com/watch?v=pfzF4HMaQRQ",
+      "embed_url": "https://www.youtube.com/embed/pfzF4HMaQRQ",
+      "thumbnail": "https://i.ytimg.com/vi/pfzF4HMaQRQ/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260709",
+      "published_at": "2026-07-09T19:17:45+05:30",
+      "published_ts": 1783604865,
+      "latest_rank": 13,
+      "category": "air",
+      "category_label": "AIR",
+      "query": "AIR",
+      "score": 23.35,
+      "method": "rss",
+      "duration_source": "feed_fallback",
+      "feed_id": "news_on_air",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
+      "categories": [
+        "air"
+      ],
+      "category_labels": [
+        "AIR"
+      ],
+      "queries": [
+        "AIR"
+      ]
+    },
+    {
+      "id": "ePt6fK8cusU",
+      "title": "Think situationships are confusing? Meet the 'maybelatership' - What in the World, BBC World Service",
+      "channel": "BBC World Service",
+      "url": "https://www.youtube.com/watch?v=ePt6fK8cusU",
+      "embed_url": "https://www.youtube.com/embed/ePt6fK8cusU",
+      "thumbnail": "https://i.ytimg.com/vi/ePt6fK8cusU/hqdefault.jpg",
+      "duration": 1200,
+      "duration_text": "20:00",
+      "published": "20260709",
+      "published_at": "2026-07-09T17:30:10+05:30",
+      "published_ts": 1783598410,
       "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
@@ -40,146 +164,22 @@
       ]
     },
     {
-      "id": "Sy_FhoGSGs8",
-      "title": "India's Richest SCAM : With 81,000cr Why does Mumbai still look like a Poor African Country?",
-      "channel": "Think School",
-      "url": "https://www.youtube.com/watch?v=Sy_FhoGSGs8",
-      "embed_url": "https://www.youtube.com/embed/Sy_FhoGSGs8",
-      "thumbnail": "https://i.ytimg.com/vi/Sy_FhoGSGs8/hqdefault.jpg",
-      "duration": 1800,
-      "duration_text": "30:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T20:50:16+05:30",
-      "published_ts": 1783524016,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Think School",
-      "score": 32.5,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "think_school",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Think School"
-      ]
-    },
-    {
-      "id": "xibgOqfKRx0",
-      "title": "Market Mantra | मार्केट मंत्रा | 08 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=xibgOqfKRx0",
-      "embed_url": "https://www.youtube.com/embed/xibgOqfKRx0",
-      "thumbnail": "https://i.ytimg.com/vi/xibgOqfKRx0/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T19:32:44+05:30",
-      "published_ts": 1783519364,
-      "latest_rank": 15,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 21.75,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "j-mZyvmJ_1k",
-      "title": "How to Eat Nuts the Right Way (Doctor’s Simple Guide)| Dr Pal",
-      "channel": "Dr Pal",
-      "url": "https://www.youtube.com/watch?v=j-mZyvmJ_1k",
-      "embed_url": "https://www.youtube.com/embed/j-mZyvmJ_1k",
-      "thumbnail": "https://i.ytimg.com/vi/j-mZyvmJ_1k/hqdefault.jpg",
-      "duration": 1800,
-      "duration_text": "30:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T18:32:53+05:30",
-      "published_ts": 1783515773,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Dr Pal",
-      "score": 33.95,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "dr_pal",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP4k407eomZThGHo_9sgMkg",
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Dr Pal"
-      ]
-    },
-    {
-      "id": "yYd5a4o-fx0",
-      "title": "I donated my eggs to a stranger on the train - Lives Less Ordinary, BBC World Service",
+      "id": "2Ywo6HPDZ84",
+      "title": "What do World Cup footballers eat? - The Food Chain podcast, BBC World Service",
       "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=yYd5a4o-fx0",
-      "embed_url": "https://www.youtube.com/embed/yYd5a4o-fx0",
-      "thumbnail": "https://i.ytimg.com/vi/yYd5a4o-fx0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2Ywo6HPDZ84",
+      "embed_url": "https://www.youtube.com/embed/2Ywo6HPDZ84",
+      "thumbnail": "https://i.ytimg.com/vi/2Ywo6HPDZ84/hqdefault.jpg",
       "duration": 1200,
       "duration_text": "20:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T17:30:17+05:30",
-      "published_ts": 1783512017,
-      "latest_rank": 3,
+      "published": "20260709",
+      "published_at": "2026-07-09T04:30:34+05:30",
+      "published_ts": 1783551634,
+      "latest_rank": 4,
       "category": "science",
       "category_label": "Science",
       "query": "BBC",
-      "score": 29.3,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "aaXA0NKLxak",
-      "title": "Thailand’s sex worker legal limbo - Asia Specific podcast, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=aaXA0NKLxak",
-      "embed_url": "https://www.youtube.com/embed/aaXA0NKLxak",
-      "thumbnail": "https://i.ytimg.com/vi/aaXA0NKLxak/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260708",
-      "published_at": "2026-07-08T04:30:25+05:30",
-      "published_ts": 1783465225,
-      "latest_rank": 5,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 28.75,
+      "score": 29.55,
       "method": "rss",
       "duration_source": "feed_fallback",
       "feed_id": "bbc_world_service",
