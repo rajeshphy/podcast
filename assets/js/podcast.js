@@ -168,6 +168,12 @@
       evergreen.textContent = "Evergreen";
       chips.append(evergreen);
     }
+    if (episode.backfill) {
+      const backfill = document.createElement("span");
+      backfill.className = "chip";
+      backfill.textContent = "Latest";
+      chips.append(backfill);
+    }
     for (const label of episode.category_labels || []) {
       const chip = document.createElement("span");
       chip.className = "chip";

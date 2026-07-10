@@ -1,13 +1,79 @@
 {
-  "generated_at": "2026-07-10T20:04:27.267707+05:30",
+  "generated_at": "2026-07-10T20:18:09.455095+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
+  "category_backfill_hours": 720,
+  "backfill_items_per_category": 1,
   "min_duration_seconds": 600,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-09T20:04:27.267707+05:30",
+  "cutoff_time": "2026-07-09T20:18:09.455095+05:30",
   "episodes": [
+    {
+      "id": "e90dcc9fd5e7b4d1",
+      "title": "Briefing Chat: The 30 year-legacy of a science icon – Dolly the sheep",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02185-1",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a50f968e31e37bb565a41b7/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1783691095467-32c1ab09-fab0-4b6a-8483-a1f6c1046b62.jpeg",
+      "duration": 603,
+      "duration_text": "10:03",
+      "published": "20260710",
+      "published_at": "2026-07-10T19:23:43+05:30",
+      "published_ts": 1783691623,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 33.1,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "971803895d88ecf1",
+      "title": "Inside Africa's Biggest Slum (1 Million People)",
+      "channel": "Ranveer Show",
+      "url": "https://the-ranveer-show.simplecast.com/episodes/inside-africas-biggest-slum-1-million-people-c9naLitc",
+      "audio_url": "https://chtbl.com/track/67CA4G/cdn.simplecast.com/media/audio/transcoded/898e20f3-b9f4-4c6e-bcee-43fc9239f86e/a4c022ca-6988-4cf6-98f6-5b98210d01b4/episodes/audio/group/0be4d9d2-1f88-4cf1-9cdd-8300d5ec6c58/group-item/18d28c53-e046-4c64-ac67-276cb89c292a/128_default_tc.mp3?aid=rss_feed&feed=7PWFZi_d",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://image.simplecastcdn.com/images/6c0ffcab-1640-429f-b7a6-62df20b25024/368baa2a-d129-45f5-be91-9c2b360b3b04/3000x3000/image_1.jpg?aid=rss_feed",
+      "duration": 780,
+      "duration_text": "13:00",
+      "published": "20260710",
+      "published_at": "2026-07-10T17:22:59+05:30",
+      "published_ts": 1783684379,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Ranveer Show",
+      "score": 30.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_show_audio",
+      "feed_url": "https://feeds.simplecast.com/7PWFZi_d",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Ranveer Show"
+      ]
+    },
     {
       "id": "e3c66d65171dfcd8",
       "title": "Miss a smartphone EMI, and your lender can now wirelessly strip the ‘smart’ out of it",
@@ -70,6 +136,138 @@
       ],
       "queries": [
         "ET Morning Brief"
+      ]
+    },
+    {
+      "id": "51db0a35d830250b",
+      "title": "2026 FIFA World Cup Review Ft. Markaroni & Drog BABA on TRS | Messi, Ronaldo, Mbappe & Haaland",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/2026-FIFA-World-Cup-Review-Ft--Markaroni---Drog-BABA--on-TRS--Messi--Ronaldo--Mbappe--Haaland-e3ls643",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122607171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F427653764-44100-2-6566fc2bb5b5.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1783662786487-994e670d3e81d.jpg",
+      "duration": 4134,
+      "duration_text": "1:08:54",
+      "published": "20260709",
+      "published_at": "2026-07-09T20:07:29+05:30",
+      "published_ts": 1783607849,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 30.35,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "9cab6d0d34e31665",
+      "title": "How India Moved From Saving to Investing According to a Mutual Fund CEO | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/how-india-moved-from-saving-to-investing-according-to-a-mutual-fund-ceo-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a5cb41b8-70ee-44ce-8de8-b47e016de85c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a5cb41b8-70ee-44ce-8de8-b47e016de85c/image.jpg?t=1783290795&size=Large",
+      "duration": 2006,
+      "duration_text": "33:26",
+      "published": "20260706",
+      "published_at": "2026-07-06T06:00:00+05:30",
+      "published_ts": 1783297800,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Latest in category",
+      "score": 33.8,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "3ef95cb36d2a9039",
+      "title": "Rahul Sagar on the Birth of Indian Nationalism",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/rahul-sagar-on-the-birth-of-indian-nationalism",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-138-RahulSagar-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/6/7/1/4/67149b1df1f2518416c3140a3186d450/IOI-138-RahulSagar-LibsynGraphic.png",
+      "duration": 3813,
+      "duration_text": "1:03:33",
+      "published": "20260702",
+      "published_at": "2026-07-02T16:30:00+05:30",
+      "published_ts": 1782990000,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Latest in category",
+      "score": 30.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "c5c3149b8b00a07f",
+      "title": "Abundance vs Scarcity: We Built 20 Brands With 30 Strangers In 90 Days | The Foundery",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/abundance-vs-scarcity-we-built-20-brands-with-30-strangers-in-90-days-the-foundery/33019619",
+      "audio_url": "https://play.hubhopper.com/3c9da4c54926d2ba542b979ce115c4f6.mp3?s=rss-feed&v=0e88ea6233b1",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 5739,
+      "duration_text": "1:35:39",
+      "published": "20260626",
+      "published_at": "2026-06-26T21:30:41+05:30",
+      "published_ts": 1782489641,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Latest in category",
+      "score": 33.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "backfill": true,
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Latest in category"
       ]
     }
   ],
@@ -206,6 +404,24 @@
       "url": "https://rss.libsyn.com/shows/397004/destinations/3264491.xml"
     },
     {
+      "id": "nature_podcast",
+      "label": "Nature",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.2,
+      "max_items": 3,
+      "url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f"
+    },
+    {
+      "id": "bbc_science_action",
+      "label": "Science in Action",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://podcasts.files.bbci.co.uk/p002vsnb.rss"
+    },
+    {
       "id": "ideas_of_india",
       "label": "Ideas of India",
       "category": "policy",
@@ -222,6 +438,51 @@
       "weight": 1.05,
       "max_items": 3,
       "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss"
+    },
+    {
+      "id": "wtf_nikhil_kamath",
+      "label": "Nikhil Kamath",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.25,
+      "max_items": 3,
+      "url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss"
+    },
+    {
+      "id": "people_by_wtf",
+      "label": "People by WTF",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.2,
+      "max_items": 3,
+      "url": "https://feeds.hubhopper.com/db41907e6c28518ffe336b392c715ef1.rss"
+    },
+    {
+      "id": "ranveer_show_audio",
+      "label": "Ranveer Show",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://feeds.simplecast.com/7PWFZi_d",
+      "match_terms": [
+        "health",
+        "fitness",
+        "doctor",
+        "wellness",
+        "mental",
+        "nutrition",
+        "psychology"
+      ]
+    },
+    {
+      "id": "ranveer_hindi_audio",
+      "label": "Ranveer Hindi",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.05,
+      "max_items": 3,
+      "url": "https://anchor.fm/s/f5d53400/podcast/rss"
     },
     {
       "id": "news_on_air",

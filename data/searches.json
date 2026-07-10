@@ -9,6 +9,8 @@
     "max_results_per_query": 8,
     "search_sort": "date",
     "recent_hours": 24,
+    "category_backfill_hours": 720,
+    "backfill_items_per_category": 1,
     "youtube_search_enabled": false,
     "audio_only": true,
     "max_items_per_feed": 4,
@@ -148,6 +150,24 @@
       "url": "https://rss.libsyn.com/shows/397004/destinations/3264491.xml"
     },
     {
+      "id": "nature_podcast",
+      "label": "Nature",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.2,
+      "max_items": 3,
+      "url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f"
+    },
+    {
+      "id": "bbc_science_action",
+      "label": "Science in Action",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://podcasts.files.bbci.co.uk/p002vsnb.rss"
+    },
+    {
       "id": "ideas_of_india",
       "label": "Ideas of India",
       "category": "policy",
@@ -164,6 +184,51 @@
       "weight": 1.05,
       "max_items": 3,
       "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss"
+    },
+    {
+      "id": "wtf_nikhil_kamath",
+      "label": "Nikhil Kamath",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.25,
+      "max_items": 3,
+      "url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss"
+    },
+    {
+      "id": "people_by_wtf",
+      "label": "People by WTF",
+      "category": "interviews",
+      "category_label": "Interviews",
+      "weight": 1.2,
+      "max_items": 3,
+      "url": "https://feeds.hubhopper.com/db41907e6c28518ffe336b392c715ef1.rss"
+    },
+    {
+      "id": "ranveer_show_audio",
+      "label": "Ranveer Show",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://feeds.simplecast.com/7PWFZi_d",
+      "match_terms": [
+        "health",
+        "fitness",
+        "doctor",
+        "wellness",
+        "mental",
+        "nutrition",
+        "psychology"
+      ]
+    },
+    {
+      "id": "ranveer_hindi_audio",
+      "label": "Ranveer Hindi",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.05,
+      "max_items": 3,
+      "url": "https://anchor.fm/s/f5d53400/podcast/rss"
     },
     {
       "id": "news_on_air",

@@ -557,6 +557,16 @@ def merge_episode(existing: dict, incoming: dict) -> dict:
     return merged
 
 
+def store_episode(episodes_by_id: dict[str, dict], episode: dict) -> None:
+    existing = episodes_by_id.get(episode["id"])
+    episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
+        **episode,
+        "categories": [episode["category"]],
+        "category_labels": [episode["category_label"]],
+        "queries": [episode["query"]],
+    }
+
+
 def main() -> int:
     config = load_json(CONFIG_PATH, {})
     portal = config.get("portal", {})
@@ -567,6 +577,8 @@ def main() -> int:
     duration_timeout = int(os.environ.get("PODCAST_DURATION_TIMEOUT") or 15)
     sort_mode = str(os.environ.get("PODCAST_SEARCH_SORT") or portal.get("search_sort") or "date").lower()
     recent_hours = int(os.environ.get("PODCAST_RECENT_HOURS") or portal.get("recent_hours") or 24)
+    category_backfill_hours = int(portal.get("category_backfill_hours") or recent_hours)
+    backfill_items_per_category = int(portal.get("backfill_items_per_category") or 1)
     youtube_search_enabled = str(
         os.environ.get("PODCAST_YOUTUBE_SEARCH_ENABLED", portal.get("youtube_search_enabled", False))
     ).lower() in {"1", "true", "yes", "on"}
@@ -583,15 +595,50 @@ def main() -> int:
             continue
         try:
             for episode in feed_items(feed, config, cutoff_time, timezone, timeout, duration_cache, duration_timeout):
-                existing = episodes_by_id.get(episode["id"])
-                episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
-                    **episode,
-                    "categories": [episode["category"]],
-                    "category_labels": [episode["category_label"]],
-                    "queries": [episode["query"]],
-                }
+                store_episode(episodes_by_id, episode)
         except Exception as exc:
             errors.append(f"{feed.get('id') or feed.get('url')}: {type(exc).__name__}: {exc}")
+
+    if backfill_items_per_category > 0 and category_backfill_hours > recent_hours:
+        direct_feed_categories = {
+            clean_text(feed.get("category"))
+            for feed in config.get("rss_feeds", [])
+            if clean_text(feed.get("category")) and "youtube.com/feeds/videos.xml" not in clean_text(feed.get("url"))
+        }
+        desired_categories = [
+            clean_text(search.get("id"))
+            for search in config.get("searches", [])
+            if clean_text(search.get("id")) in direct_feed_categories
+        ]
+        filled_categories = {
+            category
+            for episode in episodes_by_id.values()
+            for category in (episode.get("categories") or [episode.get("category")])
+            if category
+        }
+        missing_categories = [category for category in desired_categories if category not in filled_categories]
+        backfill_counts: dict[str, int] = {category: 0 for category in missing_categories}
+        backfill_cutoff = now - timedelta(hours=category_backfill_hours)
+        for feed in config.get("rss_feeds", []):
+            category = clean_text(feed.get("category"))
+            if category not in missing_categories:
+                continue
+            if audio_only and "youtube.com/feeds/videos.xml" in clean_text(feed.get("url")):
+                continue
+            if backfill_counts.get(category, 0) >= backfill_items_per_category:
+                continue
+            try:
+                for episode in feed_items(feed, config, backfill_cutoff, timezone, timeout, duration_cache, duration_timeout):
+                    category = clean_text(episode.get("category"))
+                    if category not in missing_categories or backfill_counts.get(category, 0) >= backfill_items_per_category:
+                        continue
+                    episode["backfill"] = True
+                    episode["query"] = "Latest in category"
+                    episode["score"] = round(float(episode.get("score", 0)) - 0.5, 3)
+                    store_episode(episodes_by_id, episode)
+                    backfill_counts[category] = backfill_counts.get(category, 0) + 1
+            except Exception as exc:
+                errors.append(f"{feed.get('id') or feed.get('url')} backfill: {type(exc).__name__}: {exc}")
 
     if youtube_search_enabled:
         for search in config.get("searches", []):
@@ -608,13 +655,7 @@ def main() -> int:
                 episode = episode_from_entry(entry, search, config, rank, cutoff_time, timezone)
                 if not episode:
                     continue
-                existing = episodes_by_id.get(episode["id"])
-                episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
-                    **episode,
-                    "categories": [episode["category"]],
-                    "category_labels": [episode["category_label"]],
-                    "queries": [episode["query"]],
-                }
+                store_episode(episodes_by_id, episode)
 
     evergreen_limit = 0 if audio_only else int(portal.get("evergreen_items_per_category", 2))
     evergreen_counts: dict[str, int] = {}
@@ -626,13 +667,7 @@ def main() -> int:
         if not episode:
             continue
         evergreen_counts[category] = evergreen_counts.get(category, 0) + 1
-        existing = episodes_by_id.get(episode["id"])
-        episodes_by_id[episode["id"]] = merge_episode(existing, episode) if existing else {
-            **episode,
-            "categories": [episode["category"]],
-            "category_labels": [episode["category_label"]],
-            "queries": [episode["query"]],
-        }
+        store_episode(episodes_by_id, episode)
 
     sorted_episodes = sorted(
         episodes_by_id.values(),
@@ -655,6 +690,8 @@ def main() -> int:
         "mode": "latest",
         "search_sort": sort_mode,
         "recent_hours": recent_hours,
+        "category_backfill_hours": category_backfill_hours,
+        "backfill_items_per_category": backfill_items_per_category,
         "min_duration_seconds": int(portal.get("min_duration_seconds") or 600),
         "evergreen_items_per_category": evergreen_limit,
         "youtube_search_enabled": youtube_search_enabled,
