@@ -10,6 +10,7 @@
     "search_sort": "date",
     "recent_hours": 24,
     "youtube_search_enabled": false,
+    "audio_only": true,
     "max_items_per_feed": 4,
     "min_duration_seconds": 600,
     "evergreen_items_per_category": 2
@@ -65,6 +66,105 @@
     }
   ],
   "rss_feeds": [
+    {
+      "id": "paisa_vaisa",
+      "label": "Paisa Vaisa",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.35,
+      "max_items": 4,
+      "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss"
+    },
+    {
+      "id": "morning_brief_et",
+      "label": "ET Morning Brief",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.4,
+      "max_items": 4,
+      "url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss"
+    },
+    {
+      "id": "daybreak_ken",
+      "label": "Daybreak",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.25,
+      "max_items": 3,
+      "url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb"
+    },
+    {
+      "id": "core_india_economy",
+      "label": "India Economy",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.15,
+      "max_items": 3,
+      "url": "https://anchor.fm/s/fb4a3980/podcast/rss"
+    },
+    {
+      "id": "capitalmind",
+      "label": "Capitalmind",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.25,
+      "max_items": 4,
+      "url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml"
+    },
+    {
+      "id": "health_wealth",
+      "label": "Health Wealth",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.25,
+      "max_items": 4,
+      "url": "https://www.spreaker.com/show/5918323/episodes/feed"
+    },
+    {
+      "id": "third_opinion",
+      "label": "3rd Opinion",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.15,
+      "max_items": 3,
+      "url": "https://www.spreaker.com/show/6832094/episodes/feed"
+    },
+    {
+      "id": "nature_india",
+      "label": "Nature India",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.15,
+      "max_items": 4,
+      "url": "https://feeds.acast.com/public/shows/1fc86039-894c-5373-b0c1-956f6b5d49b7"
+    },
+    {
+      "id": "mongabay_india",
+      "label": "Mongabay India",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://rss.libsyn.com/shows/397004/destinations/3264491.xml"
+    },
+    {
+      "id": "ideas_of_india",
+      "label": "Ideas of India",
+      "category": "policy",
+      "category_label": "Policy",
+      "weight": 1.2,
+      "max_items": 4,
+      "url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml"
+    },
+    {
+      "id": "century_of_stories",
+      "label": "A Century Of Stories",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.05,
+      "max_items": 3,
+      "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss"
+    },
     {
       "id": "news_on_air",
       "label": "AIR",

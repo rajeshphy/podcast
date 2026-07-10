@@ -1,363 +1,35 @@
 {
-  "generated_at": "2026-07-10T02:30:52.422519+05:30",
+  "generated_at": "2026-07-10T20:02:38.894876+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
   "min_duration_seconds": 600,
-  "evergreen_items_per_category": 2,
+  "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-09T02:30:52.422519+05:30",
+  "cutoff_time": "2026-07-09T20:02:38.894876+05:30",
   "episodes": [
     {
-      "id": "Yi9robKgp9A",
-      "title": "Exclusive Interview with Muanpuii Saiawi, High Commissioner of India to New Zealand",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=Yi9robKgp9A",
-      "embed_url": "https://www.youtube.com/embed/Yi9robKgp9A",
-      "thumbnail": "https://i.ytimg.com/vi/Yi9robKgp9A/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T21:37:44+05:30",
-      "published_ts": 1783613264,
-      "latest_rank": 5,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 29.75,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "9WCmdlhn_lc",
-      "title": "Are maybelaterships the new situationships? - BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=9WCmdlhn_lc",
-      "embed_url": "https://www.youtube.com/embed/9WCmdlhn_lc",
-      "thumbnail": "https://i.ytimg.com/vi/9WCmdlhn_lc/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T20:30:17+05:30",
-      "published_ts": 1783609217,
+      "id": "e3c66d65171dfcd8",
+      "title": "Miss a smartphone EMI, and your lender can now wirelessly strip the ‘smart’ out of it",
+      "channel": "Daybreak",
+      "url": "https://share.transistor.fm/s/47d102e3",
+      "audio_url": "https://media.transistor.fm/47d102e3/4fceecea.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://img.transistorcdn.com/34EYNAXeMZT5IctnPOvOgJpsEvW-RwdblC7WGlucN1s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYjNk/ZmFiMjVlMDEwN2Mz/MTY5MTVhZGJhMGQw/MzgxNy5wbmc.jpg",
+      "duration": 1443,
+      "duration_text": "24:03",
+      "published": "20260710",
+      "published_at": "2026-07-10T06:30:49+05:30",
+      "published_ts": 1783645249,
       "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 30.9,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "GpUvL3Tzsr8",
-      "title": "2026 FIFA World Cup Review Ft. @Markaroni & @DrogBABA on TRS | Messi, Ronaldo, Mbappe & Haaland",
-      "channel": "Ranveer Allahbadia",
-      "url": "https://www.youtube.com/watch?v=GpUvL3Tzsr8",
-      "embed_url": "https://www.youtube.com/embed/GpUvL3Tzsr8",
-      "thumbnail": "https://i.ytimg.com/vi/GpUvL3Tzsr8/hqdefault.jpg",
-      "duration": 3600,
-      "duration_text": "1:00:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T20:03:18+05:30",
-      "published_ts": 1783607598,
-      "latest_rank": 5,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Ranveer",
-      "score": 28.75,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "ranveer",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCneyi-aYq4VIBYIAQgWmk_w",
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
-      ],
-      "queries": [
-        "Ranveer"
-      ]
-    },
-    {
-      "id": "pfzF4HMaQRQ",
-      "title": "Market Mantra | मार्केट मंत्रा | 09 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=pfzF4HMaQRQ",
-      "embed_url": "https://www.youtube.com/embed/pfzF4HMaQRQ",
-      "thumbnail": "https://i.ytimg.com/vi/pfzF4HMaQRQ/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T19:17:45+05:30",
-      "published_ts": 1783604865,
-      "latest_rank": 13,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "AIR",
-      "score": 23.35,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "news_on_air",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYOv0QZr2B70Rkx_ZqIA84w",
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "AIR"
-      ]
-    },
-    {
-      "id": "ePt6fK8cusU",
-      "title": "Think situationships are confusing? Meet the 'maybelatership' - What in the World, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=ePt6fK8cusU",
-      "embed_url": "https://www.youtube.com/embed/ePt6fK8cusU",
-      "thumbnail": "https://i.ytimg.com/vi/ePt6fK8cusU/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T17:30:10+05:30",
-      "published_ts": 1783598410,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 30.1,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "2Ywo6HPDZ84",
-      "title": "What do World Cup footballers eat? - The Food Chain podcast, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=2Ywo6HPDZ84",
-      "embed_url": "https://www.youtube.com/embed/2Ywo6HPDZ84",
-      "thumbnail": "https://i.ytimg.com/vi/2Ywo6HPDZ84/hqdefault.jpg",
-      "duration": 1200,
-      "duration_text": "20:00",
-      "published": "20260709",
-      "published_at": "2026-07-09T04:30:34+05:30",
-      "published_ts": 1783551634,
-      "latest_rank": 4,
-      "category": "science",
-      "category_label": "Science",
-      "query": "BBC",
-      "score": 29.55,
-      "method": "rss",
-      "duration_source": "feed_fallback",
-      "feed_id": "bbc_world_service",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "scKXvnWCRW4",
-      "title": "₹5000 Crore Wealth Manager’s Stock Playbook in 72 Mins | Melody, SpaceX, Next Sectors & Framework",
-      "channel": "Moneytalks by Groww",
-      "url": "https://www.youtube.com/watch?v=scKXvnWCRW4",
-      "embed_url": "https://www.youtube.com/embed/scKXvnWCRW4",
-      "thumbnail": "https://i.ytimg.com/vi/scKXvnWCRW4/hqdefault.jpg",
-      "duration": 4364,
-      "duration_text": "1:12:44",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Evergreen",
-      "score": 33.1,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "altjt8zrCLc",
-      "title": "How To Stay Healthy & Fit Even If You Have No Time",
-      "channel": "Dr Pal",
-      "url": "https://www.youtube.com/watch?v=altjt8zrCLc",
-      "embed_url": "https://www.youtube.com/embed/altjt8zrCLc",
-      "thumbnail": "https://i.ytimg.com/vi/altjt8zrCLc/hqdefault.jpg",
-      "duration": 3696,
-      "duration_text": "1:01:36",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 3,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Evergreen",
-      "score": 32.55,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "CJmxHtZEsKA",
-      "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
-      "channel": "Moneytalks by Groww",
-      "url": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
-      "embed_url": "https://www.youtube.com/embed/CJmxHtZEsKA",
-      "thumbnail": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg",
-      "duration": 4069,
-      "duration_text": "1:07:49",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 2,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Evergreen",
-      "score": 32.3,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "WNGAQxVQPQE",
-      "title": "Is there a link between our gut and mental health? - CrowdScience podcast, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=WNGAQxVQPQE",
-      "embed_url": "https://www.youtube.com/embed/WNGAQxVQPQE",
-      "thumbnail": "https://i.ytimg.com/vi/WNGAQxVQPQE/hqdefault.jpg",
-      "duration": 1549,
-      "duration_text": "25:49",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 9,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Evergreen",
-      "score": 30.9,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "A9OUgk3H4AY",
-      "title": "Gut Health & Weight Loss Secrets: Dr Pal Reveals the Science Behind Cravings | TRS",
-      "channel": "BeerBiceps",
-      "url": "https://www.youtube.com/watch?v=A9OUgk3H4AY",
-      "embed_url": "https://www.youtube.com/embed/A9OUgk3H4AY",
-      "thumbnail": "https://i.ytimg.com/vi/A9OUgk3H4AY/hqdefault.jpg",
-      "duration": 6245,
-      "duration_text": "1:44:05",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 4,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Evergreen",
-      "score": 30.8,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "gLeMTK3PeC8",
-      "title": "10X Your BUSINESS and Build POWERFUL Career: Kunal Shah’s UNFILTERED Business MASTERCLASS | IBP EP36",
-      "channel": "Think School",
-      "url": "https://www.youtube.com/watch?v=gLeMTK3PeC8",
-      "embed_url": "https://www.youtube.com/embed/gLeMTK3PeC8",
-      "thumbnail": "https://i.ytimg.com/vi/gLeMTK3PeC8/hqdefault.jpg",
-      "duration": 5534,
-      "duration_text": "1:32:14",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 5,
       "category": "markets",
       "category_label": "Markets",
-      "query": "Evergreen",
-      "score": 30.4,
-      "method": "evergreen",
-      "evergreen": true,
+      "query": "Daybreak",
+      "score": 31.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "daybreak_ken",
+      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
       "categories": [
         "markets"
       ],
@@ -365,28 +37,31 @@
         "Markets"
       ],
       "queries": [
-        "Evergreen"
+        "Daybreak"
       ]
     },
     {
-      "id": "xqSmbDTS-sY",
-      "title": "FREE MBA on Indian Retail: Big Bazaar’s Shocking Fall Explained by Its Founder | IBP EP31",
-      "channel": "Think School",
-      "url": "https://www.youtube.com/watch?v=xqSmbDTS-sY",
-      "embed_url": "https://www.youtube.com/embed/xqSmbDTS-sY",
-      "thumbnail": "https://i.ytimg.com/vi/xqSmbDTS-sY/hqdefault.jpg",
-      "duration": 7416,
-      "duration_text": "2:03:36",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 6,
+      "id": "dfe82a3ab41c2c6c",
+      "title": "Why Every Influencer Has a Lawyer on Speed Dial",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/why-every-influencer-has-a-lawyer-on-speed-dial",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/83f89730-2af9-412b-ad22-b482011e5515/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/83f89730-2af9-412b-ad22-b482011e5515/image.jpg?t=1783618081&size=Large",
+      "duration": 884,
+      "duration_text": "14:44",
+      "published": "20260710",
+      "published_at": "2026-07-10T05:50:00+05:30",
+      "published_ts": 1783642800,
+      "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "Evergreen",
-      "score": 28.55,
-      "method": "evergreen",
-      "evergreen": true,
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "categories": [
         "markets"
       ],
@@ -394,239 +69,7 @@
         "Markets"
       ],
       "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "cakgYBf_Ah0",
-      "title": "What's the science behind weight-loss drugs? - The Food Chain podcast, BBC World Service",
-      "channel": "BBC World Service",
-      "url": "https://www.youtube.com/watch?v=cakgYBf_Ah0",
-      "embed_url": "https://www.youtube.com/embed/cakgYBf_Ah0",
-      "thumbnail": "https://i.ytimg.com/vi/cakgYBf_Ah0/hqdefault.jpg",
-      "duration": 1858,
-      "duration_text": "30:58",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 10,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Evergreen",
-      "score": 28.0,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "MmOyVNvsdm0",
-      "title": "Ep 153: The Indian Economy in 2019",
-      "channel": "The Seen and the Unseen",
-      "url": "https://www.youtube.com/watch?v=MmOyVNvsdm0",
-      "embed_url": "https://www.youtube.com/embed/MmOyVNvsdm0",
-      "thumbnail": "https://i.ytimg.com/vi/MmOyVNvsdm0/hqdefault.jpg",
-      "duration": 6853,
-      "duration_text": "1:54:13",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 11,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Evergreen",
-      "score": 24.55,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "7KI-tp4Y4FA",
-      "title": "India-China History Podcast - Geopolitics, Wars, Brutalness, Philosophy & More | Maj Gen Rajiv N, TRS",
-      "channel": "Ranveer Allahbadia",
-      "url": "https://www.youtube.com/watch?v=7KI-tp4Y4FA",
-      "embed_url": "https://www.youtube.com/embed/7KI-tp4Y4FA",
-      "thumbnail": "https://i.ytimg.com/vi/7KI-tp4Y4FA/hqdefault.jpg",
-      "duration": 7350,
-      "duration_text": "2:02:30",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 14,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Evergreen",
-      "score": 24.25,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "Y5mtTLKnnII",
-      "title": "Ep 237: The Importance of the 1991 Reforms",
-      "channel": "The Seen and the Unseen",
-      "url": "https://www.youtube.com/watch?v=Y5mtTLKnnII",
-      "embed_url": "https://www.youtube.com/embed/Y5mtTLKnnII",
-      "thumbnail": "https://i.ytimg.com/vi/Y5mtTLKnnII/hqdefault.jpg",
-      "duration": 13249,
-      "duration_text": "3:40:49",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 7,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Evergreen",
-      "score": 24.1,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "qt2XslRMOto",
-      "title": "Nobel Laureate Explains India’s Economy, Poverty, GDP & AI | Abhijit Banerjee | FO521 Raj Shamani",
-      "channel": "Raj Shamani",
-      "url": "https://www.youtube.com/watch?v=qt2XslRMOto",
-      "embed_url": "https://www.youtube.com/embed/qt2XslRMOto",
-      "thumbnail": "https://i.ytimg.com/vi/qt2XslRMOto/hqdefault.jpg",
-      "duration": 5770,
-      "duration_text": "1:36:10",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 12,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Evergreen",
-      "score": 23.75,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "wCUoBiCwqw8",
-      "title": "Ep 447: Rahul Ahluwalia Fights for Growth and Freedom",
-      "channel": "The Seen and the Unseen",
-      "url": "https://www.youtube.com/watch?v=wCUoBiCwqw8",
-      "embed_url": "https://www.youtube.com/embed/wCUoBiCwqw8",
-      "thumbnail": "https://i.ytimg.com/vi/wCUoBiCwqw8/hqdefault.jpg",
-      "duration": 17543,
-      "duration_text": "4:52:23",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 8,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Evergreen",
-      "score": 23.3,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "9ImnwpuL-mE",
-      "title": "Exclusive Interview with Nagesh Singh, High Commissioner of India to Australia | 07 July",
-      "channel": "NEWS ON AIR OFFICIAL",
-      "url": "https://www.youtube.com/watch?v=9ImnwpuL-mE",
-      "embed_url": "https://www.youtube.com/embed/9ImnwpuL-mE",
-      "thumbnail": "https://i.ytimg.com/vi/9ImnwpuL-mE/hqdefault.jpg",
-      "duration": 875,
-      "duration_text": "14:35",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 15,
-      "category": "air",
-      "category_label": "AIR",
-      "query": "Evergreen",
-      "score": 21.95,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "air"
-      ],
-      "category_labels": [
-        "AIR"
-      ],
-      "queries": [
-        "Evergreen"
-      ]
-    },
-    {
-      "id": "LqSEfz4YUFA",
-      "title": "Ep. #20 | WTF are Indian Real Estate Giants Up To? Nikhil ft. Irfan, Nirupa, & Karan",
-      "channel": "Nikhil Kamath",
-      "url": "https://www.youtube.com/watch?v=LqSEfz4YUFA",
-      "embed_url": "https://www.youtube.com/embed/LqSEfz4YUFA",
-      "thumbnail": "https://i.ytimg.com/vi/LqSEfz4YUFA/hqdefault.jpg",
-      "duration": 11790,
-      "duration_text": "3:16:30",
-      "published": "evergreen",
-      "published_at": null,
-      "published_ts": 0,
-      "latest_rank": 13,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Evergreen",
-      "score": 20.35,
-      "method": "evergreen",
-      "evergreen": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
-      ],
-      "queries": [
-        "Evergreen"
+        "ET Morning Brief"
       ]
     }
   ],
@@ -681,6 +124,105 @@
     }
   ],
   "rss_feeds": [
+    {
+      "id": "paisa_vaisa",
+      "label": "Paisa Vaisa",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.35,
+      "max_items": 4,
+      "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss"
+    },
+    {
+      "id": "morning_brief_et",
+      "label": "ET Morning Brief",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.4,
+      "max_items": 4,
+      "url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss"
+    },
+    {
+      "id": "daybreak_ken",
+      "label": "Daybreak",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.25,
+      "max_items": 3,
+      "url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb"
+    },
+    {
+      "id": "core_india_economy",
+      "label": "India Economy",
+      "category": "markets",
+      "category_label": "Markets",
+      "weight": 1.15,
+      "max_items": 3,
+      "url": "https://anchor.fm/s/fb4a3980/podcast/rss"
+    },
+    {
+      "id": "capitalmind",
+      "label": "Capitalmind",
+      "category": "finance",
+      "category_label": "Finance",
+      "weight": 1.25,
+      "max_items": 4,
+      "url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml"
+    },
+    {
+      "id": "health_wealth",
+      "label": "Health Wealth",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.25,
+      "max_items": 4,
+      "url": "https://www.spreaker.com/show/5918323/episodes/feed"
+    },
+    {
+      "id": "third_opinion",
+      "label": "3rd Opinion",
+      "category": "health",
+      "category_label": "Health",
+      "weight": 1.15,
+      "max_items": 3,
+      "url": "https://www.spreaker.com/show/6832094/episodes/feed"
+    },
+    {
+      "id": "nature_india",
+      "label": "Nature India",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.15,
+      "max_items": 4,
+      "url": "https://feeds.acast.com/public/shows/1fc86039-894c-5373-b0c1-956f6b5d49b7"
+    },
+    {
+      "id": "mongabay_india",
+      "label": "Mongabay India",
+      "category": "science",
+      "category_label": "Science",
+      "weight": 1.1,
+      "max_items": 3,
+      "url": "https://rss.libsyn.com/shows/397004/destinations/3264491.xml"
+    },
+    {
+      "id": "ideas_of_india",
+      "label": "Ideas of India",
+      "category": "policy",
+      "category_label": "Policy",
+      "weight": 1.2,
+      "max_items": 4,
+      "url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml"
+    },
+    {
+      "id": "century_of_stories",
+      "label": "A Century Of Stories",
+      "category": "ideas",
+      "category_label": "Ideas",
+      "weight": 1.05,
+      "max_items": 3,
+      "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss"
+    },
     {
       "id": "news_on_air",
       "label": "AIR",

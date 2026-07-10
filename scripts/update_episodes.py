@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
+import hashlib
 import json
 import os
 import re
@@ -20,6 +21,8 @@ YOUTUBE_WATCH = "https://www.youtube.com/watch?v={video_id}"
 YOUTUBE_THUMB = "https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
 ATOM = "{http://www.w3.org/2005/Atom}"
 YT = "{http://www.youtube.com/xml/schemas/2015}"
+ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 
 
 def load_json(path: Path, fallback):
@@ -54,6 +57,26 @@ def seconds_value(seconds: object) -> int | None:
         return int(float(seconds))
     except (TypeError, ValueError):
         return None
+
+
+def parse_duration(value: object) -> int | None:
+    text = clean_text(value)
+    if not text:
+        return None
+    if re.fullmatch(r"\d+(?:\.\d+)?", text):
+        return seconds_value(text)
+    parts = text.split(":")
+    if not 2 <= len(parts) <= 3:
+        return None
+    try:
+        values = [int(part) for part in parts]
+    except ValueError:
+        return None
+    if len(values) == 2:
+        minutes, seconds = values
+        return minutes * 60 + seconds
+    hours, minutes, seconds = values
+    return hours * 3600 + minutes * 60 + seconds
 
 
 def parse_timestamp(value: object, timezone: str):
@@ -133,10 +156,11 @@ def fetch_feed(feed: dict, timeout: int) -> ET.Element:
         status = getattr(response, "status", 200)
         if status >= 400:
             raise RuntimeError(f"HTTP {status}")
-        data = response.read(500000)
+        data = response.read(20000000)
     root = ET.fromstring(data)
     entries = root.findall(f"{ATOM}entry")
-    if not entries:
+    items = root.findall("./channel/item")
+    if not entries and not items:
         raise RuntimeError("RSS feed has no entries")
     return root
 
@@ -149,6 +173,43 @@ def feed_link(entry: ET.Element) -> str:
             return href
     video_id = clean_text(entry.findtext(f"{YT}videoId"))
     return YOUTUBE_WATCH.format(video_id=video_id) if video_id else ""
+
+
+def rss_text(item: ET.Element, name: str) -> str:
+    return clean_text(item.findtext(name))
+
+
+def rss_image(item: ET.Element, root: ET.Element, feed: dict) -> str:
+    image = item.find(f"{ITUNES}image")
+    if image is not None and image.attrib.get("href"):
+        return clean_text(image.attrib.get("href"))
+    image = item.find(f"{MEDIA}thumbnail")
+    if image is not None and image.attrib.get("url"):
+        return clean_text(image.attrib.get("url"))
+    channel_image = root.find("./channel/image/url")
+    if channel_image is not None and channel_image.text:
+        return clean_text(channel_image.text)
+    return clean_text(feed.get("thumbnail"))
+
+
+def rss_enclosure(item: ET.Element) -> tuple[str, str]:
+    for enclosure in item.findall("enclosure"):
+        url = clean_text(enclosure.attrib.get("url"))
+        media_type = clean_text(enclosure.attrib.get("type"))
+        if url and (not media_type or media_type.startswith("audio/") or url.lower().split("?")[0].endswith((".mp3", ".m4a", ".aac", ".ogg"))):
+            return url, media_type
+    return "", ""
+
+
+def rss_link(item: ET.Element, audio_url: str) -> str:
+    link = rss_text(item, "link")
+    return link or audio_url
+
+
+def stable_audio_id(feed: dict, item: ET.Element, audio_url: str) -> str:
+    guid = rss_text(item, "guid")
+    raw = f"{feed.get('id')}:{guid or audio_url or rss_text(item, 'title')}"
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]
 
 
 def fetch_video_duration(video_id: str, timeout: int, cache: dict[str, int | None]) -> int | None:
@@ -192,8 +253,12 @@ def feed_items(
     duration_timeout: int,
 ) -> list[dict]:
     root = fetch_feed(feed, timeout)
-    channel = clean_text(root.findtext(f"{ATOM}title")) or clean_text(feed.get("label"))
     max_per_feed = int(feed.get("max_items") or config.get("portal", {}).get("max_items_per_feed") or 5)
+    rss_entries = root.findall("./channel/item")
+    if rss_entries:
+        return podcast_feed_items(root, rss_entries, feed, config, cutoff_time, timezone, max_per_feed)
+
+    channel = clean_text(root.findtext(f"{ATOM}title")) or clean_text(feed.get("label"))
     items = []
     for rank, entry in enumerate(root.findall(f"{ATOM}entry"), start=1):
         title = clean_text(entry.findtext(f"{ATOM}title"))
@@ -252,6 +317,70 @@ def feed_items(
             "score": score + 3.0,
             "method": "rss",
             "duration_source": duration_source,
+            "feed_id": feed.get("id"),
+            "feed_url": feed.get("url"),
+        })
+        if len(items) >= max_per_feed:
+            break
+    return items
+
+
+def podcast_feed_items(
+    root: ET.Element,
+    entries: list[ET.Element],
+    feed: dict,
+    config: dict,
+    cutoff_time,
+    timezone: str,
+    max_per_feed: int,
+) -> list[dict]:
+    channel = clean_text(root.findtext("./channel/title")) or clean_text(feed.get("label"))
+    items = []
+    min_duration = int(config.get("portal", {}).get("min_duration_seconds") or 600)
+    for rank, entry in enumerate(entries, start=1):
+        title = rss_text(entry, "title")
+        audio_url, media_type = rss_enclosure(entry)
+        published_at = parse_feed_datetime(rss_text(entry, "pubDate") or rss_text(entry, f"{ATOM}published"), timezone)
+        if not title or not audio_url or not published_at or published_at < cutoff_time:
+            continue
+
+        duration = parse_duration(entry.findtext(f"{ITUNES}duration"))
+        if duration is None and feed.get("fallback_duration"):
+            duration = seconds_value(feed.get("fallback_duration"))
+        if duration is not None and duration < min_duration:
+            continue
+
+        text = normalize(f"{title} {channel}")
+        if is_blocked_text(text, config):
+            continue
+
+        score = score_entry({"title": title, "channel": channel, "duration": duration}, {
+            "id": feed.get("category"),
+            "weight": feed.get("weight", 1.0),
+        }, config, rank) + 4.0
+
+        item_id = stable_audio_id(feed, entry, audio_url)
+        image = rss_image(entry, root, feed)
+        items.append({
+            "id": item_id,
+            "title": title,
+            "channel": clean_text(feed.get("label")) or channel,
+            "url": rss_link(entry, audio_url),
+            "audio_url": audio_url,
+            "audio_type": media_type,
+            "thumbnail": image,
+            "duration": duration,
+            "duration_text": clock(duration) if duration is not None else "",
+            "published": published_at.strftime("%Y%m%d"),
+            "published_at": published_at.isoformat(),
+            "published_ts": int(published_at.timestamp()),
+            "latest_rank": rank,
+            "category": feed.get("category"),
+            "category_label": feed.get("category_label") or feed.get("label"),
+            "query": feed.get("label") or channel,
+            "score": round(score, 3),
+            "method": "podcast_rss",
+            "background_audio": True,
             "feed_id": feed.get("id"),
             "feed_url": feed.get("url"),
         })
@@ -441,6 +570,7 @@ def main() -> int:
     youtube_search_enabled = str(
         os.environ.get("PODCAST_YOUTUBE_SEARCH_ENABLED", portal.get("youtube_search_enabled", False))
     ).lower() in {"1", "true", "yes", "on"}
+    audio_only = str(os.environ.get("PODCAST_AUDIO_ONLY", portal.get("audio_only", True))).lower() in {"1", "true", "yes", "on"}
     now = datetime.now(ZoneInfo(timezone))
     cutoff_time = now - timedelta(hours=recent_hours)
 
@@ -449,6 +579,8 @@ def main() -> int:
     errors = []
 
     for feed in config.get("rss_feeds", []):
+        if audio_only and "youtube.com/feeds/videos.xml" in clean_text(feed.get("url")):
+            continue
         try:
             for episode in feed_items(feed, config, cutoff_time, timezone, timeout, duration_cache, duration_timeout):
                 existing = episodes_by_id.get(episode["id"])
@@ -484,7 +616,7 @@ def main() -> int:
                     "queries": [episode["query"]],
                 }
 
-    evergreen_limit = int(portal.get("evergreen_items_per_category") or 2)
+    evergreen_limit = 0 if audio_only else int(portal.get("evergreen_items_per_category", 2))
     evergreen_counts: dict[str, int] = {}
     for rank, entry in enumerate(config.get("evergreen_episodes", []), start=1):
         category = clean_text(entry.get("category"))

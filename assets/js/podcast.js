@@ -9,11 +9,15 @@
   const episodesElement = document.querySelector("#episodes");
   const player = document.querySelector("#player");
   const emptyPlayer = document.querySelector("#empty-player");
+  const playerArt = document.querySelector("#player-art");
+  const playerTitle = document.querySelector("#player-title");
+  const playerSubtitle = document.querySelector("#player-subtitle");
   const youtubeSearch = document.querySelector("#youtube-search");
 
   let episodes = [];
   let searches = [];
   let activeCategory = "all";
+  let currentEpisodeIndex = -1;
 
   function formatGenerated(value) {
     if (!value) return "Not updated";
@@ -67,10 +71,51 @@
     }
   }
 
+  function setMediaSession(episode) {
+    if (!("mediaSession" in navigator)) return;
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: episode.title || "Podcast Radar",
+      artist: episode.channel || "Podcast",
+      album: (episode.category_labels || [episode.category_label || "Podcast"]).join(", "),
+      artwork: episode.thumbnail ? [
+        { src: episode.thumbnail, sizes: "512x512", type: "image/jpeg" }
+      ] : []
+    });
+    navigator.mediaSession.setActionHandler("play", () => player.play());
+    navigator.mediaSession.setActionHandler("pause", () => player.pause());
+    navigator.mediaSession.setActionHandler("previoustrack", () => playRelative(-1));
+    navigator.mediaSession.setActionHandler("nexttrack", () => playRelative(1));
+  }
+
+  function playRelative(offset) {
+    const visible = visibleEpisodes();
+    if (!visible.length) return;
+    const currentId = episodes[currentEpisodeIndex]?.id;
+    const visibleIndex = Math.max(0, visible.findIndex(episode => episode.id === currentId));
+    const nextIndex = (visibleIndex + offset + visible.length) % visible.length;
+    play(visible[nextIndex]);
+  }
+
   function play(episode) {
-    player.src = `${episode.embed_url}?autoplay=1&rel=0`;
+    if (!episode.audio_url) {
+      youtubeSearch.href = episode.url || "#";
+      return;
+    }
+    currentEpisodeIndex = episodes.findIndex(item => item.id === episode.id);
+    player.src = episode.audio_url;
+    player.play().catch(() => {});
+    playerTitle.textContent = episode.title || "Podcast Radar";
+    playerSubtitle.textContent = episode.channel || "Podcast";
+    if (episode.thumbnail) {
+      playerArt.src = episode.thumbnail;
+      playerArt.hidden = false;
+    } else {
+      playerArt.removeAttribute("src");
+      playerArt.hidden = true;
+    }
     emptyPlayer.classList.add("hidden");
-    youtubeSearch.href = episode.url;
+    youtubeSearch.href = episode.url || episode.audio_url;
+    setMediaSession(episode);
   }
 
   function episodeCard(episode) {
@@ -85,10 +130,10 @@
     const thumb = document.createElement("div");
     thumb.className = "thumb";
     const img = document.createElement("img");
-    img.src = episode.thumbnail;
+    img.src = episode.thumbnail || "";
     img.alt = "";
     img.loading = "lazy";
-    thumb.append(img);
+    if (episode.thumbnail) thumb.append(img);
     if (episode.duration_text) {
       const duration = document.createElement("span");
       duration.className = "duration";
@@ -109,10 +154,10 @@
     channel.textContent = episode.channel || "YouTube";
     const open = document.createElement("a");
     open.className = "open";
-    open.href = episode.url;
+    open.href = episode.url || episode.audio_url || "#";
     open.target = "_blank";
     open.rel = "noopener";
-    open.textContent = "Open";
+    open.textContent = episode.audio_url ? "Source" : "Open";
     meta.append(channel, open);
 
     const chips = document.createElement("div");
@@ -132,6 +177,7 @@
 
     body.append(heading, meta, chips);
     article.append(playButton, body);
+    article.classList.toggle("audio-ready", Boolean(episode.audio_url));
     return article;
   }
 
