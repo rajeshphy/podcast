@@ -574,6 +574,7 @@ def main() -> int:
     max_results = int(os.environ.get("PODCAST_MAX_RESULTS_PER_QUERY") or portal.get("max_results_per_query") or 10)
     max_episodes = int(os.environ.get("PODCAST_MAX_EPISODES") or portal.get("max_episodes") or 72)
     timeout = int(os.environ.get("PODCAST_SEARCH_TIMEOUT") or 90)
+    feed_timeout = int(os.environ.get("PODCAST_FEED_TIMEOUT") or portal.get("feed_timeout_seconds") or 12)
     duration_timeout = int(os.environ.get("PODCAST_DURATION_TIMEOUT") or 15)
     sort_mode = str(os.environ.get("PODCAST_SEARCH_SORT") or portal.get("search_sort") or "date").lower()
     recent_hours = int(os.environ.get("PODCAST_RECENT_HOURS") or portal.get("recent_hours") or 24)
@@ -588,13 +589,21 @@ def main() -> int:
 
     episodes_by_id: dict[str, dict] = {}
     duration_cache: dict[str, int | None] = {}
+    feed_cache: dict[str, list[dict]] = {}
     errors = []
+    cutoff_ts = int(cutoff_time.timestamp())
+    feed_cutoff = now - timedelta(hours=category_backfill_hours) if category_backfill_hours > recent_hours else cutoff_time
 
     for feed in config.get("rss_feeds", []):
         if audio_only and "youtube.com/feeds/videos.xml" in clean_text(feed.get("url")):
             continue
+        feed_key = clean_text(feed.get("id") or feed.get("url"))
         try:
-            for episode in feed_items(feed, config, cutoff_time, timezone, timeout, duration_cache, duration_timeout):
+            episodes = feed_items(feed, config, feed_cutoff, timezone, feed_timeout, duration_cache, duration_timeout)
+            feed_cache[feed_key] = episodes
+            for episode in episodes:
+                if int(episode.get("published_ts") or 0) < cutoff_ts:
+                    continue
                 store_episode(episodes_by_id, episode)
         except Exception as exc:
             errors.append(f"{feed.get('id') or feed.get('url')}: {type(exc).__name__}: {exc}")
@@ -627,18 +636,19 @@ def main() -> int:
                 continue
             if backfill_counts.get(category, 0) >= backfill_items_per_category:
                 continue
-            try:
-                for episode in feed_items(feed, config, backfill_cutoff, timezone, timeout, duration_cache, duration_timeout):
-                    category = clean_text(episode.get("category"))
-                    if category not in missing_categories or backfill_counts.get(category, 0) >= backfill_items_per_category:
-                        continue
-                    episode["backfill"] = True
-                    episode["query"] = "Latest in category"
-                    episode["score"] = round(float(episode.get("score", 0)) - 0.5, 3)
-                    store_episode(episodes_by_id, episode)
-                    backfill_counts[category] = backfill_counts.get(category, 0) + 1
-            except Exception as exc:
-                errors.append(f"{feed.get('id') or feed.get('url')} backfill: {type(exc).__name__}: {exc}")
+            feed_key = clean_text(feed.get("id") or feed.get("url"))
+            for episode in feed_cache.get(feed_key, []):
+                category = clean_text(episode.get("category"))
+                if category not in missing_categories or backfill_counts.get(category, 0) >= backfill_items_per_category:
+                    continue
+                if int(episode.get("published_ts") or 0) < int(backfill_cutoff.timestamp()):
+                    continue
+                episode = dict(episode)
+                episode["backfill"] = True
+                episode["query"] = "Latest in category"
+                episode["score"] = round(float(episode.get("score", 0)) - 0.5, 3)
+                store_episode(episodes_by_id, episode)
+                backfill_counts[category] = backfill_counts.get(category, 0) + 1
 
     if youtube_search_enabled:
         for search in config.get("searches", []):
@@ -690,6 +700,7 @@ def main() -> int:
         "mode": "latest",
         "search_sort": sort_mode,
         "recent_hours": recent_hours,
+        "feed_timeout_seconds": feed_timeout,
         "category_backfill_hours": category_backfill_hours,
         "backfill_items_per_category": backfill_items_per_category,
         "min_duration_seconds": int(portal.get("min_duration_seconds") or 600),

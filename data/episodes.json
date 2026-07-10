@@ -1,79 +1,16 @@
 {
-  "generated_at": "2026-07-10T20:18:09.455095+05:30",
+  "generated_at": "2026-07-10T20:34:54.892150+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
+  "feed_timeout_seconds": 12,
   "category_backfill_hours": 720,
   "backfill_items_per_category": 1,
-  "min_duration_seconds": 600,
+  "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-09T20:18:09.455095+05:30",
+  "cutoff_time": "2026-07-09T20:34:54.892150+05:30",
   "episodes": [
-    {
-      "id": "e90dcc9fd5e7b4d1",
-      "title": "Briefing Chat: The 30 year-legacy of a science icon – Dolly the sheep",
-      "channel": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02185-1",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a50f968e31e37bb565a41b7/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1783691095467-32c1ab09-fab0-4b6a-8483-a1f6c1046b62.jpeg",
-      "duration": 603,
-      "duration_text": "10:03",
-      "published": "20260710",
-      "published_at": "2026-07-10T19:23:43+05:30",
-      "published_ts": 1783691623,
-      "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Nature",
-      "score": 33.1,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Nature"
-      ]
-    },
-    {
-      "id": "971803895d88ecf1",
-      "title": "Inside Africa's Biggest Slum (1 Million People)",
-      "channel": "Ranveer Show",
-      "url": "https://the-ranveer-show.simplecast.com/episodes/inside-africas-biggest-slum-1-million-people-c9naLitc",
-      "audio_url": "https://chtbl.com/track/67CA4G/cdn.simplecast.com/media/audio/transcoded/898e20f3-b9f4-4c6e-bcee-43fc9239f86e/a4c022ca-6988-4cf6-98f6-5b98210d01b4/episodes/audio/group/0be4d9d2-1f88-4cf1-9cdd-8300d5ec6c58/group-item/18d28c53-e046-4c64-ac67-276cb89c292a/128_default_tc.mp3?aid=rss_feed&feed=7PWFZi_d",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://image.simplecastcdn.com/images/6c0ffcab-1640-429f-b7a6-62df20b25024/368baa2a-d129-45f5-be91-9c2b360b3b04/3000x3000/image_1.jpg?aid=rss_feed",
-      "duration": 780,
-      "duration_text": "13:00",
-      "published": "20260710",
-      "published_at": "2026-07-10T17:22:59+05:30",
-      "published_ts": 1783684379,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Ranveer Show",
-      "score": 30.2,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_show_audio",
-      "feed_url": "https://feeds.simplecast.com/7PWFZi_d",
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Ranveer Show"
-      ]
-    },
     {
       "id": "e3c66d65171dfcd8",
       "title": "Miss a smartphone EMI, and your lender can now wirelessly strip the ‘smart’ out of it",
@@ -107,55 +44,56 @@
       ]
     },
     {
-      "id": "dfe82a3ab41c2c6c",
-      "title": "Why Every Influencer Has a Lawyer on Speed Dial",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/why-every-influencer-has-a-lawyer-on-speed-dial",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/83f89730-2af9-412b-ad22-b482011e5515/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "id": "a4de41ddab604ef9",
+      "title": "Nukes in space? Orbital detector could sniff out warheads",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02141-z",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a4e633df8a80edf85dcfad2/media.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/83f89730-2af9-412b-ad22-b482011e5515/image.jpg?t=1783618081&size=Large",
-      "duration": 884,
-      "duration_text": "14:44",
-      "published": "20260710",
-      "published_at": "2026-07-10T05:50:00+05:30",
-      "published_ts": 1783642800,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1508,
+      "duration_text": "25:08",
+      "published": "20260708",
+      "published_at": "2026-07-08T20:30:00+05:30",
+      "published_ts": 1783522800,
+      "latest_rank": 2,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Latest in category",
+      "score": 31.8,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
-        "markets"
+        "science"
       ],
       "category_labels": [
-        "Markets"
+        "Science"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
-      "id": "51db0a35d830250b",
-      "title": "2026 FIFA World Cup Review Ft. Markaroni & Drog BABA on TRS | Messi, Ronaldo, Mbappe & Haaland",
+      "id": "a05317f02e4b6570",
+      "title": "Jaya Kishori - God's Love, Marriage, Relationships, Parenting & Life | TRS",
       "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/2026-FIFA-World-Cup-Review-Ft--Markaroni---Drog-BABA--on-TRS--Messi--Ronaldo--Mbappe--Haaland-e3ls643",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122607171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F427653764-44100-2-6566fc2bb5b5.mp3",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Jaya-Kishori---Gods-Love--Marriage--Relationships--Parenting--Life--TRS-e3lp6ol",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122509525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427521452-44100-2-abbcf9ef671cb.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1783662786487-994e670d3e81d.jpg",
-      "duration": 4134,
-      "duration_text": "1:08:54",
-      "published": "20260709",
-      "published_at": "2026-07-09T20:07:29+05:30",
-      "published_ts": 1783607849,
-      "latest_rank": 1,
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1783434900320-656af6f19da2c.jpg",
+      "duration": 5594,
+      "duration_text": "1:33:14",
+      "published": "20260707",
+      "published_at": "2026-07-07T20:27:54+05:30",
+      "published_ts": 1783436274,
+      "latest_rank": 2,
       "category": "ideas",
       "category_label": "Ideas",
       "query": "Latest in category",
-      "score": 30.35,
+      "score": 27.95,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
@@ -166,6 +104,39 @@
       ],
       "category_labels": [
         "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "626275cf56973ca8",
+      "title": "Is Home-Cooked Food Making You Unhealthy? | Nutritionist Riti Bhagat | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/is-home-cooked-food-making-you-unhealthy-nutritionist-riti-bhagat-doctor-vs-internet--72836770",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72836770/06_jul_26_dvi_epi_19_mix_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a759abdda4ac8e04132c000ad70b2a98.jpg",
+      "duration": 5669,
+      "duration_text": "1:34:29",
+      "published": "20260706",
+      "published_at": "2026-07-06T15:15:47+05:30",
+      "published_ts": 1783331147,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Latest in category",
+      "score": 32.45,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
       ],
       "queries": [
         "Latest in category"
