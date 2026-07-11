@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T02:17:41.041876+05:30",
+  "generated_at": "2026-07-12T01:44:35.750368+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-10T02:17:41.041876+05:30",
+  "cutoff_time": "2026-07-11T01:44:35.750368+05:30",
   "episodes": [
-    {
-      "id": "e3c66d65171dfcd8",
-      "title": "Miss a smartphone EMI, and your lender can now wirelessly strip the ‘smart’ out of it",
-      "channel": "Daybreak",
-      "url": "https://share.transistor.fm/s/47d102e3",
-      "audio_url": "https://media.transistor.fm/47d102e3/4fceecea.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://img.transistorcdn.com/34EYNAXeMZT5IctnPOvOgJpsEvW-RwdblC7WGlucN1s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYjNk/ZmFiMjVlMDEwN2Mz/MTY5MTVhZGJhMGQw/MzgxNy5wbmc.jpg",
-      "duration": 1443,
-      "duration_text": "24:03",
-      "published": "20260710",
-      "published_at": "2026-07-10T06:30:49+05:30",
-      "published_ts": 1783645249,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Daybreak",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "daybreak_ken",
-      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Daybreak"
-      ]
-    },
     {
       "id": "a4de41ddab604ef9",
       "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -203,6 +171,39 @@
       ],
       "category_labels": [
         "Policy"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "1627d10f4ba01da1",
+      "title": "The Heat Dome Files: What Europe Can Learn From India",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/the-heat-dome-files-what-europe-can-learn-from-india",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39704985-edc8-4d97-b0b6-b47a012905a9/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39704985-edc8-4d97-b0b6-b47a012905a9/image.jpg?t=1782929083&size=Large",
+      "duration": 1570,
+      "duration_text": "26:10",
+      "published": "20260702",
+      "published_at": "2026-07-02T05:50:00+05:30",
+      "published_ts": 1782951600,
+      "latest_rank": 5,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 28.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
       ],
       "queries": [
         "Latest in category"
