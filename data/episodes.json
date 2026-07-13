@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:42:37.723622+05:30",
+  "generated_at": "2026-07-14T02:07:01.115743+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-12T01:42:37.723622+05:30",
+  "cutoff_time": "2026-07-13T02:07:01.115743+05:30",
   "episodes": [
     {
       "id": "a4de41ddab604ef9",
@@ -123,11 +123,11 @@
       "published": "20260706",
       "published_at": "2026-07-06T06:00:00+05:30",
       "published_ts": 1783297800,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "finance",
       "category_label": "Finance",
       "query": "Latest in category",
-      "score": 33.8,
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
