@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T02:07:01.115743+05:30",
+  "generated_at": "2026-07-15T02:05:34.602351+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-13T02:07:01.115743+05:30",
+  "cutoff_time": "2026-07-14T02:05:34.602351+05:30",
   "episodes": [
+    {
+      "id": "4369de763620381c",
+      "title": "When Algorithms Push Harm, Who's Liable?",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/when-algorithms-push-harm-whos-liable",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/2007ab93-b668-49b2-82b3-b48601321bb9/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/2007ab93-b668-49b2-82b3-b48601321bb9/image.jpg?t=1783968004&size=Large",
+      "duration": 1413,
+      "duration_text": "23:33",
+      "published": "20260714",
+      "published_at": "2026-07-14T05:55:00+05:30",
+      "published_ts": 1783988700,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "a4de41ddab604ef9",
       "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -171,39 +203,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "1627d10f4ba01da1",
-      "title": "The Heat Dome Files: What Europe Can Learn From India",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/the-heat-dome-files-what-europe-can-learn-from-india",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39704985-edc8-4d97-b0b6-b47a012905a9/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39704985-edc8-4d97-b0b6-b47a012905a9/image.jpg?t=1782929083&size=Large",
-      "duration": 1570,
-      "duration_text": "26:10",
-      "published": "20260702",
-      "published_at": "2026-07-02T05:50:00+05:30",
-      "published_ts": 1782951600,
-      "latest_rank": 6,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 28.1,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
