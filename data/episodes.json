@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:05:34.602351+05:30",
+  "generated_at": "2026-07-16T02:00:31.276400+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-14T02:05:34.602351+05:30",
+  "cutoff_time": "2026-07-15T02:00:31.276400+05:30",
   "episodes": [
+    {
+      "id": "02551cfc5b9f7f6f",
+      "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/holy-grail-of-naked-mole-rat-research-reveals-how-queens-rul",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a579d4bcebd1afd4461d078/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1360,
+      "duration_text": "22:40",
+      "published": "20260715",
+      "published_at": "2026-07-15T20:30:00+05:30",
+      "published_ts": 1784127600,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 33.1,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "8f7add3a515203e4",
+      "title": "The Truth About Andropause: Why Men Get Menopause Too | Dr Ambrish Mithal |Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/the-truth-about-andropause-why-men-get-menopause-too-dr-ambrish-mithal-doctor-vs-internet--72986234",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72986234/15_jul_26_dvi_15_july_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/17f6ffac94ce472ecb0a8c3122457171.jpg",
+      "duration": 3599,
+      "duration_text": "59:59",
+      "published": "20260715",
+      "published_at": "2026-07-15T13:50:33+05:30",
+      "published_ts": 1784103633,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "247da23e5214ae42",
+      "title": "Swami Yo Returns - Predictions, Tantric Secrets & Manifestation Techniques | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Swami-Yo-Returns---Predictions--Tantric-Secrets--Manifestation-Techniques--TRS-e3m3rnn",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122858679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2F427990160-44100-2-afc82a09eb667.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784098857928-3b3911a76414.jpg",
+      "duration": 6812,
+      "duration_text": "1:53:32",
+      "published": "20260715",
+      "published_at": "2026-07-15T12:32:42+05:30",
+      "published_ts": 1784098962,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "4369de763620381c",
       "title": "When Algorithms Push Harm, Who's Liable?",
@@ -27,116 +123,18 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "ET Morning Brief"
-      ]
-    },
-    {
-      "id": "a4de41ddab604ef9",
-      "title": "Nukes in space? Orbital detector could sniff out warheads",
-      "channel": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02141-z",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a4e633df8a80edf85dcfad2/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1508,
-      "duration_text": "25:08",
-      "published": "20260708",
-      "published_at": "2026-07-08T20:30:00+05:30",
-      "published_ts": 1783522800,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 31.8,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "a05317f02e4b6570",
-      "title": "Jaya Kishori - God's Love, Marriage, Relationships, Parenting & Life | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Jaya-Kishori---Gods-Love--Marriage--Relationships--Parenting--Life--TRS-e3lp6ol",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122509525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F427521452-44100-2-abbcf9ef671cb.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1783434900320-656af6f19da2c.jpg",
-      "duration": 5594,
-      "duration_text": "1:33:14",
-      "published": "20260707",
-      "published_at": "2026-07-07T20:27:54+05:30",
-      "published_ts": 1783436274,
-      "latest_rank": 2,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 27.95,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "626275cf56973ca8",
-      "title": "Is Home-Cooked Food Making You Unhealthy? | Nutritionist Riti Bhagat | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/is-home-cooked-food-making-you-unhealthy-nutritionist-riti-bhagat-doctor-vs-internet--72836770",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72836770/06_jul_26_dvi_epi_19_mix_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a759abdda4ac8e04132c000ad70b2a98.jpg",
-      "duration": 5669,
-      "duration_text": "1:34:29",
-      "published": "20260706",
-      "published_at": "2026-07-06T15:15:47+05:30",
-      "published_ts": 1783331147,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 32.45,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
