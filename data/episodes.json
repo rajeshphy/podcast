@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:00:31.276400+05:30",
+  "generated_at": "2026-07-17T01:54:55.532938+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-15T02:00:31.276400+05:30",
+  "cutoff_time": "2026-07-16T01:54:55.532938+05:30",
   "episodes": [
+    {
+      "id": "21470f91b121db34",
+      "title": "The Crypto Skeptic vs The Coinbase CEO | Brian Armstrong x Nikhil Kamath | People by WTF",
+      "channel": "People by WTF",
+      "url": "https://listen.hubhopper.com/episode/the-crypto-skeptic-vs-the-coinbase-ceo-brian-armstrong-x-nikhil-kamath-people-by-wtf/33023095",
+      "audio_url": "https://play.hubhopper.com/5b8e34ec5b268e15f13ccb2e47608c38.mp3?s=rss-feed&v=787af6641fa0",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464609/people-by-wtf.jpeg?v=1749459878474620118",
+      "duration": 8353,
+      "duration_text": "2:19:13",
+      "published": "20260716",
+      "published_at": "2026-07-16T23:25:35+05:30",
+      "published_ts": 1784224535,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "People by WTF",
+      "score": 30.45,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "people_by_wtf",
+      "feed_url": "https://feeds.hubhopper.com/db41907e6c28518ffe336b392c715ef1.rss",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "People by WTF"
+      ]
+    },
+    {
+      "id": "7df8a121a8a683a5",
+      "title": "M.R. Madhavan on Party Power and the Decline of India's Legislatures",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/mr-madhavan-on-party-power-and-the-decline-of-indias-legislatures",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-139-MRMadhavan-Podcast-Final_mixdown-auphonic.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/d/5/b/ad5bf6ba793a054016c3140a3186d450/IOI-139-MRMadhavan-LibsynGraphic.png",
+      "duration": 5756,
+      "duration_text": "1:35:56",
+      "published": "20260716",
+      "published_at": "2026-07-16T16:30:00+05:30",
+      "published_ts": 1784199600,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 29.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "46978aad576ca285",
+      "title": "Who Pays For Ethanol?",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/who-pays-for-ethanol",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/f7b02252-530d-47cf-b965-b48801301e9c/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/f7b02252-530d-47cf-b965-b48801301e9c/image.jpg?t=1784140387&size=Large",
+      "duration": 2575,
+      "duration_text": "42:55",
+      "published": "20260716",
+      "published_at": "2026-07-16T05:50:00+05:30",
+      "published_ts": 1784161200,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "02551cfc5b9f7f6f",
       "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
@@ -27,12 +123,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 33.1,
+      "query": "Latest in category",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,7 +137,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +156,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
+      "query": "Latest in category",
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -72,7 +170,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
@@ -91,50 +189,18 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
-    {
-      "id": "4369de763620381c",
-      "title": "When Algorithms Push Harm, Who's Liable?",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/when-algorithms-push-harm-whos-liable",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/2007ab93-b668-49b2-82b3-b48601321bb9/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/2007ab93-b668-49b2-82b3-b48601321bb9/image.jpg?t=1783968004&size=Large",
-      "duration": 1413,
-      "duration_text": "23:33",
-      "published": "20260714",
-      "published_at": "2026-07-14T05:55:00+05:30",
-      "published_ts": 1783988700,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 32.1,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -168,72 +234,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "3ef95cb36d2a9039",
-      "title": "Rahul Sagar on the Birth of Indian Nationalism",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/rahul-sagar-on-the-birth-of-indian-nationalism",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-138-RahulSagar-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/6/7/1/4/67149b1df1f2518416c3140a3186d450/IOI-138-RahulSagar-LibsynGraphic.png",
-      "duration": 3813,
-      "duration_text": "1:03:33",
-      "published": "20260702",
-      "published_at": "2026-07-02T16:30:00+05:30",
-      "published_ts": 1782990000,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "c5c3149b8b00a07f",
-      "title": "Abundance vs Scarcity: We Built 20 Brands With 30 Strangers In 90 Days | The Foundery",
-      "channel": "Nikhil Kamath",
-      "url": "https://listen.hubhopper.com/episode/abundance-vs-scarcity-we-built-20-brands-with-30-strangers-in-90-days-the-foundery/33019619",
-      "audio_url": "https://play.hubhopper.com/3c9da4c54926d2ba542b979ce115c4f6.mp3?s=rss-feed&v=0e88ea6233b1",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
-      "duration": 5739,
-      "duration_text": "1:35:39",
-      "published": "20260626",
-      "published_at": "2026-06-26T21:30:41+05:30",
-      "published_ts": 1782489641,
-      "latest_rank": 1,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Latest in category",
-      "score": 33.9,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "wtf_nikhil_kamath",
-      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
-      "backfill": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
       ],
       "queries": [
         "Latest in category"
