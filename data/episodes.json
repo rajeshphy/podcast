@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T01:55:52.576929+05:30",
+  "generated_at": "2026-07-19T01:41:17.194770+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,41 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-17T01:55:52.576929+05:30",
+  "cutoff_time": "2026-07-18T01:41:17.194770+05:30",
   "episodes": [
+    {
+      "id": "d81282009cfe6047",
+      "title": "Spiritual Secrets of Sikhism - Jaap, Karma, Kundalini & Past Lives | Simranjeet Singh Tohana | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Spiritual-Secrets-of-Sikhism---Jaap--Karma--Kundalini--Past-Lives--Simranjeet-Singh-Tohana--TRS-e3m6vnb",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122961067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428129689-44100-2-d3378b71fdbde.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784293524133-fa6d9006b108e.jpg",
+      "duration": 5138,
+      "duration_text": "1:25:38",
+      "published": "20260717",
+      "published_at": "2026-07-17T18:37:07+05:30",
+      "published_ts": 1784293627,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 30.35,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "2cd5b4995311e3f0",
       "title": "Smart Glasses, Blind Spots: How Meta's Wearables Are Watching You",
@@ -27,12 +60,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +74,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -137,39 +171,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "247da23e5214ae42",
-      "title": "Swami Yo Returns - Predictions, Tantric Secrets & Manifestation Techniques | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Swami-Yo-Returns---Predictions--Tantric-Secrets--Manifestation-Techniques--TRS-e3m3rnn",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122858679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2F427990160-44100-2-afc82a09eb667.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784098857928-3b3911a76414.jpg",
-      "duration": 6812,
-      "duration_text": "1:53:32",
-      "published": "20260715",
-      "published_at": "2026-07-15T12:32:42+05:30",
-      "published_ts": 1784098962,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
