@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:44:05.126704+05:30",
+  "generated_at": "2026-07-21T02:16:46.549619+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-19T01:44:05.126704+05:30",
+  "cutoff_time": "2026-07-20T02:16:46.549619+05:30",
   "episodes": [
+    {
+      "id": "00633920d014bf9c",
+      "title": "How Gajendra Kothari Stayed Invested Through 10 Years of Negative Returns | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/how-gajendra-kothari-stayed-invested-through-10-years-of-negative-returns-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/fc791530-81ee-4cad-88fb-b48c01171075/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/fc791530-81ee-4cad-88fb-b48c01171075/image.jpg?t=1784480539&size=Large",
+      "duration": 3280,
+      "duration_text": "54:40",
+      "published": "20260720",
+      "published_at": "2026-07-20T06:00:00+05:30",
+      "published_ts": 1784507400,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "e0bbfa1b78694ce5",
+      "title": "The Future of Insurance in India | Sarbvir Singh of PB Fintech",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/the-future-of-insurance-in-india-sarbvir-singh-of-pb-fintech",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/0b3d5eb3-3fe3-49c7-9f42-b48c00f73404/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/0b3d5eb3-3fe3-49c7-9f42-b48c00f73404/image.jpg?t=1784474282&size=Large",
+      "duration": 2515,
+      "duration_text": "41:55",
+      "published": "20260720",
+      "published_at": "2026-07-20T05:50:00+05:30",
+      "published_ts": 1784506800,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "d81282009cfe6047",
       "title": "Spiritual Secrets of Sikhism - Jaap, Karma, Kundalini & Past Lives | Simranjeet Singh Tohana | TRS",
@@ -39,39 +103,6 @@
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "2cd5b4995311e3f0",
-      "title": "Smart Glasses, Blind Spots: How Meta's Wearables Are Watching You",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/smart-glasses-blind-spots-how-metas-wearables-are-watching-you",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b6b3f3f8-74c9-4a33-b6a0-b489013303d9/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b6b3f3f8-74c9-4a33-b6a0-b489013303d9/image.jpg?t=1784227215&size=Large",
-      "duration": 2464,
-      "duration_text": "41:04",
-      "published": "20260717",
-      "published_at": "2026-07-17T05:50:00+05:30",
-      "published_ts": 1784247600,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -171,39 +202,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "9cab6d0d34e31665",
-      "title": "How India Moved From Saving to Investing According to a Mutual Fund CEO | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/how-india-moved-from-saving-to-investing-according-to-a-mutual-fund-ceo-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a5cb41b8-70ee-44ce-8de8-b47e016de85c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a5cb41b8-70ee-44ce-8de8-b47e016de85c/image.jpg?t=1783290795&size=Large",
-      "duration": 2006,
-      "duration_text": "33:26",
-      "published": "20260706",
-      "published_at": "2026-07-06T06:00:00+05:30",
-      "published_ts": 1783297800,
-      "latest_rank": 2,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
