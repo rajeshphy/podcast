@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:16:46.549619+05:30",
+  "generated_at": "2026-07-22T02:11:38.657904+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-20T02:16:46.549619+05:30",
+  "cutoff_time": "2026-07-21T02:11:38.657904+05:30",
   "episodes": [
+    {
+      "id": "c3fc17cbd1e7a8ec",
+      "title": "How To Live 150 YEARS: Biohacking Blueprint, Peptides & Futurism ft. Sowmay Jain | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/How-To-Live-150-YEARS-Biohacking-Blueprint--Peptides--Futurism-ft--Sowmay-Jain--TRS-e3mbtbs",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123122492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428347248-44100-2-d6b64a4f23dc8.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784639924508-0b49ee95ef3a4.jpg",
+      "duration": 6134,
+      "duration_text": "1:42:14",
+      "published": "20260721",
+      "published_at": "2026-07-21T19:16:18+05:30",
+      "published_ts": 1784641578,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "00633920d014bf9c",
       "title": "How Gajendra Kothari Stayed Invested Through 10 Years of Negative Returns | Paisa Vaisa",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -40,7 +73,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -56,53 +89,21 @@
       "published": "20260720",
       "published_at": "2026-07-20T05:50:00+05:30",
       "published_ts": 1784506800,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "ET Morning Brief"
-      ]
-    },
-    {
-      "id": "d81282009cfe6047",
-      "title": "Spiritual Secrets of Sikhism - Jaap, Karma, Kundalini & Past Lives | Simranjeet Singh Tohana | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Spiritual-Secrets-of-Sikhism---Jaap--Karma--Kundalini--Past-Lives--Simranjeet-Singh-Tohana--TRS-e3m6vnb",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/122961067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2F428129689-44100-2-d3378b71fdbde.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784293524133-fa6d9006b108e.jpg",
-      "duration": 5138,
-      "duration_text": "1:25:38",
-      "published": "20260717",
-      "published_at": "2026-07-17T18:37:07+05:30",
-      "published_ts": 1784293627,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.35,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
