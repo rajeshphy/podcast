@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T02:11:38.657904+05:30",
+  "generated_at": "2026-07-23T02:05:50.466130+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-21T02:11:38.657904+05:30",
+  "cutoff_time": "2026-07-22T02:05:50.466130+05:30",
   "episodes": [
+    {
+      "id": "425bfbe4d4b90453",
+      "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/what-counts-as-a-moon-huge-exosatellite-sparks-debate",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a60d2677d20badb289dbe0b/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1430,
+      "duration_text": "23:50",
+      "published": "20260722",
+      "published_at": "2026-07-22T20:30:00+05:30",
+      "published_ts": 1784732400,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "74841ef0aaf3121e",
+      "title": "India’s Engineering Crisis",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-Engineering-Crisis-e3mbe82",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/123107010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F798845e9-140c-0603-9c74-c3386cf020a5.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1784612589624-5562f8eefa3e4.jpg",
+      "duration": 2118,
+      "duration_text": "35:18",
+      "published": "20260722",
+      "published_at": "2026-07-22T17:00:00+05:30",
+      "published_ts": 1784719800,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 31.65,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
+      ]
+    },
     {
       "id": "c3fc17cbd1e7a8ec",
       "title": "How To Live 150 YEARS: Biohacking Blueprint, Peptides & Futurism ft. Sowmay Jain | TRS",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +105,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -77,39 +142,6 @@
       ]
     },
     {
-      "id": "e0bbfa1b78694ce5",
-      "title": "The Future of Insurance in India | Sarbvir Singh of PB Fintech",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/the-future-of-insurance-in-india-sarbvir-singh-of-pb-fintech",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/0b3d5eb3-3fe3-49c7-9f42-b48c00f73404/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/0b3d5eb3-3fe3-49c7-9f42-b48c00f73404/image.jpg?t=1784474282&size=Large",
-      "duration": 2515,
-      "duration_text": "41:55",
-      "published": "20260720",
-      "published_at": "2026-07-20T05:50:00+05:30",
-      "published_ts": 1784506800,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "7df8a121a8a683a5",
       "title": "M.R. Madhavan on Party Power and the Decline of India's Legislatures",
       "channel": "Ideas of India",
@@ -137,39 +169,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "02551cfc5b9f7f6f",
-      "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/holy-grail-of-naked-mole-rat-research-reveals-how-queens-rul",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a579d4bcebd1afd4461d078/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1360,
-      "duration_text": "22:40",
-      "published": "20260715",
-      "published_at": "2026-07-15T20:30:00+05:30",
-      "published_ts": 1784127600,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 31.8,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
