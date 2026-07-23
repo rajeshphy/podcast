@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T02:05:50.466130+05:30",
+  "generated_at": "2026-07-24T02:04:47.319010+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-22T02:05:50.466130+05:30",
+  "cutoff_time": "2026-07-23T02:04:47.319010+05:30",
   "episodes": [
+    {
+      "id": "1918364956640dd9",
+      "title": "ISRO's Exodus: Space Crisis, Staff Crisis",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/isros-exodus-space-crisis-staff-crisis",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/5a717706-6244-43af-b492-b48f012e785b/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/5a717706-6244-43af-b492-b48f012e785b/image.jpg?t=1784745659&size=Large",
+      "duration": 1263,
+      "duration_text": "21:03",
+      "published": "20260723",
+      "published_at": "2026-07-23T05:50:00+05:30",
+      "published_ts": 1784766000,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "425bfbe4d4b90453",
       "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,39 +73,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
-      ]
-    },
-    {
-      "id": "74841ef0aaf3121e",
-      "title": "India’s Engineering Crisis",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-Engineering-Crisis-e3mbe82",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/123107010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F798845e9-140c-0603-9c74-c3386cf020a5.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1784612589624-5562f8eefa3e4.jpg",
-      "duration": 2118,
-      "duration_text": "35:18",
-      "published": "20260722",
-      "published_at": "2026-07-22T17:00:00+05:30",
-      "published_ts": 1784719800,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 31.65,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India Economy"
+        "Latest in category"
       ]
     },
     {
