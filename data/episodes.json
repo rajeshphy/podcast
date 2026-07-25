@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T02:14:41.315648+05:30",
+  "generated_at": "2026-07-26T01:56:07.520856+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-24T02:14:41.315648+05:30",
+  "cutoff_time": "2026-07-25T01:56:07.520856+05:30",
   "episodes": [
     {
       "id": "fe32c3662b474bda",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +41,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
