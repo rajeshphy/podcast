@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T01:56:07.520856+05:30",
+  "generated_at": "2026-07-27T01:58:40.987762+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-25T01:56:07.520856+05:30",
+  "cutoff_time": "2026-07-26T01:58:40.987762+05:30",
   "episodes": [
     {
       "id": "fe32c3662b474bda",
@@ -24,11 +24,11 @@
       "published": "20260724",
       "published_at": "2026-07-24T05:50:00+05:30",
       "published_ts": 1784852400,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 32.1,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -144,6 +144,39 @@
       ]
     },
     {
+      "id": "21470f91b121db34",
+      "title": "The Crypto Skeptic vs The Coinbase CEO | Brian Armstrong x Nikhil Kamath | People by WTF",
+      "channel": "People by WTF",
+      "url": "https://listen.hubhopper.com/episode/the-crypto-skeptic-vs-the-coinbase-ceo-brian-armstrong-x-nikhil-kamath-people-by-wtf/33023095",
+      "audio_url": "https://play.hubhopper.com/5b8e34ec5b268e15f13ccb2e47608c38.mp3?s=rss-feed&v=787af6641fa0",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464609/people-by-wtf.jpeg?v=1749459878474620118",
+      "duration": 8353,
+      "duration_text": "2:19:13",
+      "published": "20260716",
+      "published_at": "2026-07-16T23:25:35+05:30",
+      "published_ts": 1784224535,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Latest in category",
+      "score": 29.95,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "people_by_wtf",
+      "feed_url": "https://feeds.hubhopper.com/db41907e6c28518ffe336b392c715ef1.rss",
+      "backfill": true,
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
       "id": "7df8a121a8a683a5",
       "title": "M.R. Madhavan on Party Power and the Decline of India's Legislatures",
       "channel": "Ideas of India",
@@ -204,39 +237,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "c5c3149b8b00a07f",
-      "title": "Abundance vs Scarcity: We Built 20 Brands With 30 Strangers In 90 Days | The Foundery",
-      "channel": "Nikhil Kamath",
-      "url": "https://listen.hubhopper.com/episode/abundance-vs-scarcity-we-built-20-brands-with-30-strangers-in-90-days-the-foundery/33019619",
-      "audio_url": "https://play.hubhopper.com/3c9da4c54926d2ba542b979ce115c4f6.mp3?s=rss-feed&v=0e88ea6233b1",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
-      "duration": 5739,
-      "duration_text": "1:35:39",
-      "published": "20260626",
-      "published_at": "2026-06-26T21:30:41+05:30",
-      "published_ts": 1782489641,
-      "latest_rank": 1,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Latest in category",
-      "score": 33.9,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "wtf_nikhil_kamath",
-      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
-      "backfill": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
       ],
       "queries": [
         "Latest in category"
