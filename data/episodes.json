@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T01:58:40.987762+05:30",
+  "generated_at": "2026-07-28T02:18:53.709883+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-26T01:58:40.987762+05:30",
+  "cutoff_time": "2026-07-27T02:18:53.709883+05:30",
   "episodes": [
+    {
+      "id": "fcf263e7263662ab",
+      "title": "Watch This After THE ODYSSEY - Trojan War, Greek History & Indian Connection | Abhijit Mitra | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Watch-This-After-THE-ODYSSEY---Trojan-War--Greek-History--Indian-Connection--Abhijit-Mitra--TRS-e3mjvti",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123387250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428705343-44100-2-b1c731d0ea1ae.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1785162200708-28c9191e3aac4.jpg",
+      "duration": 6709,
+      "duration_text": "1:51:49",
+      "published": "20260727",
+      "published_at": "2026-07-27T20:36:49+05:30",
+      "published_ts": 1785164809,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "1132073eacec497a",
+      "title": "Monsoon Dengue is Over — Dengue is Now a Year-Long Threat | Dr Chandrakant Lahariya | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/monsoon-dengue-is-over-dengue-is-now-a-year-long-threat-dr-chandrakant-lahariya-doctor-vs-internet--73190764",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73190764/27_jul_26_dvi_27_july_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86a1bc4896a02f4af4894ea7e01920fd.jpg",
+      "duration": 3367,
+      "duration_text": "56:07",
+      "published": "20260727",
+      "published_at": "2026-07-27T15:48:14+05:30",
+      "published_ts": 1785147494,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "32bec4dd5a489560",
+      "title": "Managing India’s Crorepatis with Sandeep Jethwani on Wealth Management for HNIs | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/managing-india-s-crorepatis-with-sandeep-jethwani-on-wealth-management-for-hnis-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/6f976499-d5d3-4fb3-b0e0-b4930153f1c5/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/6f976499-d5d3-4fb3-b0e0-b4930153f1c5/image.jpg?t=1785098753&size=Large",
+      "duration": 3057,
+      "duration_text": "50:57",
+      "published": "20260727",
+      "published_at": "2026-07-27T06:00:00+05:30",
+      "published_ts": 1785112200,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "fe32c3662b474bda",
       "title": "Glenmark Chief on Cracking the Multi-Specific Code",
@@ -78,72 +174,6 @@
       ]
     },
     {
-      "id": "c3fc17cbd1e7a8ec",
-      "title": "How To Live 150 YEARS: Biohacking Blueprint, Peptides & Futurism ft. Sowmay Jain | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/How-To-Live-150-YEARS-Biohacking-Blueprint--Peptides--Futurism-ft--Sowmay-Jain--TRS-e3mbtbs",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123122492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428347248-44100-2-d6b64a4f23dc8.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1784639924508-0b49ee95ef3a4.jpg",
-      "duration": 6134,
-      "duration_text": "1:42:14",
-      "published": "20260721",
-      "published_at": "2026-07-21T19:16:18+05:30",
-      "published_ts": 1784641578,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "00633920d014bf9c",
-      "title": "How Gajendra Kothari Stayed Invested Through 10 Years of Negative Returns | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/how-gajendra-kothari-stayed-invested-through-10-years-of-negative-returns-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/fc791530-81ee-4cad-88fb-b48c01171075/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/fc791530-81ee-4cad-88fb-b48c01171075/image.jpg?t=1784480539&size=Large",
-      "duration": 3280,
-      "duration_text": "54:40",
-      "published": "20260720",
-      "published_at": "2026-07-20T06:00:00+05:30",
-      "published_ts": 1784507400,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "21470f91b121db34",
       "title": "The Crypto Skeptic vs The Coinbase CEO | Brian Armstrong x Nikhil Kamath | People by WTF",
       "channel": "People by WTF",
@@ -204,39 +234,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "8f7add3a515203e4",
-      "title": "The Truth About Andropause: Why Men Get Menopause Too | Dr Ambrish Mithal |Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/the-truth-about-andropause-why-men-get-menopause-too-dr-ambrish-mithal-doctor-vs-internet--72986234",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72986234/15_jul_26_dvi_15_july_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/17f6ffac94ce472ecb0a8c3122457171.jpg",
-      "duration": 3599,
-      "duration_text": "59:59",
-      "published": "20260715",
-      "published_at": "2026-07-15T13:50:33+05:30",
-      "published_ts": 1784103633,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
