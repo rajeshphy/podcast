@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T02:18:53.709883+05:30",
+  "generated_at": "2026-07-29T02:10:14.543093+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-27T02:18:53.709883+05:30",
+  "cutoff_time": "2026-07-28T02:10:14.543093+05:30",
   "episodes": [
+    {
+      "id": "7e2a71ef1f496aca",
+      "title": "Cockroaches, Courts & Committees: What Did India’s GenZ Really Win?",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/cockroaches-courts-committees-what-did-india-s-genz-really-win",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/95d1fe02-1594-47ba-8cbc-b49401317ab4/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/95d1fe02-1594-47ba-8cbc-b49401317ab4/image.jpg?t=1785177789&size=Large",
+      "duration": 1902,
+      "duration_text": "31:42",
+      "published": "20260728",
+      "published_at": "2026-07-28T05:50:00+05:30",
+      "published_ts": 1785198000,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "fcf263e7263662ab",
       "title": "Watch This After THE ODYSSEY - Trojan War, Greek History & Indian Connection | Abhijit Mitra | TRS",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +73,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +92,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
+      "query": "Latest in category",
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -72,7 +106,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
@@ -91,50 +125,18 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Paisa Vaisa"
-      ]
-    },
-    {
-      "id": "fe32c3662b474bda",
-      "title": "Glenmark Chief on Cracking the Multi-Specific Code",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/glenmark-chief-on-cracking-the-multi-specific-code",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/fe1eb7d6-907a-4856-aed7-b49001392176/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/fe1eb7d6-907a-4856-aed7-b49001392176/image.jpg?t=1784833420&size=Large",
-      "duration": 1882,
-      "duration_text": "31:22",
-      "published": "20260724",
-      "published_at": "2026-07-24T05:50:00+05:30",
-      "published_ts": 1784852400,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
