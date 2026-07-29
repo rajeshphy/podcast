@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:10:14.543093+05:30",
+  "generated_at": "2026-07-30T01:58:26.043615+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-28T02:10:14.543093+05:30",
+  "cutoff_time": "2026-07-29T01:58:26.043615+05:30",
   "episodes": [
+    {
+      "id": "782a92a55ca7c2f5",
+      "title": "Earthworks spotted in the Amazon hint at huge ancient civilization",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02367-x",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a6a150c6043035f8908fe0a/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1230,
+      "duration_text": "20:30",
+      "published": "20260729",
+      "published_at": "2026-07-29T20:30:00+05:30",
+      "published_ts": 1785337200,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
     {
       "id": "7e2a71ef1f496aca",
       "title": "Cockroaches, Courts & Committees: What Did India’s GenZ Really Win?",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +73,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -137,39 +170,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "425bfbe4d4b90453",
-      "title": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/what-counts-as-a-moon-huge-exosatellite-sparks-debate",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a60d2677d20badb289dbe0b/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1430,
-      "duration_text": "23:50",
-      "published": "20260722",
-      "published_at": "2026-07-22T20:30:00+05:30",
-      "published_ts": 1784732400,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 30.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
