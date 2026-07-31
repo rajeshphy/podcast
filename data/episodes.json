@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T02:10:06.524240+05:30",
+  "generated_at": "2026-08-01T02:09:33.599003+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,38 +9,38 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-07-30T02:10:06.524240+05:30",
+  "cutoff_time": "2026-07-31T02:09:33.599003+05:30",
   "episodes": [
     {
-      "id": "e85be82dcf015d3d",
-      "title": "The Conspiracy Theory Podcast - Mushrooms, Cowspiracy & Jesus Christ | Kip Andersen On TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/The-Conspiracy-Theory-Podcast---Mushrooms--Cowspiracy--Jesus-Christ--Kip-Andersen-On-TRS-e3mo98k",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123527892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-30%2F428896338-44100-2-38ae8b7d14cdd.mp3",
+      "id": "8c3846895c680d41",
+      "title": "No Place to Hide: Inside Maharashtra’s Food & Drug Crackdown (Part 1)",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/no-place-to-hide-inside-maharashtra-s-food-drug-crackdown-part-1",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/30440d72-3d0f-48f0-9be1-b4970127a653/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1785411562587-188effca69343.jpg",
-      "duration": 4690,
-      "duration_text": "1:18:10",
-      "published": "20260730",
-      "published_at": "2026-07-30T17:09:46+05:30",
-      "published_ts": 1785411586,
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/30440d72-3d0f-48f0-9be1-b4970127a653/image.jpg?t=1785434660&size=Large",
+      "duration": 1429,
+      "duration_text": "23:49",
+      "published": "20260731",
+      "published_at": "2026-07-31T05:50:00+05:30",
+      "published_ts": 1785457200,
       "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 31.9,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "categories": [
-        "ideas"
+        "markets"
       ],
       "category_labels": [
-        "Ideas"
+        "Markets"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "ET Morning Brief"
       ]
     },
     {
@@ -59,12 +59,13 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 29.4,
+      "query": "Latest in category",
+      "score": 28.9,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
@@ -72,7 +73,7 @@
         "Policy"
       ],
       "queries": [
-        "Ideas of India"
+        "Latest in category"
       ]
     },
     {
@@ -88,11 +89,11 @@
       "published": "20260729",
       "published_at": "2026-07-29T20:30:00+05:30",
       "published_ts": 1785337200,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -109,33 +110,33 @@
       ]
     },
     {
-      "id": "7e2a71ef1f496aca",
-      "title": "Cockroaches, Courts & Committees: What Did India’s GenZ Really Win?",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/cockroaches-courts-committees-what-did-india-s-genz-really-win",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/95d1fe02-1594-47ba-8cbc-b49401317ab4/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "id": "fcf263e7263662ab",
+      "title": "Watch This After THE ODYSSEY - Trojan War, Greek History & Indian Connection | Abhijit Mitra | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Watch-This-After-THE-ODYSSEY---Trojan-War--Greek-History--Indian-Connection--Abhijit-Mitra--TRS-e3mjvti",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123387250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-27%2F428705343-44100-2-b1c731d0ea1ae.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/95d1fe02-1594-47ba-8cbc-b49401317ab4/image.jpg?t=1785177789&size=Large",
-      "duration": 1902,
-      "duration_text": "31:42",
-      "published": "20260728",
-      "published_at": "2026-07-28T05:50:00+05:30",
-      "published_ts": 1785198000,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1785162200708-28c9191e3aac4.jpg",
+      "duration": 6709,
+      "duration_text": "1:51:49",
+      "published": "20260727",
+      "published_at": "2026-07-27T20:36:49+05:30",
+      "published_ts": 1785164809,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
       "query": "Latest in category",
-      "score": 31.3,
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
       "backfill": true,
       "categories": [
-        "markets"
+        "ideas"
       ],
       "category_labels": [
-        "Markets"
+        "Ideas"
       ],
       "queries": [
         "Latest in category"
