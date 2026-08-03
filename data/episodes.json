@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:56:09.252393+05:30",
+  "generated_at": "2026-08-04T02:11:30.621171+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-02T01:56:09.252393+05:30",
+  "cutoff_time": "2026-08-03T02:11:30.621171+05:30",
   "episodes": [
+    {
+      "id": "73dc9e7e5bd49dc2",
+      "title": "6 Hours of Sleep is Destroying Your Healthspan | Here's Why | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/6-hours-of-sleep-is-destroying-your-healthspan-here-s-why-doctor-vs-internet--73379917",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73379917/03_aug_26_doc_vs_int_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a110292689959595697533aad74e61ef.jpg",
+      "duration": 5453,
+      "duration_text": "1:30:53",
+      "published": "20260803",
+      "published_at": "2026-08-03T15:58:57+05:30",
+      "published_ts": 1785752937,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 31.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "6bcc241e9a2c0280",
+      "title": "Why Investors Switch Mutual Funds Despite Good Returns | Mitu Samar | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-investors-switch-mutual-funds-despite-good-returns-mitu-samar-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/image.jpg?t=1785502502&size=Large",
+      "duration": 2676,
+      "duration_text": "44:36",
+      "published": "20260803",
+      "published_at": "2026-08-03T06:00:00+05:30",
+      "published_ts": 1785717000,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 33.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "a3d36c1e7d8de3de",
+      "title": "Cognizant’s Surya Gummadi on How AI Can Deliver Returns",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/cognizant-s-surya-gummadi-on-how-ai-can-deliver-returns",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/068df602-a6bf-435e-a3cb-b49a00b5f6ed/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/068df602-a6bf-435e-a3cb-b49a00b5f6ed/image.jpg?t=1785669308&size=Large",
+      "duration": 1526,
+      "duration_text": "25:26",
+      "published": "20260803",
+      "published_at": "2026-08-03T05:50:00+05:30",
+      "published_ts": 1785716400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "b53211fe9ee09fdb",
       "title": "EVERY INDIAN MUST WATCH THIS 🇮🇳 - Ahom History Special | Sauradeep Nath on TRS",
@@ -18,7 +114,7 @@
       "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/EVERY-INDIAN-MUST-WATCH-THIS----Ahom-History-Special--Sauradeep-Nath-on-TRS-e3mqvs2",
       "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123616578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-1%2F429017142-44100-2-88975eea4903e.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1785738699124-a83061b3cdbbb.jpg",
       "duration": 5856,
       "duration_text": "1:37:36",
       "published": "20260801",
@@ -39,39 +135,6 @@
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "8c3846895c680d41",
-      "title": "No Place to Hide: Inside Maharashtra’s Food & Drug Crackdown (Part 1)",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/no-place-to-hide-inside-maharashtra-s-food-drug-crackdown-part-1",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/30440d72-3d0f-48f0-9be1-b4970127a653/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/30440d72-3d0f-48f0-9be1-b4970127a653/image.jpg?t=1785434660&size=Large",
-      "duration": 1429,
-      "duration_text": "23:49",
-      "published": "20260731",
-      "published_at": "2026-07-31T05:50:00+05:30",
-      "published_ts": 1785457200,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -138,72 +201,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "1132073eacec497a",
-      "title": "Monsoon Dengue is Over — Dengue is Now a Year-Long Threat | Dr Chandrakant Lahariya | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/monsoon-dengue-is-over-dengue-is-now-a-year-long-threat-dr-chandrakant-lahariya-doctor-vs-internet--73190764",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73190764/27_jul_26_dvi_27_july_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/86a1bc4896a02f4af4894ea7e01920fd.jpg",
-      "duration": 3367,
-      "duration_text": "56:07",
-      "published": "20260727",
-      "published_at": "2026-07-27T15:48:14+05:30",
-      "published_ts": 1785147494,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "32bec4dd5a489560",
-      "title": "Managing India’s Crorepatis with Sandeep Jethwani on Wealth Management for HNIs | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/managing-india-s-crorepatis-with-sandeep-jethwani-on-wealth-management-for-hnis-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/6f976499-d5d3-4fb3-b0e0-b4930153f1c5/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/6f976499-d5d3-4fb3-b0e0-b4930153f1c5/image.jpg?t=1785098753&size=Large",
-      "duration": 3057,
-      "duration_text": "50:57",
-      "published": "20260727",
-      "published_at": "2026-07-27T06:00:00+05:30",
-      "published_ts": 1785112200,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
