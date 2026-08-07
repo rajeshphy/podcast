@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:12:37.136497+05:30",
+  "generated_at": "2026-08-07T06:15:29.211717+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,94 +9,30 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-05T02:12:37.136497+05:30",
+  "cutoff_time": "2026-08-06T06:15:29.211717+05:30",
   "episodes": [
     {
-      "id": "17e0d748b0794991",
-      "title": "Peak Pessimism in India: What Does The Data Say?",
-      "channel": "Capitalmind",
-      "url": "https://capitalmind.libsyn.com/peak-pessimism-in-india-what-does-the-data-say",
-      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/CM_Podcast_-_Peak_Pessimism.mp3?dest-id=1084508",
+      "id": "0e76124747c7c00b",
+      "title": "IT Secy on ISM 2.0, Social Media Regulation & India's AI Race",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/it-secy-on-ism-2-0-social-media-regulation-indias-ai-race",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/154bfb23-cc23-40fe-98ae-b49e0133ec53/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
-      "duration": 3360,
-      "duration_text": "56:00",
-      "published": "20260805",
-      "published_at": "2026-08-05T19:39:00+05:30",
-      "published_ts": 1785938940,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Capitalmind",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "capitalmind",
-      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Capitalmind"
-      ]
-    },
-    {
-      "id": "90ccb389f5698945",
-      "title": "AI Can Optimize Your Investments. But Is That Your Biggest Financial Risk?",
-      "channel": "Capitalmind",
-      "url": "https://capitalmind.libsyn.com/ai-can-optimize-your-investments-but-is-that-your-biggest-financial-risk",
-      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/CM_Podcast_-_AI_Can_Optimize_Your_Investments._But_Is_That_Your_Biggest_Financial_Risk_.mp3?dest-id=1084508",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
-      "duration": 4199,
-      "duration_text": "1:09:59",
-      "published": "20260805",
-      "published_at": "2026-08-05T19:18:00+05:30",
-      "published_ts": 1785937680,
-      "latest_rank": 2,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Capitalmind",
-      "score": 30.6,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "capitalmind",
-      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Capitalmind"
-      ]
-    },
-    {
-      "id": "9e179bfda68d8e87",
-      "title": "Why India's GDP Growth Isn't Resulting in Prosperity",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Why-Indias-GDP-Growth-Isnt-Resulting-in-Prosperity-e3mun0a",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/123738570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-4%2F906fcedc-df3b-bd84-e50d-064656964efe.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1785821555455-328e3e8ecb192.jpg",
-      "duration": 1993,
-      "duration_text": "33:13",
-      "published": "20260805",
-      "published_at": "2026-08-05T17:00:00+05:30",
-      "published_ts": 1785929400,
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/154bfb23-cc23-40fe-98ae-b49e0133ec53/image.jpg?t=1786041928&size=Large",
+      "duration": 1366,
+      "duration_text": "22:46",
+      "published": "20260807",
+      "published_at": "2026-08-07T05:50:00+05:30",
+      "published_ts": 1786062000,
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "India Economy",
-      "score": 31.65,
+      "query": "ET Morning Brief",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "categories": [
         "markets"
       ],
@@ -104,7 +40,7 @@
         "Markets"
       ],
       "queries": [
-        "India Economy"
+        "ET Morning Brief"
       ]
     },
     {
@@ -123,12 +59,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "A Century Of Stories",
-      "score": 29.8,
+      "query": "Latest in category",
+      "score": 29.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "century_of_stories",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -136,7 +73,7 @@
         "Ideas"
       ],
       "queries": [
-        "A Century Of Stories"
+        "Latest in category"
       ]
     },
     {
@@ -167,6 +104,39 @@
       ],
       "category_labels": [
         "Health"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "6bcc241e9a2c0280",
+      "title": "Why Investors Switch Mutual Funds Despite Good Returns | Mitu Samar | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-investors-switch-mutual-funds-despite-good-returns-mitu-samar-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/image.jpg?t=1785502502&size=Large",
+      "duration": 2676,
+      "duration_text": "44:36",
+      "published": "20260803",
+      "published_at": "2026-08-03T06:00:00+05:30",
+      "published_ts": 1785717000,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Latest in category",
+      "score": 32.75,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
       ],
       "queries": [
         "Latest in category"
