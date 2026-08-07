@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:15:29.211717+05:30",
+  "generated_at": "2026-08-08T01:33:58.039482+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-06T06:15:29.211717+05:30",
+  "cutoff_time": "2026-08-07T01:33:58.039482+05:30",
   "episodes": [
     {
       "id": "0e76124747c7c00b",
@@ -188,11 +188,11 @@
       "published": "20260729",
       "published_at": "2026-07-29T20:30:00+05:30",
       "published_ts": 1785337200,
-      "latest_rank": 3,
+      "latest_rank": 4,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 29.95,
+      "score": 29.15,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
