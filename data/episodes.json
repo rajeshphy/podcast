@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:21:23.042101+05:30",
+  "generated_at": "2026-08-10T01:24:31.113170+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-08T01:21:23.042101+05:30",
+  "cutoff_time": "2026-08-09T01:24:31.113170+05:30",
   "episodes": [
-    {
-      "id": "f2f91f7ab2f860e9",
-      "title": "Brett Lee Unfiltered: FASTEST BOWLER EVER -Sachin, Kohli & Preity Zinta | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Brett-Lee-Unfiltered-FASTEST-BOWLER-EVER--Sachin--Kohli--Preity-Zinta--TRS-e3n4ne4",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/123935620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-8%2F429449064-44100-2-f0b669f6462b7.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1786170135757-c93c8f0fbecf4.jpg",
-      "duration": 3498,
-      "duration_text": "58:18",
-      "published": "20260808",
-      "published_at": "2026-08-08T16:00:00+05:30",
-      "published_ts": 1786185000,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.85,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
     {
       "id": "0e76124747c7c00b",
       "title": "IT Secy on ISM 2.0, Social Media Regulation & India's AI Race",
@@ -56,11 +24,11 @@
       "published": "20260807",
       "published_at": "2026-08-07T05:50:00+05:30",
       "published_ts": 1786062000,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 32.1,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -71,6 +39,39 @@
       ],
       "category_labels": [
         "Markets"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "53c5a13c855f1f65",
+      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
+      "channel": "A Century Of Stories",
+      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
+      "duration": 2628,
+      "duration_text": "43:48",
+      "published": "20260805",
+      "published_at": "2026-08-05T10:40:00+05:30",
+      "published_ts": 1785906600,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 29.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "century_of_stories",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
       ],
       "queries": [
         "Latest in category"
