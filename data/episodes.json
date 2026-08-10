@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:24:31.113170+05:30",
+  "generated_at": "2026-08-11T01:36:26.852107+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,31 +9,126 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-09T01:24:31.113170+05:30",
+  "cutoff_time": "2026-08-10T01:36:26.852107+05:30",
   "episodes": [
     {
-      "id": "0e76124747c7c00b",
-      "title": "IT Secy on ISM 2.0, Social Media Regulation & India's AI Race",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/it-secy-on-ism-2-0-social-media-regulation-indias-ai-race",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/154bfb23-cc23-40fe-98ae-b49e0133ec53/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "id": "69f2fd5285c4f292",
+      "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/the-battery-everyone-uses-is-the-one-theyd-never-build-enervenue-x-hina-wtf-are-batteries/33026545",
+      "audio_url": "https://play.hubhopper.com/762eced7f73c05baa17e803c4d5e33b3.mp3?s=rss-feed&v=7d0401b70514",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/154bfb23-cc23-40fe-98ae-b49e0133ec53/image.jpg?t=1786041928&size=Large",
-      "duration": 1366,
-      "duration_text": "22:46",
-      "published": "20260807",
-      "published_at": "2026-08-07T05:50:00+05:30",
-      "published_ts": 1786062000,
-      "latest_rank": 2,
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 4209,
+      "duration_text": "1:10:09",
+      "published": "20260810",
+      "published_at": "2026-08-10T22:42:30+05:30",
+      "published_ts": 1786381950,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Nikhil Kamath",
+      "score": 34.95,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Nikhil Kamath"
+      ]
+    },
+    {
+      "id": "f1ac58edc8113197",
+      "title": "Why Fasting Fails For Weight Loss: A Doctor’s Guide | Dr Shubham Vatsya | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/why-fasting-fails-for-weight-loss-a-doctor-s-guide-dr-shubham-vatsya-doctor-vs-internet--73753850",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73753850/10_aug_26_dvi_10_aug_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/33a033da42c9ed921a179f3b616d8c91.jpg",
+      "duration": 3968,
+      "duration_text": "1:06:08",
+      "published": "20260810",
+      "published_at": "2026-08-10T16:40:41+05:30",
+      "published_ts": 1786360241,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "c5a12af7bced7216",
+      "title": "Why Chasing Returns Hurts Serious Investors in PMS and AIFs | Vaibhav Agrawal | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-chasing-returns-hurts-serious-investors-in-pms-and-aifs-vaibhav-agrawal-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2694aa2d-e13e-46f0-935a-b49f00a9825b/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2694aa2d-e13e-46f0-935a-b49f00a9825b/image.jpg?t=1786098167&size=Large",
+      "duration": 2308,
+      "duration_text": "38:28",
+      "published": "20260810",
+      "published_at": "2026-08-10T06:00:00+05:30",
+      "published_ts": 1786321800,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "905b0484aa85c7ad",
+      "title": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/linkedin-ceo-on-ai-jobs-agentic-hiring-and-the-ai-slop-problem",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39692a3e-3758-4284-b000-b4a101279545/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39692a3e-3758-4284-b000-b4a101279545/image.jpg?t=1786298333&size=Large",
+      "duration": 1690,
+      "duration_text": "28:10",
+      "published": "20260810",
+      "published_at": "2026-08-10T05:50:00+05:30",
+      "published_ts": 1786321200,
+      "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
+      "query": "ET Morning Brief",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -41,7 +136,7 @@
         "Markets"
       ],
       "queries": [
-        "Latest in category"
+        "ET Morning Brief"
       ]
     },
     {
@@ -72,72 +167,6 @@
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "73dc9e7e5bd49dc2",
-      "title": "6 Hours of Sleep is Destroying Your Healthspan | Here's Why | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/6-hours-of-sleep-is-destroying-your-healthspan-here-s-why-doctor-vs-internet--73379917",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73379917/03_aug_26_doc_vs_int_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a110292689959595697533aad74e61ef.jpg",
-      "duration": 5453,
-      "duration_text": "1:30:53",
-      "published": "20260803",
-      "published_at": "2026-08-03T15:58:57+05:30",
-      "published_ts": 1785752937,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "6bcc241e9a2c0280",
-      "title": "Why Investors Switch Mutual Funds Despite Good Returns | Mitu Samar | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-investors-switch-mutual-funds-despite-good-returns-mitu-samar-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/59e7c628-a2b7-4c9a-9758-b49800d37f93/image.jpg?t=1785502502&size=Large",
-      "duration": 2676,
-      "duration_text": "44:36",
-      "published": "20260803",
-      "published_at": "2026-08-03T06:00:00+05:30",
-      "published_ts": 1785717000,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 32.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
@@ -204,39 +233,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "21470f91b121db34",
-      "title": "The Crypto Skeptic vs The Coinbase CEO | Brian Armstrong x Nikhil Kamath | People by WTF",
-      "channel": "People by WTF",
-      "url": "https://listen.hubhopper.com/episode/the-crypto-skeptic-vs-the-coinbase-ceo-brian-armstrong-x-nikhil-kamath-people-by-wtf/33023095",
-      "audio_url": "https://play.hubhopper.com/5b8e34ec5b268e15f13ccb2e47608c38.mp3?s=rss-feed&v=787af6641fa0",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://files.hubhopper.com/podcast/464609/people-by-wtf.jpeg?v=1749459878474620118",
-      "duration": 8353,
-      "duration_text": "2:19:13",
-      "published": "20260716",
-      "published_at": "2026-07-16T23:25:35+05:30",
-      "published_ts": 1784224535,
-      "latest_rank": 1,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Latest in category",
-      "score": 29.95,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "people_by_wtf",
-      "feed_url": "https://feeds.hubhopper.com/db41907e6c28518ffe336b392c715ef1.rss",
-      "backfill": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
       ],
       "queries": [
         "Latest in category"
