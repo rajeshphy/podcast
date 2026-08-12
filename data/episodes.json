@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T01:38:38.083070+05:30",
+  "generated_at": "2026-08-13T01:38:17.981223+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-11T01:38:38.083070+05:30",
+  "cutoff_time": "2026-08-12T01:38:17.981223+05:30",
   "episodes": [
-    {
-      "id": "53ca58c2ea1ae0a0",
-      "title": "THE ICE MAN On TRS - Cold Therapy, Breathing, Yoga & The Science Of Healing ft. Wim Hof",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/THE-ICE-MAN-On-TRS---Cold-Therapy--Breathing--Yoga--The-Science-Of-Healing-ft--Wim-Hof-e3n8sc2",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/124071746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-11%2F429634199-44100-2-f229a68e0790c.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1786453985993-61ced5deeee2e.jpg",
-      "duration": 6020,
-      "duration_text": "1:40:20",
-      "published": "20260811",
-      "published_at": "2026-08-11T18:46:40+05:30",
-      "published_ts": 1786454200,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
     {
       "id": "69f2fd5285c4f292",
       "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
@@ -176,6 +144,39 @@
       ]
     },
     {
+      "id": "53c5a13c855f1f65",
+      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
+      "channel": "A Century Of Stories",
+      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
+      "duration": 2628,
+      "duration_text": "43:48",
+      "published": "20260805",
+      "published_at": "2026-08-05T10:40:00+05:30",
+      "published_ts": 1785906600,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 29.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "century_of_stories",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
       "id": "3f10c249659e6cf7",
       "title": "Shreyas Narla and Kadambari Shah on the 'The 1991 Project'",
       "channel": "Ideas of India",
@@ -221,11 +222,11 @@
       "published": "20260729",
       "published_at": "2026-07-29T20:30:00+05:30",
       "published_ts": 1785337200,
-      "latest_rank": 4,
+      "latest_rank": 5,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 29.15,
+      "score": 28.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
