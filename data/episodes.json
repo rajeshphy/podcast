@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:38:17.981223+05:30",
+  "generated_at": "2026-08-14T01:33:05.961694+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-12T01:38:17.981223+05:30",
+  "cutoff_time": "2026-08-13T01:33:05.961694+05:30",
   "episodes": [
+    {
+      "id": "07dd8664a3679c61",
+      "title": "Gaurav Chiplunkar on the Frictions in India's Labor Market",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/gaurav-chiplunkar-on-the-frictions-in-indias-labor-market",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-140-GauravChiplunkar-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/f/b/4/a/fb4a26efba05f4a516c3140a3186d450/IOI-140-GauravChiplunkar-LibsynGraphic.png",
+      "duration": 5481,
+      "duration_text": "1:31:21",
+      "published": "20260813",
+      "published_at": "2026-08-13T16:30:00+05:30",
+      "published_ts": 1786618800,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 29.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "350bda08e83aed97",
+      "title": "Sarvam AI on NVIDIA's Investment, Voice AI Economics, and India's AI Strategy",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/sarvam-ai-on-nvidias-investment-voice-ai-economics-and-indias-ai-strategy",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/image.jpg?t=1786548544&size=Large",
+      "duration": 2281,
+      "duration_text": "38:01",
+      "published": "20260813",
+      "published_at": "2026-08-13T05:50:00+05:30",
+      "published_ts": 1786580400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "69f2fd5285c4f292",
       "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
@@ -111,39 +175,6 @@
       ]
     },
     {
-      "id": "905b0484aa85c7ad",
-      "title": "LinkedIn CEO on AI Jobs, Agentic Hiring and the AI Slop Problem",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/linkedin-ceo-on-ai-jobs-agentic-hiring-and-the-ai-slop-problem",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39692a3e-3758-4284-b000-b4a101279545/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/39692a3e-3758-4284-b000-b4a101279545/image.jpg?t=1786298333&size=Large",
-      "duration": 1690,
-      "duration_text": "28:10",
-      "published": "20260810",
-      "published_at": "2026-08-10T05:50:00+05:30",
-      "published_ts": 1786321200,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "53c5a13c855f1f65",
       "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
       "channel": "A Century Of Stories",
@@ -171,39 +202,6 @@
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "3f10c249659e6cf7",
-      "title": "Shreyas Narla and Kadambari Shah on the 'The 1991 Project'",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/shreyas-narla-and-kadambari-shah-on-the-the-1991-project",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-141-1991Project-AudioFinal-V2.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/4/5/8/0/45806beceb4ca5fe16c3140a3186d450/IOI-141-1991Anniversary-LibsynGraphic.png",
-      "duration": 6837,
-      "duration_text": "1:53:57",
-      "published": "20260730",
-      "published_at": "2026-07-30T16:30:00+05:30",
-      "published_ts": 1785409200,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 28.9,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
