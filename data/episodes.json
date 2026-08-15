@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:31:34.786425+05:30",
+  "generated_at": "2026-08-16T01:12:14.613703+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-14T01:31:34.786425+05:30",
+  "cutoff_time": "2026-08-15T01:12:14.613703+05:30",
   "episodes": [
-    {
-      "id": "e16a1da84a32463a",
-      "title": "Practical Sadhana Guide (Roundtable) - Kaam, Arth, Moksha & Maya ft. Bhavesh Yuj & Maa Gyaan S | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Practical-Sadhana-Guide-Roundtable---Kaam--Arth--Moksha--Maya-ft--Bhavesh-Yuj--Maa-Gyaan-S--TRS-e3ndce0",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/124219264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429837968-44100-2-2a0796281d0c.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1786714168457-92a5f855ee628.jpg",
-      "duration": 8033,
-      "duration_text": "2:13:53",
-      "published": "20260814",
-      "published_at": "2026-08-14T19:01:44+05:30",
-      "published_ts": 1786714304,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
     {
       "id": "07dd8664a3679c61",
       "title": "Gaurav Chiplunkar on the Frictions in India's Labor Market",
@@ -203,6 +171,39 @@
       ],
       "category_labels": [
         "Finance"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "53c5a13c855f1f65",
+      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
+      "channel": "A Century Of Stories",
+      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
+      "duration": 2628,
+      "duration_text": "43:48",
+      "published": "20260805",
+      "published_at": "2026-08-05T10:40:00+05:30",
+      "published_ts": 1785906600,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 29.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "century_of_stories",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
       ],
       "queries": [
         "Latest in category"
