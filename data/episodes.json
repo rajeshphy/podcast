@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:10:59.446842+05:30",
+  "generated_at": "2026-08-18T01:19:02.555055+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-16T01:10:59.446842+05:30",
+  "cutoff_time": "2026-08-17T01:19:02.555055+05:30",
   "episodes": [
+    {
+      "id": "55bad0ee08bc97c5",
+      "title": "India’s REIT Opportunity with Amit Shetty on Commercial Real Estate and GCC Growth | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/india-s-reit-opportunity-with-amit-shetty-on-commercial-real-estate-and-gcc-growth-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/5f0b5da4-694c-4340-a4d7-b4a600c1b1dd/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/5f0b5da4-694c-4340-a4d7-b4a600c1b1dd/image.jpg?t=1786962273&size=Large",
+      "duration": 2445,
+      "duration_text": "40:45",
+      "published": "20260817",
+      "published_at": "2026-08-17T06:00:00+05:30",
+      "published_ts": 1786926600,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "07dd8664a3679c61",
       "title": "Gaurav Chiplunkar on the Frictions in India's Labor Market",
@@ -138,39 +170,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "c5a12af7bced7216",
-      "title": "Why Chasing Returns Hurts Serious Investors in PMS and AIFs | Vaibhav Agrawal | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-chasing-returns-hurts-serious-investors-in-pms-and-aifs-vaibhav-agrawal-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2694aa2d-e13e-46f0-935a-b49f00a9825b/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2694aa2d-e13e-46f0-935a-b49f00a9825b/image.jpg?t=1786098167&size=Large",
-      "duration": 2308,
-      "duration_text": "38:28",
-      "published": "20260810",
-      "published_at": "2026-08-10T06:00:00+05:30",
-      "published_ts": 1786321800,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
