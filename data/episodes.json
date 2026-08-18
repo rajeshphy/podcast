@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:19:02.555055+05:30",
+  "generated_at": "2026-08-19T01:17:06.904292+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-17T01:19:02.555055+05:30",
+  "cutoff_time": "2026-08-18T01:17:06.904292+05:30",
   "episodes": [
+    {
+      "id": "140e36c8c6a23ce2",
+      "title": "2026 GenZ Health Warning - DON'T IGNORE THIS | Top Hormone Doc Dr. Saptarshi B On TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/2026-GenZ-Health-Warning---DONT-IGNORE-THIS--Top-Hormone-Doc-Dr--Saptarshi-B-On-TRS-e3nihih",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/124388369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F430067629-44100-2-7fb01717f9181.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1787059759118-e2f433af8432a.jpg",
+      "duration": 5133,
+      "duration_text": "1:25:33",
+      "published": "20260818",
+      "published_at": "2026-08-18T19:02:11+05:30",
+      "published_ts": 1787059931,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 31.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "55bad0ee08bc97c5",
       "title": "India’s REIT Opportunity with Amit Shetty on Commercial Real Estate and GCC Growth | Paisa Vaisa",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -40,7 +73,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -89,11 +122,11 @@
       "published": "20260813",
       "published_at": "2026-08-13T05:50:00+05:30",
       "published_ts": 1786580400,
-      "latest_rank": 3,
+      "latest_rank": 4,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 30.5,
+      "score": 29.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -170,39 +203,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "53c5a13c855f1f65",
-      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
-      "channel": "A Century Of Stories",
-      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
-      "duration": 2628,
-      "duration_text": "43:48",
-      "published": "20260805",
-      "published_at": "2026-08-05T10:40:00+05:30",
-      "published_ts": 1785906600,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "century_of_stories",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
