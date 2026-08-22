@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:15:04.010041+05:30",
+  "generated_at": "2026-08-23T01:13:29.802438+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-21T01:15:04.010041+05:30",
+  "cutoff_time": "2026-08-22T01:13:29.802438+05:30",
   "episodes": [
-    {
-      "id": "158cc552bfc05811",
-      "title": "India's $60 billion data-center bet, and the jobs it won't actually create",
-      "channel": "Daybreak",
-      "url": "https://share.transistor.fm/s/062f6fb3",
-      "audio_url": "https://media.transistor.fm/062f6fb3/e86d917f.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://img.transistorcdn.com/42zD1cQkZyAKVebFOI-6WXB3ZF6LGDKOmqFmisMWQcM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYjMz/NzY2M2NkZWRlMWU1/NWY0OTU0MWU3MDhk/MmM0Yi5wbmc.jpg",
-      "duration": 1255,
-      "duration_text": "20:55",
-      "published": "20260821",
-      "published_at": "2026-08-21T02:00:00+05:30",
-      "published_ts": 1787257800,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Daybreak",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "daybreak_ken",
-      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Daybreak"
-      ]
-    },
     {
       "id": "021c783403bcaced",
       "title": "A black hole's spin could finally be measured by a high-speed star",
@@ -137,6 +105,39 @@
       ],
       "category_labels": [
         "Policy"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "350bda08e83aed97",
+      "title": "Sarvam AI on NVIDIA's Investment, Voice AI Economics, and India's AI Strategy",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/sarvam-ai-on-nvidias-investment-voice-ai-economics-and-indias-ai-strategy",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/image.jpg?t=1786548544&size=Large",
+      "duration": 2281,
+      "duration_text": "38:01",
+      "published": "20260813",
+      "published_at": "2026-08-13T05:50:00+05:30",
+      "published_ts": 1786580400,
+      "latest_rank": 6,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 28.1,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
       ],
       "queries": [
         "Latest in category"
