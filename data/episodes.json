@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:22:02.703630+05:30",
+  "generated_at": "2026-08-26T01:23:27.377535+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-24T01:22:02.703630+05:30",
+  "cutoff_time": "2026-08-25T01:23:27.377535+05:30",
   "episodes": [
+    {
+      "id": "09c2e5001e47e8a4",
+      "title": "What Is the Closing Auction Session (CAS) and How Does It Affect Investors?",
+      "channel": "Capitalmind",
+      "url": "https://capitalmind.libsyn.com/what-is-the-closing-auction-session-cas-and-how-does-it-affect-investors",
+      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/Capitalmind_EP_100_0824.mp3?dest-id=1084508",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
+      "duration": 4029,
+      "duration_text": "1:07:09",
+      "published": "20260825",
+      "published_at": "2026-08-25T17:13:00+05:30",
+      "published_ts": 1787658180,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Capitalmind",
+      "score": 31.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "capitalmind",
+      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Capitalmind"
+      ]
+    },
     {
       "id": "6c5edf32c29cef59",
       "title": "The Truth About Indian Skincare: Myths, Hacks and Real Treatments | Doctor vs Internet",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
+      "query": "Latest in category",
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -40,39 +73,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
-      ]
-    },
-    {
-      "id": "e74eb788c59ea7e8",
-      "title": "India’s Growth Story Is Intact But the Market Leaders Are Changing | Jitendra Gohil | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/india-s-growth-story-is-intact-but-the-market-leaders-are-changing-jitendra-gohil-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/b84d1755-d391-4ff7-b4ca-b4ad00b83b0e/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/b84d1755-d391-4ff7-b4ca-b4ad00b83b0e/image.jpg?t=1787315198&size=Large",
-      "duration": 2950,
-      "duration_text": "49:10",
-      "published": "20260824",
-      "published_at": "2026-08-24T06:00:00+05:30",
-      "published_ts": 1787531400,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -169,6 +170,39 @@
       ],
       "category_labels": [
         "Markets"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "69f2fd5285c4f292",
+      "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/the-battery-everyone-uses-is-the-one-theyd-never-build-enervenue-x-hina-wtf-are-batteries/33026545",
+      "audio_url": "https://play.hubhopper.com/762eced7f73c05baa17e803c4d5e33b3.mp3?s=rss-feed&v=7d0401b70514",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 4209,
+      "duration_text": "1:10:09",
+      "published": "20260810",
+      "published_at": "2026-08-10T22:42:30+05:30",
+      "published_ts": 1786381950,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Latest in category",
+      "score": 34.45,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "backfill": true,
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
       ],
       "queries": [
         "Latest in category"
@@ -864,6 +898,6 @@
       "weight": 1.15
     }
   ],
-  "error": "wtf_nikhil_kamath: HTTPError: HTTP Error 503: Service Unavailable; people_by_wtf: HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "stale": false
 }
