@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:52:00.378134+05:30",
+  "generated_at": "2026-08-28T09:07:41.203708+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,38 +9,71 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-26T03:52:00.378134+05:30",
+  "cutoff_time": "2026-08-27T09:07:41.203708+05:30",
   "episodes": [
     {
-      "id": "43cced833d8bd55b",
-      "title": "Sri M’s Last Podcast On TRS?",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Sri-Ms-Last-Podcast-On-TRS-e3ntsga",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/124760010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430575656-44100-2-54a85a265c279.mp3",
+      "id": "7655ce509eca036d",
+      "title": "Rana Hasan on Harnessing the Economic Potential of Indian Cities",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/rana-hasan-on-harnessing-the-economic-potential-of-indian-cities",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-142-RanaHasan-Podcast-auphonic.mp3?dest-id=2249435",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1787748065501-02fd628b4a646.jpg",
-      "duration": 5125,
-      "duration_text": "1:25:25",
-      "published": "20260826",
-      "published_at": "2026-08-26T18:12:35+05:30",
-      "published_ts": 1787748155,
+      "thumbnail": "https://static.libsyn.com/p/assets/2/4/a/b/24ab13ef3a91a040d959afa2a1bf1c87/IOI-142-RanaHasan-LibsynGraphic.png",
+      "duration": 4408,
+      "duration_text": "1:13:28",
+      "published": "20260827",
+      "published_at": "2026-08-27T16:30:00+05:30",
+      "published_ts": 1787828400,
       "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 31.9,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 31.0,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
       "categories": [
-        "ideas"
+        "policy"
       ],
       "category_labels": [
-        "Ideas"
+        "Policy"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "364907bf2faa5b75",
+      "title": "From Insurgent to Establishment: The Trilegal Story",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/from-insurgent-to-establishment-the-trilegal-story",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/3ee1e6c7-65b7-4eee-81be-b4b20104dd5b/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/3ee1e6c7-65b7-4eee-81be-b4b20104dd5b/image.jpg?t=1787761935&size=Large",
+      "duration": 2000,
+      "duration_text": "33:20",
+      "published": "20260827",
+      "published_at": "2026-08-27T05:50:00+05:30",
+      "published_ts": 1787790000,
+      "latest_rank": 2,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 31.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "Latest in category"
       ]
     },
     {
@@ -143,72 +176,6 @@
       ]
     },
     {
-      "id": "07dd8664a3679c61",
-      "title": "Gaurav Chiplunkar on the Frictions in India's Labor Market",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/gaurav-chiplunkar-on-the-frictions-in-indias-labor-market",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-140-GauravChiplunkar-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/f/b/4/a/fb4a26efba05f4a516c3140a3186d450/IOI-140-GauravChiplunkar-LibsynGraphic.png",
-      "duration": 5481,
-      "duration_text": "1:31:21",
-      "published": "20260813",
-      "published_at": "2026-08-13T16:30:00+05:30",
-      "published_ts": 1786618800,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 28.9,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "350bda08e83aed97",
-      "title": "Sarvam AI on NVIDIA's Investment, Voice AI Economics, and India's AI Strategy",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/sarvam-ai-on-nvidias-investment-voice-ai-economics-and-indias-ai-strategy",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d027ff23-fbf8-4793-b198-b4a400fda731/image.jpg?t=1786548544&size=Large",
-      "duration": 2281,
-      "duration_text": "38:01",
-      "published": "20260813",
-      "published_at": "2026-08-13T05:50:00+05:30",
-      "published_ts": 1786580400,
-      "latest_rank": 7,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 27.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "69f2fd5285c4f292",
       "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
       "channel": "Nikhil Kamath",
@@ -236,6 +203,39 @@
       ],
       "category_labels": [
         "Interviews"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "53c5a13c855f1f65",
+      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
+      "channel": "A Century Of Stories",
+      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
+      "duration": 2628,
+      "duration_text": "43:48",
+      "published": "20260805",
+      "published_at": "2026-08-05T10:40:00+05:30",
+      "published_ts": 1785906600,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 29.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "century_of_stories",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
       ],
       "queries": [
         "Latest in category"
