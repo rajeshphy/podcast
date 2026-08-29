@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T07:50:16.060799+05:30",
+  "generated_at": "2026-08-30T03:20:58.209762+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-28T07:50:16.060799+05:30",
+  "cutoff_time": "2026-08-29T03:20:58.209762+05:30",
   "episodes": [
+    {
+      "id": "7bf004889cf69d1b",
+      "title": "Real Life Mowgli On TRS - Tiger, Jungle Stories Aur Bakaiti | Hans Dalal",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Real-Life-Mowgli-On-TRS---Tiger--Jungle-Stories-Aur-Bakaiti--Hans-Dalal-e3o22jb",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/124897323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-29%2F430766874-44100-2-ca675ec4ea7ea.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1788005060356-9a6f6f60303b4.jpg",
+      "duration": 5446,
+      "duration_text": "1:30:46",
+      "published": "20260829",
+      "published_at": "2026-08-29T17:36:28+05:30",
+      "published_ts": 1788005188,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "7655ce509eca036d",
       "title": "Rana Hasan on Harnessing the Economic Potential of Indian Cities",
@@ -204,39 +236,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "53c5a13c855f1f65",
-      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
-      "channel": "A Century Of Stories",
-      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
-      "duration": 2628,
-      "duration_text": "43:48",
-      "published": "20260805",
-      "published_at": "2026-08-05T10:40:00+05:30",
-      "published_ts": 1785906600,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "century_of_stories",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
