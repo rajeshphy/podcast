@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T03:26:22.767780+05:30",
+  "generated_at": "2026-09-01T04:45:30.031381+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-08-30T03:26:22.767780+05:30",
+  "cutoff_time": "2026-08-31T04:45:30.031381+05:30",
   "episodes": [
+    {
+      "id": "7a2d8cd5e1bf041c",
+      "title": "Hair Fall vs Hair Thinning: What You Need To Know | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/hair-fall-vs-hair-thinning-what-you-need-to-know-doctor-vs-internet--74764198",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74764198/31_aug_26_dvi_31_aug_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e24b1d9481a2369ca0b5c5bf0a60a6b1.jpg",
+      "duration": 4760,
+      "duration_text": "1:19:20",
+      "published": "20260831",
+      "published_at": "2026-08-31T14:28:22+05:30",
+      "published_ts": 1788166702,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "2ab1334725692acc",
+      "title": "Beyond Stocks: Alternatives, Global Investing & GIFT City | Sachin Sawrikar | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/beyond-stocks-alternatives-global-investing-gift-city-sachin-sawrikar-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/13d125c2-5d8e-41c7-abaf-b4b60133dcb3/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/13d125c2-5d8e-41c7-abaf-b4b60133dcb3/image.jpg?t=1788115732&size=Large",
+      "duration": 2607,
+      "duration_text": "43:27",
+      "published": "20260831",
+      "published_at": "2026-08-31T06:00:00+05:30",
+      "published_ts": 1788136200,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 33.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "7655ce509eca036d",
       "title": "Rana Hasan on Harnessing the Economic Potential of Indian Cities",
@@ -72,72 +136,6 @@
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "6c5edf32c29cef59",
-      "title": "The Truth About Indian Skincare: Myths, Hacks and Real Treatments | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/the-truth-about-indian-skincare-myths-hacks-and-real-treatments-doctor-vs-internet--74635446",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74635446/24_aug_26_dvi_24_aug_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f282d679566b44be980ae3b1bf07df98.jpg",
-      "duration": 5025,
-      "duration_text": "1:23:45",
-      "published": "20260824",
-      "published_at": "2026-08-24T16:37:17+05:30",
-      "published_ts": 1787569637,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "e74eb788c59ea7e8",
-      "title": "India’s Growth Story Is Intact But the Market Leaders Are Changing | Jitendra Gohil | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/india-s-growth-story-is-intact-but-the-market-leaders-are-changing-jitendra-gohil-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/b84d1755-d391-4ff7-b4ca-b4ad00b83b0e/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/b84d1755-d391-4ff7-b4ca-b4ad00b83b0e/image.jpg?t=1787315198&size=Large",
-      "duration": 2950,
-      "duration_text": "49:10",
-      "published": "20260824",
-      "published_at": "2026-08-24T06:00:00+05:30",
-      "published_ts": 1787531400,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
