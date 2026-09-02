@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T03:22:35.124287+05:30",
+  "generated_at": "2026-09-03T03:24:23.775098+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-01T03:22:35.124287+05:30",
+  "cutoff_time": "2026-09-02T03:24:23.775098+05:30",
   "episodes": [
+    {
+      "id": "313d3b096aff86b7",
+      "title": "SCIENCE BEHIND GOD - Quantum Physics Special | Shiva, | Harvard Scientist Mrittunjoy M | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/SCIENCE-BEHIND-GOD---Quantum-Physics-Special--Shiva---Harvard-Scientist-Mrittunjoy-M--TRS-e3o83db",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125094763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431039307-44100-2-11350e85fc01b.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 7715,
+      "duration_text": "2:08:35",
+      "published": "20260902",
+      "published_at": "2026-09-02T20:36:46+05:30",
+      "published_ts": 1788361606,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "ef24c2c37a5b0f24",
+      "title": "India’s Self-Inflicted Outflows: How Policy Makers Are Driving Away Foreign Investors",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-Self-Inflicted-Outflows-How-Policy-Makers-Are-Driving-Away-Foreign-Investors-e3o7g8d",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/125075149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2Ff0cf24a0-b269-f025-4803-826a499d8aaf.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1788327949105-228a79b2314a2.jpg",
+      "duration": 2366,
+      "duration_text": "39:26",
+      "published": "20260902",
+      "published_at": "2026-09-02T17:00:00+05:30",
+      "published_ts": 1788348600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 32.7,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
+      ]
+    },
     {
       "id": "7a2d8cd5e1bf041c",
       "title": "Hair Fall vs Hair Thinning: What You Need To Know | Doctor vs Internet",
@@ -111,39 +175,6 @@
       ]
     },
     {
-      "id": "364907bf2faa5b75",
-      "title": "From Insurgent to Establishment: The Trilegal Story",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/from-insurgent-to-establishment-the-trilegal-story",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/3ee1e6c7-65b7-4eee-81be-b4b20104dd5b/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/3ee1e6c7-65b7-4eee-81be-b4b20104dd5b/image.jpg?t=1787761935&size=Large",
-      "duration": 2000,
-      "duration_text": "33:20",
-      "published": "20260827",
-      "published_at": "2026-08-27T05:50:00+05:30",
-      "published_ts": 1787790000,
-      "latest_rank": 3,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "021c783403bcaced",
       "title": "A black hole's spin could finally be measured by a high-speed star",
       "channel": "Nature",
@@ -156,11 +187,11 @@
       "published": "20260819",
       "published_at": "2026-08-19T20:30:00+05:30",
       "published_ts": 1787151600,
-      "latest_rank": 4,
+      "latest_rank": 5,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 29.15,
+      "score": 28.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -204,39 +235,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "53c5a13c855f1f65",
-      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
-      "channel": "A Century Of Stories",
-      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
-      "duration": 2628,
-      "duration_text": "43:48",
-      "published": "20260805",
-      "published_at": "2026-08-05T10:40:00+05:30",
-      "published_ts": 1785906600,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "century_of_stories",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
