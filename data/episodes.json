@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T03:24:23.775098+05:30",
+  "generated_at": "2026-09-04T03:16:56.867982+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,62 +9,30 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-02T03:24:23.775098+05:30",
+  "cutoff_time": "2026-09-03T03:16:56.867982+05:30",
   "episodes": [
     {
-      "id": "313d3b096aff86b7",
-      "title": "SCIENCE BEHIND GOD - Quantum Physics Special | Shiva, | Harvard Scientist Mrittunjoy M | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/SCIENCE-BEHIND-GOD---Quantum-Physics-Special--Shiva---Harvard-Scientist-Mrittunjoy-M--TRS-e3o83db",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125094763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431039307-44100-2-11350e85fc01b.mp3",
+      "id": "0ce2de23fef5556d",
+      "title": "India's call centres are using AI to make agents sound American",
+      "channel": "Daybreak",
+      "url": "https://share.transistor.fm/s/2b2f89f2",
+      "audio_url": "https://media.transistor.fm/2b2f89f2/bb928290.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 7715,
-      "duration_text": "2:08:35",
-      "published": "20260902",
-      "published_at": "2026-09-02T20:36:46+05:30",
-      "published_ts": 1788361606,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
-    {
-      "id": "ef24c2c37a5b0f24",
-      "title": "India’s Self-Inflicted Outflows: How Policy Makers Are Driving Away Foreign Investors",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-Self-Inflicted-Outflows-How-Policy-Makers-Are-Driving-Away-Foreign-Investors-e3o7g8d",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/125075149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2Ff0cf24a0-b269-f025-4803-826a499d8aaf.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1788327949105-228a79b2314a2.jpg",
-      "duration": 2366,
-      "duration_text": "39:26",
-      "published": "20260902",
-      "published_at": "2026-09-02T17:00:00+05:30",
-      "published_ts": 1788348600,
+      "thumbnail": "https://img.transistorcdn.com/TncMKQn1fnZJZXMAVyoiBPRMO7aoKtO3-ZGA9np-gnc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNDQ5/YTg1ZDMyNWFjYmI5/OTlmZTFiNzc2MDgx/YzMxZi5wbmc.jpg",
+      "duration": 1403,
+      "duration_text": "23:23",
+      "published": "20260904",
+      "published_at": "2026-09-04T02:27:15+05:30",
+      "published_ts": 1788469035,
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "India Economy",
-      "score": 32.7,
+      "query": "Daybreak",
+      "score": 31.4,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "feed_id": "daybreak_ken",
+      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
       "categories": [
         "markets"
       ],
@@ -72,32 +40,31 @@
         "Markets"
       ],
       "queries": [
-        "India Economy"
+        "Daybreak"
       ]
     },
     {
-      "id": "7a2d8cd5e1bf041c",
-      "title": "Hair Fall vs Hair Thinning: What You Need To Know | Doctor vs Internet",
+      "id": "7cb496eb1e88c29a",
+      "title": "Formula Milk vs Breastfeeding: What Hospitals Won't Tell You ft. Dr Arun Gupta | Sonal Mehrotra Kapoor | Doctor vs Internet",
       "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/hair-fall-vs-hair-thinning-what-you-need-to-know-doctor-vs-internet--74764198",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74764198/31_aug_26_dvi_31_aug_128.mp3",
+      "url": "https://www.spreaker.com/episode/formula-milk-vs-breastfeeding-what-hospitals-won-t-tell-you-ft-dr-arun-gupta-sonal-mehrotra-kapoor-doctor-vs-internet--74870231",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74870231/03_sep_26_dvi_arun_gupta_mix_128.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e24b1d9481a2369ca0b5c5bf0a60a6b1.jpg",
-      "duration": 4760,
-      "duration_text": "1:19:20",
-      "published": "20260831",
-      "published_at": "2026-08-31T14:28:22+05:30",
-      "published_ts": 1788166702,
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b4f11ce17856e6af58541024e1f370d2.jpg",
+      "duration": 7547,
+      "duration_text": "2:05:47",
+      "published": "20260903",
+      "published_at": "2026-09-03T21:33:39+05:30",
+      "published_ts": 1788451419,
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
+      "query": "Health Wealth",
+      "score": 31.9,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
       "categories": [
         "health"
       ],
@@ -105,7 +72,7 @@
         "Health"
       ],
       "queries": [
-        "Latest in category"
+        "Health Wealth"
       ]
     },
     {
@@ -220,11 +187,11 @@
       "published": "20260810",
       "published_at": "2026-08-10T22:42:30+05:30",
       "published_ts": 1786381950,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "interviews",
       "category_label": "Interviews",
       "query": "Latest in category",
-      "score": 34.45,
+      "score": 33.65,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "wtf_nikhil_kamath",
@@ -235,6 +202,39 @@
       ],
       "category_labels": [
         "Interviews"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "53c5a13c855f1f65",
+      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
+      "channel": "A Century Of Stories",
+      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
+      "duration": 2628,
+      "duration_text": "43:48",
+      "published": "20260805",
+      "published_at": "2026-08-05T10:40:00+05:30",
+      "published_ts": 1785906600,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 29.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "century_of_stories",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
       ],
       "queries": [
         "Latest in category"
