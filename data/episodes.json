@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:16:56.867982+05:30",
+  "generated_at": "2026-09-05T03:06:42.124086+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,30 +9,62 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-03T03:16:56.867982+05:30",
+  "cutoff_time": "2026-09-04T03:06:42.124086+05:30",
   "episodes": [
     {
-      "id": "0ce2de23fef5556d",
-      "title": "India's call centres are using AI to make agents sound American",
-      "channel": "Daybreak",
-      "url": "https://share.transistor.fm/s/2b2f89f2",
-      "audio_url": "https://media.transistor.fm/2b2f89f2/bb928290.mp3",
+      "id": "a841f665e93d4a15",
+      "title": "JANMASHTAMI Round Table - Achieve SPEED In Business With Krishna | Basesh G & Nityanand Prabhu | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/JANMASHTAMI-Round-Table---Achieve-SPEED-In-Business-With-Krishna--Basesh-G--Nityanand-Prabhu--TRS-e3obk7l",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125210293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431192411-44100-2-88e200d9c252d.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://img.transistorcdn.com/TncMKQn1fnZJZXMAVyoiBPRMO7aoKtO3-ZGA9np-gnc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNDQ5/YTg1ZDMyNWFjYmI5/OTlmZTFiNzc2MDgx/YzMxZi5wbmc.jpg",
-      "duration": 1403,
-      "duration_text": "23:23",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 8538,
+      "duration_text": "2:22:18",
       "published": "20260904",
-      "published_at": "2026-09-04T02:27:15+05:30",
-      "published_ts": 1788469035,
+      "published_at": "2026-09-04T22:15:51+05:30",
+      "published_ts": 1788540351,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "cd34cd2b37f03183",
+      "title": "Subrata Mitra on India’s VC Reset, the AI Capital Race and What Comes Next",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/subrata-mitra-on-india-s-vc-reset-the-ai-capital-race-and-what-comes-next",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6bd0884a-7369-48db-8a11-b4ba0114b146/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6bd0884a-7369-48db-8a11-b4ba0114b146/image.jpg?t=1788454430&size=Large",
+      "duration": 2751,
+      "duration_text": "45:51",
+      "published": "20260904",
+      "published_at": "2026-09-04T05:50:00+05:30",
+      "published_ts": 1788481200,
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "Daybreak",
-      "score": 31.4,
+      "query": "ET Morning Brief",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "daybreak_ken",
-      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "categories": [
         "markets"
       ],
@@ -40,7 +72,7 @@
         "Markets"
       ],
       "queries": [
-        "Daybreak"
+        "ET Morning Brief"
       ]
     },
     {
@@ -59,12 +91,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 31.9,
+      "query": "Latest in category",
+      "score": 31.4,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -72,7 +105,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
@@ -154,11 +187,11 @@
       "published": "20260819",
       "published_at": "2026-08-19T20:30:00+05:30",
       "published_ts": 1787151600,
-      "latest_rank": 5,
+      "latest_rank": 6,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 28.35,
+      "score": 27.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -202,39 +235,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "53c5a13c855f1f65",
-      "title": "What Happened When Art Deco Reached Bombay? | A Century of Stories: India ft. Parineeta Katgaonkar",
-      "channel": "A Century Of Stories",
-      "url": "https://omny.fm/shows/a-century-of-stories/what-happened-when-art-deco-reached-bombay-a-century-of-stories-india-ft-parineeta-katgaonkar",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/audio.mp3?utm_source=Podcast&in_playlist=aa26b685-4a52-4146-af8a-b05700dd3efb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/dbdd6831-0279-43e7-9bda-b47a0066c891/image.jpg?t=1782888495&size=Large",
-      "duration": 2628,
-      "duration_text": "43:48",
-      "published": "20260805",
-      "published_at": "2026-08-05T10:40:00+05:30",
-      "published_ts": 1785906600,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "century_of_stories",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/80a4b2a0-9797-4ecc-9077-b05700dc238a/aa26b685-4a52-4146-af8a-b05700dd3efb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
