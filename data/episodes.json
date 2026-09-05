@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:06:42.124086+05:30",
+  "generated_at": "2026-09-06T02:55:56.846730+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-04T03:06:42.124086+05:30",
+  "cutoff_time": "2026-09-05T02:55:56.846730+05:30",
   "episodes": [
     {
       "id": "a841f665e93d4a15",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.3,
+      "query": "Latest in category",
+      "score": 29.8,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +41,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +60,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -72,7 +74,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
