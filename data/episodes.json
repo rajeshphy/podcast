@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T02:55:56.846730+05:30",
+  "generated_at": "2026-09-07T02:59:43.277110+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-05T02:55:56.846730+05:30",
+  "cutoff_time": "2026-09-06T02:59:43.277110+05:30",
   "episodes": [
     {
       "id": "a841f665e93d4a15",
@@ -57,11 +57,11 @@
       "published": "20260904",
       "published_at": "2026-09-04T05:50:00+05:30",
       "published_ts": 1788481200,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 32.1,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
