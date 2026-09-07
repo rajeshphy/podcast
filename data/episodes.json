@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:59:43.277110+05:30",
+  "generated_at": "2026-09-08T03:39:31.669725+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,31 +9,30 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-06T02:59:43.277110+05:30",
+  "cutoff_time": "2026-09-07T03:39:31.669725+05:30",
   "episodes": [
     {
-      "id": "a841f665e93d4a15",
-      "title": "JANMASHTAMI Round Table - Achieve SPEED In Business With Krishna | Basesh G & Nityanand Prabhu | TRS",
+      "id": "4ac937a1069ef824",
+      "title": "20 Women, 1 Ranveer - BB Live Episode 1",
       "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/JANMASHTAMI-Round-Table---Achieve-SPEED-In-Business-With-Krishna--Basesh-G--Nityanand-Prabhu--TRS-e3obk7l",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125210293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F431192411-44100-2-88e200d9c252d.mp3",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/20-Women--1-Ranveer---BB-Live-Episode-1-e3of2b0",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125323040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431347863-44100-2-c9b3ae978f614.mp3",
       "audio_type": "audio/mpeg",
       "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 8538,
-      "duration_text": "2:22:18",
-      "published": "20260904",
-      "published_at": "2026-09-04T22:15:51+05:30",
-      "published_ts": 1788540351,
+      "duration": 1928,
+      "duration_text": "32:08",
+      "published": "20260907",
+      "published_at": "2026-09-07T15:01:12+05:30",
+      "published_ts": 1788773472,
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.8,
+      "query": "Ranveer Hindi",
+      "score": 30.85,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -41,32 +40,63 @@
         "Ideas"
       ],
       "queries": [
-        "Latest in category"
+        "Ranveer Hindi"
       ]
     },
     {
-      "id": "cd34cd2b37f03183",
-      "title": "Subrata Mitra on India’s VC Reset, the AI Capital Race and What Comes Next",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/subrata-mitra-on-india-s-vc-reset-the-ai-capital-race-and-what-comes-next",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6bd0884a-7369-48db-8a11-b4ba0114b146/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "id": "f45c8ef77b721ea2",
+      "title": "Why Gold Loans Are Booming in India | Shripad Jadhav | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-gold-loans-are-booming-in-india-shripad-jadhav-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e3a307ab-14ff-42c5-9096-b4bb00f83849/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6bd0884a-7369-48db-8a11-b4ba0114b146/image.jpg?t=1788454430&size=Large",
-      "duration": 2751,
-      "duration_text": "45:51",
-      "published": "20260904",
-      "published_at": "2026-09-04T05:50:00+05:30",
-      "published_ts": 1788481200,
-      "latest_rank": 2,
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e3a307ab-14ff-42c5-9096-b4bb00f83849/image.jpg?t=1788536578&size=Large",
+      "duration": 2420,
+      "duration_text": "40:20",
+      "published": "20260907",
+      "published_at": "2026-09-07T06:00:00+05:30",
+      "published_ts": 1788741000,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "c1112cbf4a26de57",
+      "title": "J.P.Morgan’s Anu Aiyengar on Mega Deals, AI’s Banking Reset and the India Bet",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/j-p-morgan-s-anu-aiyengar-on-mega-deals-ai-s-banking-reset-and-the-india-bet",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6e328b7b-3799-4898-a9a2-b4bd0127e513/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/6e328b7b-3799-4898-a9a2-b4bd0127e513/image.jpg?t=1788718320&size=Large",
+      "duration": 1367,
+      "duration_text": "22:47",
+      "published": "20260907",
+      "published_at": "2026-09-07T05:50:00+05:30",
+      "published_ts": 1788740400,
+      "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
+      "query": "ET Morning Brief",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -74,7 +104,7 @@
         "Markets"
       ],
       "queries": [
-        "Latest in category"
+        "ET Morning Brief"
       ]
     },
     {
@@ -105,39 +135,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "2ab1334725692acc",
-      "title": "Beyond Stocks: Alternatives, Global Investing & GIFT City | Sachin Sawrikar | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/beyond-stocks-alternatives-global-investing-gift-city-sachin-sawrikar-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/13d125c2-5d8e-41c7-abaf-b4b60133dcb3/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/13d125c2-5d8e-41c7-abaf-b4b60133dcb3/image.jpg?t=1788115732&size=Large",
-      "duration": 2607,
-      "duration_text": "43:27",
-      "published": "20260831",
-      "published_at": "2026-08-31T06:00:00+05:30",
-      "published_ts": 1788136200,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 32.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
