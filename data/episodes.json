@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T03:26:42.292000+05:30",
+  "generated_at": "2026-09-10T03:17:12.932982+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,63 +9,62 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-08T03:26:42.292000+05:30",
+  "cutoff_time": "2026-09-09T03:17:12.932982+05:30",
   "episodes": [
     {
-      "id": "814f6b2ad3216a2b",
-      "title": "India’s 7.8% GDP: The Number That Doesn’t Add Up",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/india-s-7-8-gdp-the-number-that-doesn-t-add-up",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ebbc1a77-7433-4255-a8c6-b4be01173041/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "id": "57c4b444eee62cd6",
+      "title": "Phone tutoring boosts math scores when schools are forced to close",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02843-4",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6aa17c23647921ed603b1dae/media.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ebbc1a77-7433-4255-a8c6-b4be01173041/image.jpg?t=1788800455&size=Large",
-      "duration": 1660,
-      "duration_text": "27:40",
-      "published": "20260908",
-      "published_at": "2026-09-08T05:50:00+05:30",
-      "published_ts": 1788826800,
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1270,
+      "duration_text": "21:10",
+      "published": "20260909",
+      "published_at": "2026-09-09T21:02:51+05:30",
+      "published_ts": 1788967971,
       "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
       "categories": [
-        "markets"
+        "science"
       ],
       "category_labels": [
-        "Markets"
+        "Science"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Nature"
       ]
     },
     {
-      "id": "4ac937a1069ef824",
-      "title": "20 Women, 1 Ranveer - BB Live Episode 1",
+      "id": "6538dfaab8167830",
+      "title": "99% Indians Are Making THESE Oral Hygiene Mistakes | TOP Dentist Dr. Niranjan P On TRS",
       "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/20-Women--1-Ranveer---BB-Live-Episode-1-e3of2b0",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125323040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2F431347863-44100-2-c9b3ae978f614.mp3",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/99-Indians-Are-Making-THESE-Oral-Hygiene-Mistakes--TOP-Dentist-Dr--Niranjan-P-On-TRS-e3ojb0t",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125463005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-9%2F431526614-44100-2-b189493679d5f.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 1928,
-      "duration_text": "32:08",
-      "published": "20260907",
-      "published_at": "2026-09-07T15:01:12+05:30",
-      "published_ts": 1788773472,
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1788960937469-e2f8cbd818008.jpg",
+      "duration": 6921,
+      "duration_text": "1:55:21",
+      "published": "20260909",
+      "published_at": "2026-09-09T19:06:01+05:30",
+      "published_ts": 1788960961,
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.35,
+      "query": "Ranveer Hindi",
+      "score": 29.25,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -73,7 +72,39 @@
         "Ideas"
       ],
       "queries": [
-        "Latest in category"
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "d2f837eac8487522",
+      "title": "India’s 7.8% Growth Has an Unanswered Question",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-7-8-Growth-Has-an-Unanswered-Question-e3ogs8o",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/125382360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F06ae2854-75cd-9f01-307f-0d288ab52cb6.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1788851305634-ac74b5e5cdb9e.jpg",
+      "duration": 3467,
+      "duration_text": "57:47",
+      "published": "20260909",
+      "published_at": "2026-09-09T17:00:00+05:30",
+      "published_ts": 1788953400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 31.65,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
       ]
     },
     {
@@ -170,72 +201,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "021c783403bcaced",
-      "title": "A black hole's spin could finally be measured by a high-speed star",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/a-black-holes-spin-could-finally-be-measured-by-a-high-speed",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a85bc185c9c346c6383fec9/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1751,
-      "duration_text": "29:11",
-      "published": "20260819",
-      "published_at": "2026-08-19T20:30:00+05:30",
-      "published_ts": 1787151600,
-      "latest_rank": 6,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 27.55,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "69f2fd5285c4f292",
-      "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
-      "channel": "Nikhil Kamath",
-      "url": "https://listen.hubhopper.com/episode/the-battery-everyone-uses-is-the-one-theyd-never-build-enervenue-x-hina-wtf-are-batteries/33026545",
-      "audio_url": "https://play.hubhopper.com/762eced7f73c05baa17e803c4d5e33b3.mp3?s=rss-feed&v=7d0401b70514",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
-      "duration": 4209,
-      "duration_text": "1:10:09",
-      "published": "20260810",
-      "published_at": "2026-08-10T22:42:30+05:30",
-      "published_ts": 1786381950,
-      "latest_rank": 2,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Latest in category",
-      "score": 33.65,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "wtf_nikhil_kamath",
-      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
-      "backfill": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
       ],
       "queries": [
         "Latest in category"
