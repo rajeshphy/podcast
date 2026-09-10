@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T03:17:12.932982+05:30",
+  "generated_at": "2026-09-11T03:13:03.156279+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-09T03:17:12.932982+05:30",
+  "cutoff_time": "2026-09-10T03:13:03.156279+05:30",
   "episodes": [
+    {
+      "id": "f39f6cdf169c1b1d",
+      "title": "Aishwarya Kekre on Land Fragmentation and Its Impact on Structural Transformation",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/aishwarya-kekre-on-land-fragmentation-and-its-impact-on-structural-transformation",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-143-AishwaryaKekre-Podcast-Final_mixdown-auphonic.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/1/d/b/a/1dbafcc5a82b7c1716c3140a3186d450/IOI-143-AishwaryaKekre-LibsynGraphic.png",
+      "duration": 3406,
+      "duration_text": "56:46",
+      "published": "20260910",
+      "published_at": "2026-09-10T16:30:00+05:30",
+      "published_ts": 1789038000,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 31.0,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "eef14d034a777c2e",
+      "title": "Publicis Sapient’s Nigel Vaz on AI, the Future of Work and India’s Opportunity",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/publicis-sapient-s-nigel-vaz-on-ai-the-future-of-work-and-india-s-opportunity",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c0bbdd74-1853-42ae-ba05-b4c0010646e2/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c0bbdd74-1853-42ae-ba05-b4c0010646e2/image.jpg?t=1788969496&size=Large",
+      "duration": 2132,
+      "duration_text": "35:32",
+      "published": "20260910",
+      "published_at": "2026-09-10T05:50:00+05:30",
+      "published_ts": 1788999600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "57c4b444eee62cd6",
       "title": "Phone tutoring boosts math scores when schools are forced to close",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,7 +105,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +124,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -72,39 +138,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
-      ]
-    },
-    {
-      "id": "d2f837eac8487522",
-      "title": "India’s 7.8% Growth Has an Unanswered Question",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Indias-7-8-Growth-Has-an-Unanswered-Question-e3ogs8o",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/125382360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F06ae2854-75cd-9f01-307f-0d288ab52cb6.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1788851305634-ac74b5e5cdb9e.jpg",
-      "duration": 3467,
-      "duration_text": "57:47",
-      "published": "20260909",
-      "published_at": "2026-09-09T17:00:00+05:30",
-      "published_ts": 1788953400,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 31.65,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India Economy"
+        "Latest in category"
       ]
     },
     {
@@ -168,39 +202,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "7655ce509eca036d",
-      "title": "Rana Hasan on Harnessing the Economic Potential of Indian Cities",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/rana-hasan-on-harnessing-the-economic-potential-of-indian-cities",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-142-RanaHasan-Podcast-auphonic.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/2/4/a/b/24ab13ef3a91a040d959afa2a1bf1c87/IOI-142-RanaHasan-LibsynGraphic.png",
-      "duration": 4408,
-      "duration_text": "1:13:28",
-      "published": "20260827",
-      "published_at": "2026-08-27T16:30:00+05:30",
-      "published_ts": 1787828400,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
