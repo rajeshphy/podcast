@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:13:03.156279+05:30",
+  "generated_at": "2026-09-12T03:18:13.017926+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-10T03:13:03.156279+05:30",
+  "cutoff_time": "2026-09-11T03:18:13.017926+05:30",
   "episodes": [
+    {
+      "id": "551a5e2d3367af8c",
+      "title": "Will ChatGPT Book Your Next Holiday? | MakeMyTrip x Taj Hotels | WTF is Travel?",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/will-chatgpt-book-your-next-holiday-makemytrip-x-taj-hotels-wtf-is-travel/33057258",
+      "audio_url": "https://play.hubhopper.com/36879f80e406728cba15f06106b97867.mp3?s=rss-feed&v=ff3f6b6dfe2f",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 12110,
+      "duration_text": "3:21:50",
+      "published": "20260911",
+      "published_at": "2026-09-11T11:16:49+05:30",
+      "published_ts": 1789105609,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Nikhil Kamath",
+      "score": 30.75,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Nikhil Kamath"
+      ]
+    },
     {
       "id": "f39f6cdf169c1b1d",
       "title": "Aishwarya Kekre on Land Fragmentation and Its Impact on Structural Transformation",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 31.0,
+      "query": "Latest in category",
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
@@ -40,7 +73,7 @@
         "Policy"
       ],
       "queries": [
-        "Ideas of India"
+        "Latest in category"
       ]
     },
     {
@@ -56,15 +89,16 @@
       "published": "20260910",
       "published_at": "2026-09-10T05:50:00+05:30",
       "published_ts": 1788999600,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -72,7 +106,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -88,11 +122,11 @@
       "published": "20260909",
       "published_at": "2026-09-09T21:02:51+05:30",
       "published_ts": 1788967971,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
