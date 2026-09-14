@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:01:54.549061+05:30",
+  "generated_at": "2026-09-15T04:06:41.938059+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-13T03:01:54.549061+05:30",
+  "cutoff_time": "2026-09-14T04:06:41.938059+05:30",
   "episodes": [
+    {
+      "id": "d799967f7e6c8df1",
+      "title": "What is Food Noise? Why You Can't Stop Thinking About Food | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/what-is-food-noise-why-you-can-t-stop-thinking-about-food-doctor-vs-internet--75117236",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75117236/14_sep_26_hw_jasjeet_wasir_cb_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/97da282471c1573064895e7aae550e4e.jpg",
+      "duration": 4736,
+      "duration_text": "1:18:56",
+      "published": "20260914",
+      "published_at": "2026-09-14T18:55:04+05:30",
+      "published_ts": 1789392304,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "f9bae4491300f2ef",
+      "title": "Fear, Greed & FOMO: Why Your Brain Controls Your Money | Kumaar Bagrodia | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/fear-greed-fomo-why-your-brain-controls-your-money-kumaar-bagrodia-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/4c19ffa0-a0f9-4023-bac6-b4c200cfb35e/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/4c19ffa0-a0f9-4023-bac6-b4c200cfb35e/image.jpg?t=1789131006&size=Large",
+      "duration": 3815,
+      "duration_text": "1:03:35",
+      "published": "20260914",
+      "published_at": "2026-09-14T06:00:00+05:30",
+      "published_ts": 1789345800,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "6e7a5e26b426e399",
+      "title": "Bain’s Manny Maceda on the End of Globalisation, India’s Opportunity and the AI Reset",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/bain-s-manny-maceda-on-the-end-of-globalisation-india-s-opportunity-and-the-ai-reset",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/image.jpg?t=1789316048&size=Large",
+      "duration": 1291,
+      "duration_text": "21:31",
+      "published": "20260914",
+      "published_at": "2026-09-14T05:50:00+05:30",
+      "published_ts": 1789345200,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "ea9b2ccbfccd4779",
       "title": "2026 Ganesh Chaturthi Special - Mantra, Sadhna & More | Mandar Khaladkar Guruji On TRS",
@@ -111,39 +207,6 @@
       ]
     },
     {
-      "id": "eef14d034a777c2e",
-      "title": "Publicis Sapient’s Nigel Vaz on AI, the Future of Work and India’s Opportunity",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/publicis-sapient-s-nigel-vaz-on-ai-the-future-of-work-and-india-s-opportunity",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c0bbdd74-1853-42ae-ba05-b4c0010646e2/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c0bbdd74-1853-42ae-ba05-b4c0010646e2/image.jpg?t=1788969496&size=Large",
-      "duration": 2132,
-      "duration_text": "35:32",
-      "published": "20260910",
-      "published_at": "2026-09-10T05:50:00+05:30",
-      "published_ts": 1788999600,
-      "latest_rank": 3,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "57c4b444eee62cd6",
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "channel": "Nature",
@@ -171,72 +234,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "f45c8ef77b721ea2",
-      "title": "Why Gold Loans Are Booming in India | Shripad Jadhav | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-gold-loans-are-booming-in-india-shripad-jadhav-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e3a307ab-14ff-42c5-9096-b4bb00f83849/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e3a307ab-14ff-42c5-9096-b4bb00f83849/image.jpg?t=1788536578&size=Large",
-      "duration": 2420,
-      "duration_text": "40:20",
-      "published": "20260907",
-      "published_at": "2026-09-07T06:00:00+05:30",
-      "published_ts": 1788741000,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "7cb496eb1e88c29a",
-      "title": "Formula Milk vs Breastfeeding: What Hospitals Won't Tell You ft. Dr Arun Gupta | Sonal Mehrotra Kapoor | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/formula-milk-vs-breastfeeding-what-hospitals-won-t-tell-you-ft-dr-arun-gupta-sonal-mehrotra-kapoor-doctor-vs-internet--74870231",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74870231/03_sep_26_dvi_arun_gupta_mix_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b4f11ce17856e6af58541024e1f370d2.jpg",
-      "duration": 7547,
-      "duration_text": "2:05:47",
-      "published": "20260903",
-      "published_at": "2026-09-03T21:33:39+05:30",
-      "published_ts": 1788451419,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
