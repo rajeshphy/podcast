@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:44:31.860736+05:30",
+  "generated_at": "2026-09-18T03:48:22.343042+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-16T03:44:31.860736+05:30",
+  "cutoff_time": "2026-09-17T03:48:22.343042+05:30",
   "episodes": [
+    {
+      "id": "2ba9cfb3a2b973f4",
+      "title": "Multiply YOUR Money With Gold - WATCH WITH PARENTS | Billionaire Prithviraj Kothari on TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Multiply-YOUR-Money-With-Gold---WATCH-WITH-PARENTS--Billionaire-Prithviraj-Kothari-on-TRS-e3ovqta",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125872490/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-17%2F432082813-44100-2-c1a7460b2be72.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1789646451293-06860efd34f4.jpg",
+      "duration": 5684,
+      "duration_text": "1:34:44",
+      "published": "20260917",
+      "published_at": "2026-09-17T17:31:04+05:30",
+      "published_ts": 1789646464,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "c38ab3967fb63eea",
       "title": "Transplanted human brain-tissue takes root in mice without a cortex",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,39 +73,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
-      ]
-    },
-    {
-      "id": "db55168464737d7c",
-      "title": "What the Iran Conflict has Revealed about India's Energy Security",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/What-the-Iran-Conflict-has-Revealed-about-Indias-Energy-Security-e3os60l",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/125752789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F77673ed7-6073-8082-8116-50441160a342.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1789447731894-50a1885563084.jpg",
-      "duration": 2306,
-      "duration_text": "38:26",
-      "published": "20260916",
-      "published_at": "2026-09-16T17:00:00+05:30",
-      "published_ts": 1789558200,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 31.65,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India Economy"
+        "Latest in category"
       ]
     },
     {
@@ -142,33 +143,33 @@
       ]
     },
     {
-      "id": "ea9b2ccbfccd4779",
-      "title": "2026 Ganesh Chaturthi Special - Mantra, Sadhna & More | Mandar Khaladkar Guruji On TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/2026-Ganesh-Chaturthi-Special---Mantra--Sadhna--More--Mandar-Khaladkar-Guruji-On-TRS-e3oofa9",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125631241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-12%2F431748679-44100-2-58df000cae46f.mp3",
+      "id": "6e7a5e26b426e399",
+      "title": "Bain’s Manny Maceda on the End of Globalisation, India’s Opportunity and the AI Reset",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/bain-s-manny-maceda-on-the-end-of-globalisation-india-s-opportunity-and-the-ai-reset",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 5100,
-      "duration_text": "1:25:00",
-      "published": "20260912",
-      "published_at": "2026-09-12T17:02:34+05:30",
-      "published_ts": 1789212754,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/image.jpg?t=1789316048&size=Large",
+      "duration": 1291,
+      "duration_text": "21:31",
+      "published": "20260914",
+      "published_at": "2026-09-14T05:50:00+05:30",
+      "published_ts": 1789345200,
+      "latest_rank": 2,
+      "category": "markets",
+      "category_label": "Markets",
       "query": "Latest in category",
-      "score": 30.35,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "backfill": true,
       "categories": [
-        "ideas"
+        "markets"
       ],
       "category_labels": [
-        "Ideas"
+        "Markets"
       ],
       "queries": [
         "Latest in category"
