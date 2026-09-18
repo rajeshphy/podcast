@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:48:22.343042+05:30",
+  "generated_at": "2026-09-19T03:15:26.750599+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-17T03:48:22.343042+05:30",
+  "cutoff_time": "2026-09-18T03:15:26.750599+05:30",
   "episodes": [
     {
       "id": "2ba9cfb3a2b973f4",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +41,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -56,11 +57,11 @@
       "published": "20260916",
       "published_at": "2026-09-16T21:05:02+05:30",
       "published_ts": 1789572902,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -155,11 +156,11 @@
       "published": "20260914",
       "published_at": "2026-09-14T05:50:00+05:30",
       "published_ts": 1789345200,
-      "latest_rank": 2,
+      "latest_rank": 3,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 31.3,
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
