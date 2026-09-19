@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:15:26.750599+05:30",
+  "generated_at": "2026-09-20T03:03:40.028549+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-18T03:15:26.750599+05:30",
+  "cutoff_time": "2026-09-19T03:03:40.028549+05:30",
   "episodes": [
     {
       "id": "2ba9cfb3a2b973f4",
