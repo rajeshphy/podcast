@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:12:56.429641+05:30",
+  "generated_at": "2026-09-22T04:11:07.182641+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-20T03:12:56.429641+05:30",
+  "cutoff_time": "2026-09-21T04:11:07.182641+05:30",
   "episodes": [
+    {
+      "id": "09c2e43439a70876",
+      "title": "Marketing Spend, ROI & Sales: What Actually Works? | Aakanksha Gupta | Anuraag Gupta | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/marketing-spend-roi-sales-what-actually-works-aakanksha-gupta-anuraag-gupta-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1017cfdb-5714-4a3e-b462-b4c900f2fbbb/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1017cfdb-5714-4a3e-b462-b4c900f2fbbb/image.jpg?t=1789743034&size=Large",
+      "duration": 3783,
+      "duration_text": "1:03:03",
+      "published": "20260921",
+      "published_at": "2026-09-21T06:00:00+05:30",
+      "published_ts": 1789950600,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "179cc3f5c066fc6e",
+      "title": "Sun Life’s Kevin Strain on FDI, Bancassurance and More",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/sun-life-s-kevin-strain-on-fdi-bancassurance-and-more",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/image.jpg?t=1789923888&size=Large",
+      "duration": 1355,
+      "duration_text": "22:35",
+      "published": "20260921",
+      "published_at": "2026-09-21T05:50:00+05:30",
+      "published_ts": 1789950000,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "3c8b2d01470a9e6f",
       "title": "LEGENDARY RAJPUT HISTORY - Veerta, Jauhar Aur Balidaan Ki Kahani | Rajveer Sir On TRS",
@@ -105,72 +169,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "f9bae4491300f2ef",
-      "title": "Fear, Greed & FOMO: Why Your Brain Controls Your Money | Kumaar Bagrodia | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/fear-greed-fomo-why-your-brain-controls-your-money-kumaar-bagrodia-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/4c19ffa0-a0f9-4023-bac6-b4c200cfb35e/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/4c19ffa0-a0f9-4023-bac6-b4c200cfb35e/image.jpg?t=1789131006&size=Large",
-      "duration": 3815,
-      "duration_text": "1:03:35",
-      "published": "20260914",
-      "published_at": "2026-09-14T06:00:00+05:30",
-      "published_ts": 1789345800,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "6e7a5e26b426e399",
-      "title": "Bain’s Manny Maceda on the End of Globalisation, India’s Opportunity and the AI Reset",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/bain-s-manny-maceda-on-the-end-of-globalisation-india-s-opportunity-and-the-ai-reset",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/e987d1fa-69ac-4c12-bb9c-b4c4010a35ef/image.jpg?t=1789316048&size=Large",
-      "duration": 1291,
-      "duration_text": "21:31",
-      "published": "20260914",
-      "published_at": "2026-09-14T05:50:00+05:30",
-      "published_ts": 1789345200,
-      "latest_rank": 4,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 29.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
