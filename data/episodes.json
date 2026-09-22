@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:11:07.182641+05:30",
+  "generated_at": "2026-09-23T03:50:58.300577+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-21T04:11:07.182641+05:30",
+  "cutoff_time": "2026-09-22T03:50:58.300577+05:30",
   "episodes": [
+    {
+      "id": "38e649d932c8365f",
+      "title": "Kailash Kher x Ranveer - Sangeet, Pyaar, Saiyyan, Teri Deewani Aur Shiva | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Kailash-Kher-x-Ranveer---Sangeet--Pyaar--Saiyyan--Teri-Deewani-Aur-Shiva--TRS-e3p83co",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126143320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-22%2F432440694-44100-2-152a5752ec409.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 4684,
+      "duration_text": "1:18:04",
+      "published": "20260922",
+      "published_at": "2026-09-22T20:13:47+05:30",
+      "published_ts": 1790088227,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.85,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "09c2e43439a70876",
       "title": "Marketing Spend, ROI & Sales: What Actually Works? | Aakanksha Gupta | Anuraag Gupta | Paisa Vaisa",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -40,7 +73,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -56,53 +89,21 @@
       "published": "20260921",
       "published_at": "2026-09-21T05:50:00+05:30",
       "published_ts": 1789950000,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "ET Morning Brief"
-      ]
-    },
-    {
-      "id": "3c8b2d01470a9e6f",
-      "title": "LEGENDARY RAJPUT HISTORY - Veerta, Jauhar Aur Balidaan Ki Kahani | Rajveer Sir On TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/LEGENDARY-RAJPUT-HISTORY---Veerta--Jauhar-Aur-Balidaan-Ki-Kahani--Rajveer-Sir-On-TRS-e3p3d9r",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/125989627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-19%2F432236196-44100-2-a0105b6b08d3d.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 8817,
-      "duration_text": "2:26:57",
-      "published": "20260919",
-      "published_at": "2026-09-19T18:13:09+05:30",
-      "published_ts": 1789821789,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
