@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:54:04.638619+05:30",
+  "generated_at": "2026-09-25T04:05:11.969455+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-23T03:54:04.638619+05:30",
+  "cutoff_time": "2026-09-24T04:05:11.969455+05:30",
   "episodes": [
+    {
+      "id": "e31f4269038e47ce",
+      "title": "Why Young People Collapse in Gyms | India's Top Cardiologist Explains Heart Attack Signs | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/why-young-people-collapse-in-gyms-india-s-top-cardiologist-explains-heart-attack-signs-doctor-vs-internet--75332625",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75332625/24_sep_26_dvi_24_sep_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ba1f2d4b22211ab59dc3ed4a928926eb.jpg",
+      "duration": 4832,
+      "duration_text": "1:20:32",
+      "published": "20260924",
+      "published_at": "2026-09-24T20:30:57+05:30",
+      "published_ts": 1790262057,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "f5cc8296d2f39488",
+      "title": "Nisha Vernekar on Night-shift Reforms and Women's Work in India",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/nisha-vernekar-on-night-shift-reforms-and-womens-work-in-india",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-144-NishaVernekar-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/f/7/5/e/f75e347a3bb39a6388c4a68c3ddbc4f2/IOI-144-NishaVernekar-LibsynGraphic.png",
+      "duration": 2789,
+      "duration_text": "46:29",
+      "published": "20260924",
+      "published_at": "2026-09-24T16:30:00+05:30",
+      "published_ts": 1790247600,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 31.0,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
     {
       "id": "0d39b93e2a84b0c9",
       "title": "Bank accounts reveal the fingerprints of abusive financial control",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,39 +105,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
-      ]
-    },
-    {
-      "id": "c983755f2ddc7751",
-      "title": "Global Bond Markets Are Shifting. What It Means for India",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Global-Bond-Markets-Are-Shifting--What-It-Means-for-India-e3p7hum",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/126125462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-22%2Fe125eca3-d1b9-5510-8345-369d1cc01104.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1790062562091-daa679a38a848.jpg",
-      "duration": 2108,
-      "duration_text": "35:08",
-      "published": "20260923",
-      "published_at": "2026-09-23T17:00:00+05:30",
-      "published_ts": 1790163000,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 32.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India Economy"
+        "Latest in category"
       ]
     },
     {
@@ -142,33 +175,33 @@
       ]
     },
     {
-      "id": "d799967f7e6c8df1",
-      "title": "What is Food Noise? Why You Can't Stop Thinking About Food | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/what-is-food-noise-why-you-can-t-stop-thinking-about-food-doctor-vs-internet--75117236",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75117236/14_sep_26_hw_jasjeet_wasir_cb_128.mp3",
+      "id": "179cc3f5c066fc6e",
+      "title": "Sun Life’s Kevin Strain on FDI, Bancassurance and More",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/sun-life-s-kevin-strain-on-fdi-bancassurance-and-more",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/97da282471c1573064895e7aae550e4e.jpg",
-      "duration": 4736,
-      "duration_text": "1:18:56",
-      "published": "20260914",
-      "published_at": "2026-09-14T18:55:04+05:30",
-      "published_ts": 1789392304,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/image.jpg?t=1789923888&size=Large",
+      "duration": 1355,
+      "duration_text": "22:35",
+      "published": "20260921",
+      "published_at": "2026-09-21T05:50:00+05:30",
+      "published_ts": 1789950000,
+      "latest_rank": 3,
+      "category": "markets",
+      "category_label": "Markets",
       "query": "Latest in category",
-      "score": 33.0,
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
       "backfill": true,
       "categories": [
-        "health"
+        "markets"
       ],
       "category_labels": [
-        "Health"
+        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -202,39 +235,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "f39f6cdf169c1b1d",
-      "title": "Aishwarya Kekre on Land Fragmentation and Its Impact on Structural Transformation",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/aishwarya-kekre-on-land-fragmentation-and-its-impact-on-structural-transformation",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-143-AishwaryaKekre-Podcast-Final_mixdown-auphonic.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/1/d/b/a/1dbafcc5a82b7c1716c3140a3186d450/IOI-143-AishwaryaKekre-LibsynGraphic.png",
-      "duration": 3406,
-      "duration_text": "56:46",
-      "published": "20260910",
-      "published_at": "2026-09-10T16:30:00+05:30",
-      "published_ts": 1789038000,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
