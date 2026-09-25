@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:05:11.969455+05:30",
+  "generated_at": "2026-09-26T04:04:25.264216+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-24T04:05:11.969455+05:30",
+  "cutoff_time": "2026-09-25T04:04:25.264216+05:30",
   "episodes": [
+    {
+      "id": "30794ebb9ce6d665",
+      "title": "India’s🇮🇳 Space HERO - Aliens, Space Economy & Rocket Making | Ex-ISRO Scientist & Skyroot CEO | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Indias-Space-HERO---Aliens--Space-Economy--Rocket-Making--Ex-ISRO-Scientist--Skyroot-CEO--TRS-e3pci5f",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126289519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F432646717-44100-2-05e911b4269ed.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 5204,
+      "duration_text": "1:26:44",
+      "published": "20260925",
+      "published_at": "2026-09-25T18:58:30+05:30",
+      "published_ts": 1790342910,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 31.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "4109e07fd72c04ef",
+      "title": "India’s Great IPO Rush: How Much Is Too Much?",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/india-s-great-ipo-rush-how-much-is-too-much",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/239dd43d-94d1-4f06-9449-b4cf012650c0/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/239dd43d-94d1-4f06-9449-b4cf012650c0/image.jpg?t=1790272369&size=Large",
+      "duration": 1348,
+      "duration_text": "22:28",
+      "published": "20260925",
+      "published_at": "2026-09-25T05:50:00+05:30",
+      "published_ts": 1790295600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "e31f4269038e47ce",
       "title": "Why Young People Collapse in Gyms | India's Top Cardiologist Explains Heart Attack Signs | Doctor vs Internet",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
+      "query": "Latest in category",
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -40,7 +105,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +124,13 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 31.0,
+      "query": "Latest in category",
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
@@ -72,7 +138,7 @@
         "Policy"
       ],
       "queries": [
-        "Ideas of India"
+        "Latest in category"
       ]
     },
     {
@@ -88,11 +154,11 @@
       "published": "20260923",
       "published_at": "2026-09-23T20:53:16+05:30",
       "published_ts": 1790176996,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -103,39 +169,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "38e649d932c8365f",
-      "title": "Kailash Kher x Ranveer - Sangeet, Pyaar, Saiyyan, Teri Deewani Aur Shiva | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Kailash-Kher-x-Ranveer---Sangeet--Pyaar--Saiyyan--Teri-Deewani-Aur-Shiva--TRS-e3p83co",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126143320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-22%2F432440694-44100-2-152a5752ec409.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 4684,
-      "duration_text": "1:18:04",
-      "published": "20260922",
-      "published_at": "2026-09-22T20:13:47+05:30",
-      "published_ts": 1790088227,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.35,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
@@ -169,39 +202,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "179cc3f5c066fc6e",
-      "title": "Sun Life’s Kevin Strain on FDI, Bancassurance and More",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/sun-life-s-kevin-strain-on-fdi-bancassurance-and-more",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/32e1e708-b1f0-4492-b66f-b4cb01180bd5/image.jpg?t=1789923888&size=Large",
-      "duration": 1355,
-      "duration_text": "22:35",
-      "published": "20260921",
-      "published_at": "2026-09-21T05:50:00+05:30",
-      "published_ts": 1789950000,
-      "latest_rank": 3,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
