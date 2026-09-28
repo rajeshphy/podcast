@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:54:21.965724+05:30",
+  "generated_at": "2026-09-29T05:21:45.128660+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-27T03:54:21.965724+05:30",
+  "cutoff_time": "2026-09-28T05:21:45.128660+05:30",
   "episodes": [
+    {
+      "id": "664099b31f6d1b22",
+      "title": "2. The Real Playbook for Building Serious Wealth in India | Srikanth Subramanian | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/2-the-real-playbook-for-building-serious-wealth-in-india-srikanth-subramanian-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a8b86276-8e62-4e9a-8487-b4d10102af85/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a8b86276-8e62-4e9a-8487-b4d10102af85/image.jpg?t=1790438081&size=Large",
+      "duration": 4860,
+      "duration_text": "1:21:00",
+      "published": "20260928",
+      "published_at": "2026-09-28T06:00:00+05:30",
+      "published_ts": 1790555400,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "30794ebb9ce6d665",
       "title": "India’s🇮🇳 Space HERO - Aliens, Space Economy & Rocket Making | Ex-ISRO Scientist & Skyroot CEO | TRS",
@@ -57,11 +89,11 @@
       "published": "20260925",
       "published_at": "2026-09-25T05:50:00+05:30",
       "published_ts": 1790295600,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 32.1,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -171,39 +203,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "09c2e43439a70876",
-      "title": "Marketing Spend, ROI & Sales: What Actually Works? | Aakanksha Gupta | Anuraag Gupta | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/marketing-spend-roi-sales-what-actually-works-aakanksha-gupta-anuraag-gupta-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1017cfdb-5714-4a3e-b462-b4c900f2fbbb/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1017cfdb-5714-4a3e-b462-b4c900f2fbbb/image.jpg?t=1789743034&size=Large",
-      "duration": 3783,
-      "duration_text": "1:03:03",
-      "published": "20260921",
-      "published_at": "2026-09-21T06:00:00+05:30",
-      "published_ts": 1789950600,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
