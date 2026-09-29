@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:21:45.128660+05:30",
+  "generated_at": "2026-09-30T04:34:06.008425+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,11 +9,43 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-09-28T05:21:45.128660+05:30",
+  "cutoff_time": "2026-09-29T04:34:06.008425+05:30",
   "episodes": [
     {
+      "id": "b9b8a39e46f4684d",
+      "title": "Does the Robot Actually Perform Your Surgery? The Truth About Robotic Heart Surgery | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/does-the-robot-actually-perform-your-surgery-the-truth-about-robotic-heart-surgery-doctor-vs-internet--75429896",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75429896/29_sep_26_dvi_29_sep_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4ef12c9e00409a8ca8fa436476a7f005.jpg",
+      "duration": 3110,
+      "duration_text": "51:50",
+      "published": "20260929",
+      "published_at": "2026-09-29T19:35:49+05:30",
+      "published_ts": 1790690749,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
       "id": "664099b31f6d1b22",
-      "title": "2. The Real Playbook for Building Serious Wealth in India | Srikanth Subramanian | Paisa Vaisa",
+      "title": "The Real Playbook for Building Serious Wealth in India | Srikanth Subramanian | Paisa Vaisa",
       "channel": "Paisa Vaisa",
       "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/2-the-real-playbook-for-building-serious-wealth-in-india-srikanth-subramanian-paisa-vaisa",
       "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/a8b86276-8e62-4e9a-8487-b4d10102af85/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -40,7 +73,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -89,11 +122,11 @@
       "published": "20260925",
       "published_at": "2026-09-25T05:50:00+05:30",
       "published_ts": 1790295600,
-      "latest_rank": 2,
+      "latest_rank": 3,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 31.3,
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -104,39 +137,6 @@
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "e31f4269038e47ce",
-      "title": "Why Young People Collapse in Gyms | India's Top Cardiologist Explains Heart Attack Signs | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/why-young-people-collapse-in-gyms-india-s-top-cardiologist-explains-heart-attack-signs-doctor-vs-internet--75332625",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75332625/24_sep_26_dvi_24_sep_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ba1f2d4b22211ab59dc3ed4a928926eb.jpg",
-      "duration": 4832,
-      "duration_text": "1:20:32",
-      "published": "20260924",
-      "published_at": "2026-09-24T20:30:57+05:30",
-      "published_ts": 1790262057,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
