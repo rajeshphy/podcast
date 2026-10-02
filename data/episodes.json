@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:47:35.898052+05:30",
+  "generated_at": "2026-10-03T04:36:42.211518+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,73 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-01T04:47:35.898052+05:30",
+  "cutoff_time": "2026-10-02T04:36:42.211518+05:30",
   "episodes": [
+    {
+      "id": "25ac7016a30a6e47",
+      "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03057-4",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6abfcb775558f9dbe25f7077/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1790954109672-c5d6e193-56c7-4cbb-b747-0754fd289452.jpeg",
+      "duration": 1939,
+      "duration_text": "32:19",
+      "published": "20261002",
+      "published_at": "2026-10-02T21:00:00+05:30",
+      "published_ts": 1790955000,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "5d09c13248ecf556",
+      "title": "50 AMBITIOUS Gen Z's, 1 Ranveer - BeerBiceps Live Ep. 2",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/50-AMBITIOUS-Gen-Zs--1-Ranveer---BeerBiceps-Live-Ep--2-e3pmd08",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126611912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433063606-44100-2-7739fe5c1bb7b.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 2133,
+      "duration_text": "35:33",
+      "published": "20261001",
+      "published_at": "2026-10-01T12:05:11+05:30",
+      "published_ts": 1790836511,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 30.35,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "21cb80f2f54608ab",
       "title": "ECI: Who controls India's voter list?",
@@ -24,15 +89,16 @@
       "published": "20261001",
       "published_at": "2026-10-01T05:50:00+05:30",
       "published_ts": 1790814000,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +106,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -110,39 +176,6 @@
       ]
     },
     {
-      "id": "30794ebb9ce6d665",
-      "title": "India’s🇮🇳 Space HERO - Aliens, Space Economy & Rocket Making | Ex-ISRO Scientist & Skyroot CEO | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Indias-Space-HERO---Aliens--Space-Economy--Rocket-Making--Ex-ISRO-Scientist--Skyroot-CEO--TRS-e3pci5f",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126289519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F432646717-44100-2-05e911b4269ed.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 5204,
-      "duration_text": "1:26:44",
-      "published": "20260925",
-      "published_at": "2026-09-25T18:58:30+05:30",
-      "published_ts": 1790342910,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "f5cc8296d2f39488",
       "title": "Nisha Vernekar on Night-shift Reforms and Women's Work in India",
       "channel": "Ideas of India",
@@ -170,39 +203,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "0d39b93e2a84b0c9",
-      "title": "Bank accounts reveal the fingerprints of abusive financial control",
-      "channel": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03021-2",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6ab3eee559a98735e1f2c6a1/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1452,
-      "duration_text": "24:12",
-      "published": "20260923",
-      "published_at": "2026-09-23T20:53:16+05:30",
-      "published_ts": 1790176996,
-      "latest_rank": 3,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 29.95,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
