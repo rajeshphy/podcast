@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:36:42.211518+05:30",
+  "generated_at": "2026-10-04T03:45:50.927721+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-02T04:36:42.211518+05:30",
+  "cutoff_time": "2026-10-03T03:45:50.927721+05:30",
   "episodes": [
     {
       "id": "25ac7016a30a6e47",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,7 +41,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
