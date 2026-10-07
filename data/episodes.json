@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:40:10.497006+05:30",
+  "generated_at": "2026-10-08T05:08:45.563536+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,73 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-06T04:40:10.497006+05:30",
+  "cutoff_time": "2026-10-07T05:08:45.563536+05:30",
   "episodes": [
+    {
+      "id": "267fe66282940f6e",
+      "title": "Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03208-7",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6ac673cf9fea6e0a64d06d1a/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1411,
+      "duration_text": "23:31",
+      "published": "20261007",
+      "published_at": "2026-10-07T23:09:17+05:30",
+      "published_ts": 1791394757,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "23feec07d4473825",
+      "title": "Secrets Of INDIAN TRIBES - Archaeologist Dr. Pawar | Tribal History, Occult, Medicine & More | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Secrets-Of-INDIAN-TRIBES---Archaeologist-Dr--Pawar--Tribal-History--Occult--Medicine--More--TRS-e3q024f",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126928463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433466934-44100-2-bde7e7c755d09.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1791286041376-7a668f1e8cf9c.jpg",
+      "duration": 7442,
+      "duration_text": "2:04:02",
+      "published": "20261006",
+      "published_at": "2026-10-06T16:58:01+05:30",
+      "published_ts": 1791286081,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 28.75,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "69957a046ed6b8d7",
       "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive)",
@@ -27,50 +92,18 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 33.25,
+      "query": "Latest in category",
+      "score": 32.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Paisa Vaisa"
-      ]
-    },
-    {
-      "id": "4a41d95bc6ef779f",
-      "title": "The Mountain Podcast - BeerBiceps In Ladakh",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/The-Mountain-Podcast---BeerBiceps-In-Ladakh-e3ptmmi",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126851218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433366179-44100-2-7b49a5aaa643d.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 4267,
-      "duration_text": "1:11:07",
-      "published": "20261005",
-      "published_at": "2026-10-05T11:14:04+05:30",
-      "published_ts": 1791179044,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
@@ -104,39 +137,6 @@
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "25ac7016a30a6e47",
-      "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
-      "channel": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03057-4",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6abfcb775558f9dbe25f7077/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1790954109672-c5d6e193-56c7-4cbb-b747-0754fd289452.jpeg",
-      "duration": 1939,
-      "duration_text": "32:19",
-      "published": "20261002",
-      "published_at": "2026-10-02T21:00:00+05:30",
-      "published_ts": 1790955000,
-      "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 31.55,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
