@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:19:32.580971+05:30",
+  "generated_at": "2026-10-10T04:52:39.745892+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,40 +9,8 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-08T05:19:32.580971+05:30",
+  "cutoff_time": "2026-10-09T04:52:39.745892+05:30",
   "episodes": [
-    {
-      "id": "568280a42c048bb6",
-      "title": "IITs, IIMs tell alumni at reunions: donate first, reminisce later",
-      "channel": "Daybreak",
-      "url": "https://share.transistor.fm/s/4733ce80",
-      "audio_url": "https://media.transistor.fm/4733ce80/b5abfdad.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://img.transistorcdn.com/aQOjGRkUXiqls2ZeZB-ZqIt1nIV83dABpDgFgxLe6n4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iM2Vk/YThmNTg4ZjM3ZGZi/MzFhZTJjMzc2N2Q0/M2QwYy5wbmc.jpg",
-      "duration": 1290,
-      "duration_text": "21:30",
-      "published": "20261009",
-      "published_at": "2026-10-09T02:30:01+05:30",
-      "published_ts": 1791493201,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Daybreak",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "daybreak_ken",
-      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Daybreak"
-      ]
-    },
     {
       "id": "aedcaa454c8a63a0",
       "title": "Kishen Shastry on the Political Economy of Hindu Monastic Institutions (Mutts) in Karnataka",
@@ -59,12 +27,13 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
@@ -72,7 +41,7 @@
         "Policy"
       ],
       "queries": [
-        "Ideas of India"
+        "Latest in category"
       ]
     },
     {
@@ -88,11 +57,11 @@
       "published": "20261007",
       "published_at": "2026-10-07T23:09:17+05:30",
       "published_ts": 1791394757,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -143,12 +112,12 @@
     },
     {
       "id": "69957a046ed6b8d7",
-      "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive)",
+      "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive) Part 1",
       "channel": "Paisa Vaisa",
       "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/inside-the-stockbroking-business-nithin-kamath-paisa-vaisa",
       "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/image.jpg?t=1791271124&size=Large",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/image.jpg?t=1791545283&size=Large",
       "duration": 1820,
       "duration_text": "30:20",
       "published": "20261006",
@@ -169,6 +138,39 @@
       ],
       "category_labels": [
         "Finance"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "acb9717672e9c4bd",
+      "title": "Fireflies’ Krish Ramineni on AI Teammates and the Future of Knowledge",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/fireflies-krish-ramineni-on-ai-teammates-and-the-future-of-knowledge",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8dca2be6-044c-4a06-9667-b4d900fe425d/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8dca2be6-044c-4a06-9667-b4d900fe425d/image.jpg?t=1791127620&size=Large",
+      "duration": 1247,
+      "duration_text": "20:47",
+      "published": "20261005",
+      "published_at": "2026-10-05T05:50:00+05:30",
+      "published_ts": 1791159600,
+      "latest_rank": 4,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 29.7,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
       ],
       "queries": [
         "Latest in category"
