@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:52:39.745892+05:30",
+  "generated_at": "2026-10-11T04:15:41.667163+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-09T04:52:39.745892+05:30",
+  "cutoff_time": "2026-10-10T04:15:41.667163+05:30",
   "episodes": [
+    {
+      "id": "95929b23ada89dcc",
+      "title": "QUEEN OF INDIAN MEDIA - Ekta Kapoor On TRS | Business, AI & More",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/QUEEN-OF-INDIAN-MEDIA---Ekta-Kapoor-On-TRS--Business--AI--More-e3q9qte",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127248750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2F433863860-44100-2-7b7fb4f55739e.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1791631827928-87682729d45e1.jpg",
+      "duration": 3185,
+      "duration_text": "53:05",
+      "published": "20261010",
+      "published_at": "2026-10-10T17:01:37+05:30",
+      "published_ts": 1791631897,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 31.9,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "aedcaa454c8a63a0",
       "title": "Kishen Shastry on the Political Economy of Hindu Monastic Institutions (Mutts) in Karnataka",
@@ -72,39 +104,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "23feec07d4473825",
-      "title": "Secrets Of INDIAN TRIBES - Archaeologist Dr. Pawar | Tribal History, Occult, Medicine & More | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Secrets-Of-INDIAN-TRIBES---Archaeologist-Dr--Pawar--Tribal-History--Occult--Medicine--More--TRS-e3q024f",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/126928463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433466934-44100-2-bde7e7c755d09.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1791286041376-7a668f1e8cf9c.jpg",
-      "duration": 7442,
-      "duration_text": "2:04:02",
-      "published": "20261006",
-      "published_at": "2026-10-06T16:58:01+05:30",
-      "published_ts": 1791286081,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
