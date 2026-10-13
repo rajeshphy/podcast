@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:30:48.548647+05:30",
+  "generated_at": "2026-10-13T07:00:06.035204+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-11T04:30:48.548647+05:30",
+  "cutoff_time": "2026-10-12T07:00:06.035204+05:30",
   "episodes": [
+    {
+      "id": "4658c9dba00f3881",
+      "title": "Can Stock Trading Make You Money? | Nithin Kamath | Paisa Vaisa (Archive) Part 2",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/can-stock-trading-make-you-money-nithin-kamath-paisa-vaisa-archive-part-2",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/image.jpg?t=1791555793&size=Large",
+      "duration": 1393,
+      "duration_text": "23:13",
+      "published": "20261012",
+      "published_at": "2026-10-12T18:00:00+05:30",
+      "published_ts": 1791808200,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "95929b23ada89dcc",
       "title": "QUEEN OF INDIAN MEDIA - Ekta Kapoor On TRS | Business, AI & More",
@@ -111,39 +143,6 @@
       ]
     },
     {
-      "id": "69957a046ed6b8d7",
-      "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive) Part 1",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/inside-the-stockbroking-business-nithin-kamath-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/image.jpg?t=1791545283&size=Large",
-      "duration": 1820,
-      "duration_text": "30:20",
-      "published": "20261006",
-      "published_at": "2026-10-06T11:52:48+05:30",
-      "published_ts": 1791267768,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 32.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "acb9717672e9c4bd",
       "title": "Fireflies’ Krish Ramineni on AI Teammates and the Future of Knowledge",
       "channel": "ET Morning Brief",
@@ -156,11 +155,11 @@
       "published": "20261005",
       "published_at": "2026-10-05T05:50:00+05:30",
       "published_ts": 1791159600,
-      "latest_rank": 4,
+      "latest_rank": 5,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 29.7,
+      "score": 28.9,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
