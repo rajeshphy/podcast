@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:51:01.804002+05:30",
+  "generated_at": "2026-10-15T03:56:38.160809+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-13T04:51:01.804002+05:30",
+  "cutoff_time": "2026-10-14T03:56:38.160809+05:30",
   "episodes": [
+    {
+      "id": "d90071550a4be666",
+      "title": "The world is closer to a major conservation target than scientists thought",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/the-world-is-closer-to-a-major-conservation-target-than-scie",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6acf95828f90a39dfca1dacb/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1297,
+      "duration_text": "21:37",
+      "published": "20261014",
+      "published_at": "2026-10-14T20:30:00+05:30",
+      "published_ts": 1791990000,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "56444798bf0d0bea",
+      "title": "Why the RBI's Defence of the Rupee Is Becoming Unsustainable",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Why-the-RBIs-Defence-of-the-Rupee-Is-Becoming-Unsustainable-e3qfu8s",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/127448796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F5c359cfa-a858-b346-5d89-daa46c087224.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1791962184799-74e1d3f026204.jpg",
+      "duration": 2117,
+      "duration_text": "35:17",
+      "published": "20261014",
+      "published_at": "2026-10-14T17:00:00+05:30",
+      "published_ts": 1791977400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 32.7,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
+      ]
+    },
     {
       "id": "4cf9f1354cd58d9b",
       "title": "How Rich Commit Crimes - Vijay Mallya, Property Frauds & More | Top Lawyer Vishal Tinani on TRS",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.85,
+      "query": "Latest in category",
+      "score": 30.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +105,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -104,72 +169,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "267fe66282940f6e",
-      "title": "Nobel Prizes 2026: ‘ghost’ particles, mirror molecules and light switches in the brain",
-      "channel": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-03208-7",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6ac673cf9fea6e0a64d06d1a/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1411,
-      "duration_text": "23:31",
-      "published": "20261007",
-      "published_at": "2026-10-07T23:09:17+05:30",
-      "published_ts": 1791394757,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 30.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "acb9717672e9c4bd",
-      "title": "Fireflies’ Krish Ramineni on AI Teammates and the Future of Knowledge",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/fireflies-krish-ramineni-on-ai-teammates-and-the-future-of-knowledge",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8dca2be6-044c-4a06-9667-b4d900fe425d/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8dca2be6-044c-4a06-9667-b4d900fe425d/image.jpg?t=1791127620&size=Large",
-      "duration": 1247,
-      "duration_text": "20:47",
-      "published": "20261005",
-      "published_at": "2026-10-05T05:50:00+05:30",
-      "published_ts": 1791159600,
-      "latest_rank": 5,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 28.9,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
