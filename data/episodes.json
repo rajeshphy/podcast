@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:39:04.942805+05:30",
+  "generated_at": "2026-10-18T03:03:47.642945+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-16T03:39:04.942805+05:30",
+  "cutoff_time": "2026-10-17T03:03:47.642945+05:30",
   "episodes": [
     {
       "id": "9b5f77d4aacd13b5",
@@ -24,11 +24,11 @@
       "published": "20261015",
       "published_at": "2026-10-15T19:56:53+05:30",
       "published_ts": 1792074413,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "ideas",
       "category_label": "Ideas",
       "query": "Latest in category",
-      "score": 31.4,
+      "score": 30.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
