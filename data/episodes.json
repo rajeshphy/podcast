@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:08:09.033056+05:30",
+  "generated_at": "2026-10-20T04:28:36.364260+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-18T03:08:09.033056+05:30",
+  "cutoff_time": "2026-10-19T04:28:36.364260+05:30",
   "episodes": [
+    {
+      "id": "2d5f3524955684a2",
+      "title": "Hidden Male Infertility: Why Gym Fitness Doesn’t Equal Fertility | Dr Sankalp Jain | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/hidden-male-infertility-why-gym-fitness-doesn-t-equal-fertility-dr-sankalp-jain-doctor-vs-internet--75855309",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75855309/19_oct_26_dvi_19_oct_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/266c034314bd66ad28b9e07673e3c2d0.jpg",
+      "duration": 5653,
+      "duration_text": "1:34:13",
+      "published": "20261019",
+      "published_at": "2026-10-19T13:08:42+05:30",
+      "published_ts": 1792395522,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 32.95,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "dcbf6b0d27c3c3ec",
+      "title": "From Salary to ₹10 Crore: What Has to Change? | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/image.jpg?t=1791547036&size=Large",
+      "duration": 4002,
+      "duration_text": "1:06:42",
+      "published": "20261019",
+      "published_at": "2026-10-19T06:00:00+05:30",
+      "published_ts": 1792369800,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 32.2,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "9b5f77d4aacd13b5",
       "title": "The Shamshan Podcast - Tarapith With Rajarshi Nandy | TRS",
@@ -90,11 +154,11 @@
       "published": "20261014",
       "published_at": "2026-10-14T20:30:00+05:30",
       "published_ts": 1791990000,
-      "latest_rank": 2,
+      "latest_rank": 3,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 30.75,
+      "score": 29.95,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -105,39 +169,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "4658c9dba00f3881",
-      "title": "Can Stock Trading Make You Money? | Nithin Kamath | Paisa Vaisa (Archive) Part 2",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/can-stock-trading-make-you-money-nithin-kamath-paisa-vaisa-archive-part-2",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/image.jpg?t=1791555793&size=Large",
-      "duration": 1393,
-      "duration_text": "23:13",
-      "published": "20261012",
-      "published_at": "2026-10-12T18:00:00+05:30",
-      "published_ts": 1791808200,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
@@ -171,39 +202,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "b9b8a39e46f4684d",
-      "title": "Does the Robot Actually Perform Your Surgery? The Truth About Robotic Heart Surgery | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/does-the-robot-actually-perform-your-surgery-the-truth-about-robotic-heart-surgery-doctor-vs-internet--75429896",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75429896/29_sep_26_dvi_29_sep_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4ef12c9e00409a8ca8fa436476a7f005.jpg",
-      "duration": 3110,
-      "duration_text": "51:50",
-      "published": "20260929",
-      "published_at": "2026-09-29T19:35:49+05:30",
-      "published_ts": 1790690749,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
