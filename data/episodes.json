@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:28:36.364260+05:30",
+  "generated_at": "2026-10-21T03:58:11.107810+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-19T04:28:36.364260+05:30",
+  "cutoff_time": "2026-10-20T03:58:11.107810+05:30",
   "episodes": [
+    {
+      "id": "b4a599f76141d6a3",
+      "title": "Who Gets Left Behind by AI? Google DeepMind’s Lila Ibrahim",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/who-gets-left-behind-by-ai-google-deepmind-s-lila-ibrahim",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b0ea29db-baec-4610-9dd1-b4e800da1dd7/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b0ea29db-baec-4610-9dd1-b4e800da1dd7/image.jpg?t=1792416183&size=Large",
+      "duration": 1563,
+      "duration_text": "26:03",
+      "published": "20261020",
+      "published_at": "2026-10-20T05:50:00+05:30",
+      "published_ts": 1792455600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "2d5f3524955684a2",
       "title": "Hidden Male Infertility: Why Gym Fitness Doesn’t Equal Fertility | Dr Sankalp Jain | Doctor vs Internet",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 32.95,
+      "query": "Latest in category",
+      "score": 32.45,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -40,7 +73,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +92,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 32.2,
+      "query": "Latest in category",
+      "score": 31.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -72,7 +106,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -103,39 +137,6 @@
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "beeaf59582402b97",
-      "title": "Blackstone’s Next $50 Billion: Why Jonathan Gray Is Betting on India",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/blackstone-s-next-50-billion-why-jonathan-gray-is-betting-on-india",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d5e7505b-e4a7-4589-a891-b4e3012ab32f/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d5e7505b-e4a7-4589-a891-b4e3012ab32f/image.jpg?t=1792001620&size=Large",
-      "duration": 1764,
-      "duration_text": "29:24",
-      "published": "20261015",
-      "published_at": "2026-10-15T05:50:00+05:30",
-      "published_ts": 1792023600,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
