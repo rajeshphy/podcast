@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:02:57.247516+05:30",
+  "generated_at": "2026-10-23T04:02:48.185479+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,73 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-21T04:02:57.247516+05:30",
+  "cutoff_time": "2026-10-22T04:02:48.185479+05:30",
   "episodes": [
+    {
+      "id": "43eb45a3d0a096c7",
+      "title": "Vaibhav Rathi on Political Influence on Bureaucratic Priorities & its Impact on Investment in India",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/vaibhav-rathi-on-political-influence-on-bureaucratic-priorities-and-its-impact-on-investment-in-india",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-150-VaibhavRothi-Podcast_mixdown.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/6/b/1/a6b1f23721bc2cd95f2e77a3093c12a1/IOI-150-VaibhavRathi-LibsynGraphic.png",
+      "duration": 2757,
+      "duration_text": "45:57",
+      "published": "20261022",
+      "published_at": "2026-10-22T16:30:00+05:30",
+      "published_ts": 1792666800,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 31.0,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "096595035a922fb4",
+      "title": "GOD KA PROOF - Quantum Science Explained In Hindi | Time Travel, AI & Reality | Sufiyan A On TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/GOD-KA-PROOF---Quantum-Science-Explained-In-Hindi--Time-Travel--AI--Reality--Sufiyan-A-On-TRS-e3qrg35",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127827493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434647505-44100-2-4f89e9ff71df5.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1792577675784-1a339d160f976.jpg",
+      "duration": 5177,
+      "duration_text": "1:26:17",
+      "published": "20261021",
+      "published_at": "2026-10-21T17:00:00+05:30",
+      "published_ts": 1792582200,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 31.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "b4a599f76141d6a3",
       "title": "Who Gets Left Behind by AI? Google DeepMind’s Lila Ibrahim",
@@ -24,11 +89,11 @@
       "published": "20261020",
       "published_at": "2026-10-20T05:50:00+05:30",
       "published_ts": 1792455600,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 32.1,
+      "score": 31.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -111,39 +176,6 @@
       ]
     },
     {
-      "id": "9b5f77d4aacd13b5",
-      "title": "The Shamshan Podcast - Tarapith With Rajarshi Nandy | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/The-Shamshan-Podcast---Tarapith-With-Rajarshi-Nandy--TRS-e3qi6j6",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127522854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434234977-44100-2-56108142d6622.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1792074364060-cc494c67b024a.jpg",
-      "duration": 3238,
-      "duration_text": "53:58",
-      "published": "20261015",
-      "published_at": "2026-10-15T19:56:53+05:30",
-      "published_ts": 1792074413,
-      "latest_rank": 2,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.6,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "d90071550a4be666",
       "title": "The world is closer to a major conservation target than scientists thought",
       "channel": "Nature",
@@ -171,39 +203,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "aedcaa454c8a63a0",
-      "title": "Kishen Shastry on the Political Economy of Hindu Monastic Institutions (Mutts) in Karnataka",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/kishen-shastry-on-the-political-economy-of-hindu-monastic-institutions-mutts-in-karnataka",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-145-KishenShastry-Podcast_mixdown-auphonic.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/c/2/1/f/c21f495b30ef729888c4a68c3ddbc4f2/IOI-145-KishenShastry-LibsynGraphic.png",
-      "duration": 3197,
-      "duration_text": "53:17",
-      "published": "20261008",
-      "published_at": "2026-10-08T16:30:00+05:30",
-      "published_ts": 1791457200,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 31.55,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
