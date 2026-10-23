@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:02:48.185479+05:30",
+  "generated_at": "2026-10-24T03:57:00.389441+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-22T04:02:48.185479+05:30",
+  "cutoff_time": "2026-10-23T03:57:00.389441+05:30",
   "episodes": [
+    {
+      "id": "74a9217b5bf560ac",
+      "title": "SECRETS OF CHAKRAS WITH DAAJI - Karma, Inner Journey & Spiritual Growth | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/SECRETS-OF-CHAKRAS-WITH-DAAJI---Karma--Inner-Journey--Spiritual-Growth--TRS-e3qvb34",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127953444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434818349-44100-2-c0f63a9572a5e.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1792761628656-9677f01ce0b76.jpg",
+      "duration": 4477,
+      "duration_text": "1:14:37",
+      "published": "20261023",
+      "published_at": "2026-10-23T19:12:18+05:30",
+      "published_ts": 1792762938,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.85,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "691330d2e7eb855d",
+      "title": "Yes Bank AT1 Bonds: Why the Supreme Court Reversed the ₹8,415 Crore Write-Down",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8-415-crore-write-down",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/070f06b7-fe0c-4faa-8aee-b4eb012bf9a5/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/070f06b7-fe0c-4faa-8aee-b4eb012bf9a5/image.jpg?t=1792693264&size=Large",
+      "duration": 1327,
+      "duration_text": "22:07",
+      "published": "20261023",
+      "published_at": "2026-10-23T05:50:00+05:30",
+      "published_ts": 1792714800,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "43eb45a3d0a096c7",
       "title": "Vaibhav Rathi on Political Influence on Bureaucratic Priorities & its Impact on Investment in India",
@@ -27,83 +91,18 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 31.0,
+      "query": "Latest in category",
+      "score": 30.5,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Ideas of India"
-      ]
-    },
-    {
-      "id": "096595035a922fb4",
-      "title": "GOD KA PROOF - Quantum Science Explained In Hindi | Time Travel, AI & Reality | Sufiyan A On TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/GOD-KA-PROOF---Quantum-Science-Explained-In-Hindi--Time-Travel--AI--Reality--Sufiyan-A-On-TRS-e3qrg35",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127827493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434647505-44100-2-4f89e9ff71df5.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1792577675784-1a339d160f976.jpg",
-      "duration": 5177,
-      "duration_text": "1:26:17",
-      "published": "20261021",
-      "published_at": "2026-10-21T17:00:00+05:30",
-      "published_ts": 1792582200,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 31.4,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "b4a599f76141d6a3",
-      "title": "Who Gets Left Behind by AI? Google DeepMind’s Lila Ibrahim",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/who-gets-left-behind-by-ai-google-deepmind-s-lila-ibrahim",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b0ea29db-baec-4610-9dd1-b4e800da1dd7/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/b0ea29db-baec-4610-9dd1-b4e800da1dd7/image.jpg?t=1792416183&size=Large",
-      "duration": 1563,
-      "duration_text": "26:03",
-      "published": "20261020",
-      "published_at": "2026-10-20T05:50:00+05:30",
-      "published_ts": 1792455600,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -188,11 +187,11 @@
       "published": "20261014",
       "published_at": "2026-10-14T20:30:00+05:30",
       "published_ts": 1791990000,
-      "latest_rank": 4,
+      "latest_rank": 5,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 29.15,
+      "score": 28.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
