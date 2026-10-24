@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:57:00.389441+05:30",
+  "generated_at": "2026-10-25T03:12:07.924414+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-23T03:57:00.389441+05:30",
+  "cutoff_time": "2026-10-24T03:12:07.924414+05:30",
   "episodes": [
+    {
+      "id": "fc5ea5f1e64ee77a",
+      "title": "Is AI a Bubble? I Asked the People Building It | WTF is AI?",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/is-ai-a-bubble-i-asked-the-people-building-it-wtf-is-ai/33064039",
+      "audio_url": "https://play.hubhopper.com/bffb6991b8cad2080312db2e6b768748.mp3?s=rss-feed&v=a871705ea13c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 8937,
+      "duration_text": "2:28:57",
+      "published": "20261024",
+      "published_at": "2026-10-24T08:31:47+05:30",
+      "published_ts": 1792810907,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Nikhil Kamath",
+      "score": 33.35,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Nikhil Kamath"
+      ]
+    },
     {
       "id": "74a9217b5bf560ac",
       "title": "SECRETS OF CHAKRAS WITH DAAJI - Karma, Inner Journey & Spiritual Growth | TRS",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.85,
+      "query": "Latest in category",
+      "score": 30.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +73,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +92,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
+      "query": "Latest in category",
+      "score": 32.1,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -72,7 +106,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
