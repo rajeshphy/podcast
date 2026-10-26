@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:27:26.445267+05:30",
+  "generated_at": "2026-10-27T04:42:49.232541+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-25T03:27:26.445267+05:30",
+  "cutoff_time": "2026-10-26T04:42:49.232541+05:30",
   "episodes": [
+    {
+      "id": "0bef2e0c636a70c5",
+      "title": "Why RBI Could Raise Rates Despite a Strong Indian Economy | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-rbi-could-raise-rates-despite-a-strong-indian-economy-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/image.jpg?t=1792390162&size=Large",
+      "duration": 3825,
+      "duration_text": "1:03:45",
+      "published": "20261026",
+      "published_at": "2026-10-26T06:00:00+05:30",
+      "published_ts": 1792974600,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 34.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
     {
       "id": "fc5ea5f1e64ee77a",
       "title": "Is AI a Bubble? I Asked the People Building It | WTF is AI?",
@@ -171,39 +203,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "dcbf6b0d27c3c3ec",
-      "title": "From Salary to ₹10 Crore: What Has to Change? | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/image.jpg?t=1791547036&size=Large",
-      "duration": 4002,
-      "duration_text": "1:06:42",
-      "published": "20261019",
-      "published_at": "2026-10-19T06:00:00+05:30",
-      "published_ts": 1792369800,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
