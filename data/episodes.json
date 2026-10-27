@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:42:49.232541+05:30",
+  "generated_at": "2026-10-28T04:31:35.729735+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-26T04:42:49.232541+05:30",
+  "cutoff_time": "2026-10-27T04:31:35.729735+05:30",
   "episodes": [
+    {
+      "id": "2a8db1e972071bf1",
+      "title": "Is China PREPARING for WAR? Arunachal Conflict & Untold Tibet History | Harvard Dr. Lobsang on TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Is-China-PREPARING-for-WAR--Arunachal-Conflict--Untold-Tibet-History--Harvard-Dr--Lobsang-on-TRS-e3r6bu8",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128183688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435118519-44100-2-fc5b95953c517.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793108289664-94178e45ff539.jpg",
+      "duration": 7159,
+      "duration_text": "1:59:19",
+      "published": "20261027",
+      "published_at": "2026-10-27T19:14:50+05:30",
+      "published_ts": 1793108690,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
+    {
+      "id": "25ffda3b01f655e5",
+      "title": "The $1.5 Billion Bet on a World Without Coders | Emergent’s Mukund Jha",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/the-1-5-billion-bet-on-a-world-without-coders-emergent-s-mukund-jha",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/67d8aaee-1674-4742-98e1-b4ef012fdf73/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/67d8aaee-1674-4742-98e1-b4ef012fdf73/image.jpg?t=1793039725&size=Large",
+      "duration": 1884,
+      "duration_text": "31:24",
+      "published": "20261027",
+      "published_at": "2026-10-27T05:50:00+05:30",
+      "published_ts": 1793060400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 32.6,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
     {
       "id": "0bef2e0c636a70c5",
       "title": "Why RBI Could Raise Rates Despite a Strong Indian Economy | Paisa Vaisa",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "finance",
       "category_label": "Finance",
-      "query": "Paisa Vaisa",
-      "score": 34.3,
+      "query": "Latest in category",
+      "score": 33.8,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "paisa_vaisa",
       "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
       "categories": [
         "finance"
       ],
@@ -40,7 +105,7 @@
         "Finance"
       ],
       "queries": [
-        "Paisa Vaisa"
+        "Latest in category"
       ]
     },
     {
@@ -71,72 +136,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "74a9217b5bf560ac",
-      "title": "SECRETS OF CHAKRAS WITH DAAJI - Karma, Inner Journey & Spiritual Growth | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/SECRETS-OF-CHAKRAS-WITH-DAAJI---Karma--Inner-Journey--Spiritual-Growth--TRS-e3qvb34",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/127953444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434818349-44100-2-c0f63a9572a5e.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1792761628656-9677f01ce0b76.jpg",
-      "duration": 4477,
-      "duration_text": "1:14:37",
-      "published": "20261023",
-      "published_at": "2026-10-23T19:12:18+05:30",
-      "published_ts": 1792762938,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.35,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "691330d2e7eb855d",
-      "title": "Yes Bank AT1 Bonds: Why the Supreme Court Reversed the ₹8,415 Crore Write-Down",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8-415-crore-write-down",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/070f06b7-fe0c-4faa-8aee-b4eb012bf9a5/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/070f06b7-fe0c-4faa-8aee-b4eb012bf9a5/image.jpg?t=1792693264&size=Large",
-      "duration": 1327,
-      "duration_text": "22:07",
-      "published": "20261023",
-      "published_at": "2026-10-23T05:50:00+05:30",
-      "published_ts": 1792714800,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 32.1,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
