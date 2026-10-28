@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:31:35.729735+05:30",
+  "generated_at": "2026-10-29T04:51:49.397743+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,104 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-27T04:31:35.729735+05:30",
+  "cutoff_time": "2026-10-28T04:51:49.397743+05:30",
   "episodes": [
+    {
+      "id": "f502fa59497c2673",
+      "title": "JioHotstar’s real overseas rival is a $10 per month pirate box",
+      "channel": "Daybreak",
+      "url": "https://share.transistor.fm/s/cd8a1c49",
+      "audio_url": "https://media.transistor.fm/cd8a1c49/143d45de.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://img.transistorcdn.com/ni999uj_wnltF4_tPvQOreEi4KZNPGiVPSeZ9DihgU4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wZWVi/YzZjY2ZlNTU2NWRj/MmFiMTE0NzcxOTk5/MTRiMS5wbmc.jpg",
+      "duration": 1476,
+      "duration_text": "24:36",
+      "published": "20261029",
+      "published_at": "2026-10-29T02:00:00+05:30",
+      "published_ts": 1793219400,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Daybreak",
+      "score": 31.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "daybreak_ken",
+      "feed_url": "https://feeds.transistor.fm/daybreak-3e66db67-ddb3-4cd3-9ba9-460bd586dcbb",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "Daybreak"
+      ]
+    },
+    {
+      "id": "a70af6e746b58572",
+      "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/this-arabian-desert-was-once-a-lush-paradise-why-did-ancient",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6ae2119533b363c95d5b467a/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1565,
+      "duration_text": "26:05",
+      "published": "20261028",
+      "published_at": "2026-10-28T21:30:00+05:30",
+      "published_ts": 1793203200,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "265bf857a7091386",
+      "title": "How Someone Else's Leverage Can Wipe Out Your Returns",
+      "channel": "Capitalmind",
+      "url": "https://capitalmind.libsyn.com/how-someone-elses-leverage-can-wipe-out-your-returns",
+      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/CM_ep_101_1012_-_v1.mp3?dest-id=1084508",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
+      "duration": 2918,
+      "duration_text": "48:38",
+      "published": "20261028",
+      "published_at": "2026-10-28T16:11:00+05:30",
+      "published_ts": 1793184060,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Capitalmind",
+      "score": 31.4,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "capitalmind",
+      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Capitalmind"
+      ]
+    },
     {
       "id": "2a8db1e972071bf1",
       "title": "Is China PREPARING for WAR? Arunachal Conflict & Untold Tibet History | Harvard Dr. Lobsang on TRS",
@@ -27,82 +123,18 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
-    {
-      "id": "25ffda3b01f655e5",
-      "title": "The $1.5 Billion Bet on a World Without Coders | Emergent’s Mukund Jha",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/the-1-5-billion-bet-on-a-world-without-coders-emergent-s-mukund-jha",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/67d8aaee-1674-4742-98e1-b4ef012fdf73/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/67d8aaee-1674-4742-98e1-b4ef012fdf73/image.jpg?t=1793039725&size=Large",
-      "duration": 1884,
-      "duration_text": "31:24",
-      "published": "20261027",
-      "published_at": "2026-10-27T05:50:00+05:30",
-      "published_ts": 1793060400,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 32.6,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "ET Morning Brief"
-      ]
-    },
-    {
-      "id": "0bef2e0c636a70c5",
-      "title": "Why RBI Could Raise Rates Despite a Strong Indian Economy | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-rbi-could-raise-rates-despite-a-strong-indian-economy-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/image.jpg?t=1792390162&size=Large",
-      "duration": 3825,
-      "duration_text": "1:03:45",
-      "published": "20261026",
-      "published_at": "2026-10-26T06:00:00+05:30",
-      "published_ts": 1792974600,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 33.8,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
@@ -202,39 +234,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "d90071550a4be666",
-      "title": "The world is closer to a major conservation target than scientists thought",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/the-world-is-closer-to-a-major-conservation-target-than-scie",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6acf95828f90a39dfca1dacb/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1297,
-      "duration_text": "21:37",
-      "published": "20261014",
-      "published_at": "2026-10-14T20:30:00+05:30",
-      "published_ts": 1791990000,
-      "latest_rank": 5,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 28.35,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
