@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:56:54.532125+05:30",
+  "generated_at": "2026-10-31T04:33:51.762367+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,85 +9,53 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-29T04:56:54.532125+05:30",
+  "cutoff_time": "2026-10-30T04:33:51.762367+05:30",
   "episodes": [
     {
-      "id": "cdfa719a4af4e3f4",
-      "title": "The Strongest Case for Optimism About India's Economy",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/The-Strongest-Case-for-Optimism-About-Indias-Economy-e3rb6n9",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/128342185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2Ff6c669d0-4daf-84b5-e86f-f03f8315dbfb.mp3",
+      "id": "689033f4eb3b7b05",
+      "title": "NASA Scientist & Climate Expert’s Warning : El Niño, AQI & India’s Future | Dr. Raghu M On TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/NASA-Scientist--Climate-Experts-Warning--El-Nio--AQI--Indias-Future--Dr--Raghu-M-On-TRS-e3rdijg",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128419888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435418215-44100-2-e5ac7d8a5f66c.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1793264474508-48108f1a56e2f.jpg",
-      "duration": 1407,
-      "duration_text": "23:27",
-      "published": "20261029",
-      "published_at": "2026-10-29T17:00:00+05:30",
-      "published_ts": 1793273400,
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793362140329-4bc8dc0612474.jpg",
+      "duration": 6773,
+      "duration_text": "1:52:53",
+      "published": "20261030",
+      "published_at": "2026-10-30T17:39:32+05:30",
+      "published_ts": 1793362172,
       "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 31.65,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 31.35,
       "method": "podcast_rss",
       "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
       "categories": [
-        "markets"
+        "ideas"
       ],
       "category_labels": [
-        "Markets"
+        "Ideas"
       ],
       "queries": [
-        "India Economy"
+        "Ranveer Hindi"
       ]
     },
     {
-      "id": "5d124aa8839ff6a4",
-      "title": "Do Sugar And Red Meat Cause Cancer? Cancer Doctor Reveals Early Signs Most Indians Ignore | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/do-sugar-and-red-meat-cause-cancer-cancer-doctor-reveals-early-signs-most-indians-ignore-doctor-vs-internet--76063923",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76063923/29_oct_26_health_wealth_28_oct_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/38f1de7adf8ea1fc791e85efe4a7333c.jpg",
-      "duration": 2998,
-      "duration_text": "49:58",
-      "published": "20261029",
-      "published_at": "2026-10-29T12:48:48+05:30",
-      "published_ts": 1793258328,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
-      ],
-      "queries": [
-        "Health Wealth"
-      ]
-    },
-    {
-      "id": "cb3b60fe8050e6ba",
-      "title": "Does Slumping Smartphone Demand Spell a Gloomy Diwali?",
+      "id": "623f09e4db962eb0",
+      "title": "China vs US: The New War Over Cancer Drugs and Biotech Supremacy | The Morning Brief Decode",
       "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/does-slumping-smartphone-demand-spell-a-gloomy-diwali",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c4fcdff9-c633-42be-84d0-b4f1012f6d92/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "url": "https://omny.fm/shows/the-morning-brief-1/china-vs-us-the-new-war-over-cancer-drugs-and-biotech-supremacy-the-morning-brief-decode",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/44e488b5-624a-424b-8425-b4f20131467f/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c4fcdff9-c633-42be-84d0-b4f1012f6d92/image.jpg?t=1793212184&size=Large",
-      "duration": 1434,
-      "duration_text": "23:54",
-      "published": "20261029",
-      "published_at": "2026-10-29T05:50:00+05:30",
-      "published_ts": 1793233200,
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/44e488b5-624a-424b-8425-b4f20131467f/image.jpg?t=1793298989&size=Large",
+      "duration": 1364,
+      "duration_text": "22:44",
+      "published": "20261030",
+      "published_at": "2026-10-30T05:50:00+05:30",
+      "published_ts": 1793319600,
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
@@ -108,6 +76,39 @@
       ]
     },
     {
+      "id": "5d124aa8839ff6a4",
+      "title": "Do Sugar And Red Meat Cause Cancer? Cancer Doctor Reveals Early Signs Most Indians Ignore | Doctor vs Internet",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/do-sugar-and-red-meat-cause-cancer-cancer-doctor-reveals-early-signs-most-indians-ignore-doctor-vs-internet--76063923",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76063923/29_oct_26_health_wealth_28_oct_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/38f1de7adf8ea1fc791e85efe4a7333c.jpg",
+      "duration": 2998,
+      "duration_text": "49:58",
+      "published": "20261029",
+      "published_at": "2026-10-29T12:48:48+05:30",
+      "published_ts": 1793258328,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Latest in category",
+      "score": 33.0,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
       "id": "a70af6e746b58572",
       "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
       "channel": "Nature",
@@ -120,11 +121,11 @@
       "published": "20261028",
       "published_at": "2026-10-28T21:30:00+05:30",
       "published_ts": 1793203200,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -135,39 +136,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "2a8db1e972071bf1",
-      "title": "Is China PREPARING for WAR? Arunachal Conflict & Untold Tibet History | Harvard Dr. Lobsang on TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Is-China-PREPARING-for-WAR--Arunachal-Conflict--Untold-Tibet-History--Harvard-Dr--Lobsang-on-TRS-e3r6bu8",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128183688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435118519-44100-2-fc5b95953c517.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793108289664-94178e45ff539.jpg",
-      "duration": 7159,
-      "duration_text": "1:59:19",
-      "published": "20261027",
-      "published_at": "2026-10-27T19:14:50+05:30",
-      "published_ts": 1793108690,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
