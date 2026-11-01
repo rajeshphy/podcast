@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T04:09:05.500692+05:30",
+  "generated_at": "2026-11-02T04:26:02.920013+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,31 +9,30 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-10-31T04:09:05.500692+05:30",
+  "cutoff_time": "2026-11-01T04:26:02.920013+05:30",
   "episodes": [
     {
-      "id": "689033f4eb3b7b05",
-      "title": "NASA Scientist & Climate Expert’s Warning : El Niño, AQI & India’s Future | Dr. Raghu M On TRS",
+      "id": "05d70d4e41f298a4",
+      "title": "IND-PAK Geopolitics Update - Baloch Army, Iran War & USA ft. Sushant Sareen On TRS",
       "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/NASA-Scientist--Climate-Experts-Warning--El-Nio--AQI--Indias-Future--Dr--Raghu-M-On-TRS-e3rdijg",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128419888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435418215-44100-2-e5ac7d8a5f66c.mp3",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/IND-PAK-Geopolitics-Update---Baloch-Army--Iran-War--USA-ft--Sushant-Sareen-On-TRS-e3rhnbp",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128555833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435585276-44100-2-615698d231987.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793362140329-4bc8dc0612474.jpg",
-      "duration": 6773,
-      "duration_text": "1:52:53",
-      "published": "20261030",
-      "published_at": "2026-10-30T17:39:32+05:30",
-      "published_ts": 1793362172,
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793534081808-ff6e9e08f022f.jpg",
+      "duration": 6758,
+      "duration_text": "1:52:38",
+      "published": "20261101",
+      "published_at": "2026-11-01T17:26:14+05:30",
+      "published_ts": 1793534174,
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.85,
+      "query": "Ranveer Hindi",
+      "score": 30.3,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -41,7 +40,7 @@
         "Ideas"
       ],
       "queries": [
-        "Latest in category"
+        "Ranveer Hindi"
       ]
     },
     {
