@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:26:02.920013+05:30",
+  "generated_at": "2026-11-03T07:11:56.062272+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,106 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-01T04:26:02.920013+05:30",
+  "cutoff_time": "2026-11-02T07:11:56.062272+05:30",
   "episodes": [
+    {
+      "id": "266e7651d8738e8b",
+      "title": "If UPI Is Free, Who Pays for It? | PhonePe, Razorpay & NPCI | WTF is Payments?",
+      "channel": "Nikhil Kamath",
+      "url": "https://listen.hubhopper.com/episode/if-upi-is-free-who-pays-for-it-phonepe-razorpay-npci-wtf-is-payments/33064988",
+      "audio_url": "https://play.hubhopper.com/0d7d4f016bab800c19afa9f85d33f838.mp3?s=rss-feed&v=c2675bb41c73",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
+      "duration": 14405,
+      "duration_text": "4:00:05",
+      "published": "20261102",
+      "published_at": "2026-11-02T19:33:22+05:30",
+      "published_ts": 1793628202,
+      "latest_rank": 1,
+      "category": "interviews",
+      "category_label": "Interviews",
+      "query": "Nikhil Kamath",
+      "score": 30.75,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "wtf_nikhil_kamath",
+      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
+      "categories": [
+        "interviews"
+      ],
+      "category_labels": [
+        "Interviews"
+      ],
+      "queries": [
+        "Nikhil Kamath"
+      ]
+    },
+    {
+      "id": "014b8a78bb0a6d61",
+      "title": "Building Wealth Through Patient Investing with Raunak Onkar of PPFAS | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/building-wealth-through-patient-investing-with-raunak-onkar-of-ppfas-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/image.jpg?t=1792916524&size=Large",
+      "duration": 4831,
+      "duration_text": "1:20:31",
+      "published": "20261102",
+      "published_at": "2026-11-02T06:00:00+05:30",
+      "published_ts": 1793579400,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Latest in category",
+      "score": 32.75,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
+      "id": "6036cc725ffead2f",
+      "title": "AI Agents Are Breaking the Internet’s Ad Model",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/ai-agents-are-breaking-the-internet-s-ad-model",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/image.jpg?t=1793555890&size=Large",
+      "duration": 2175,
+      "duration_text": "36:15",
+      "published": "20261102",
+      "published_at": "2026-11-02T05:50:00+05:30",
+      "published_ts": 1793578800,
+      "latest_rank": 2,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 31.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "05d70d4e41f298a4",
       "title": "IND-PAK Geopolitics Update - Baloch Army, Iran War & USA ft. Sushant Sareen On TRS",
@@ -27,50 +125,18 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 30.3,
+      "query": "Latest in category",
+      "score": 29.8,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
       "category_labels": [
         "Ideas"
-      ],
-      "queries": [
-        "Ranveer Hindi"
-      ]
-    },
-    {
-      "id": "623f09e4db962eb0",
-      "title": "China vs US: The New War Over Cancer Drugs and Biotech Supremacy | The Morning Brief Decode",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/china-vs-us-the-new-war-over-cancer-drugs-and-biotech-supremacy-the-morning-brief-decode",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/44e488b5-624a-424b-8425-b4f20131467f/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/44e488b5-624a-424b-8425-b4f20131467f/image.jpg?t=1793298989&size=Large",
-      "duration": 1364,
-      "duration_text": "22:44",
-      "published": "20261030",
-      "published_at": "2026-10-30T05:50:00+05:30",
-      "published_ts": 1793319600,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 32.1,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -137,72 +203,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "0bef2e0c636a70c5",
-      "title": "Why RBI Could Raise Rates Despite a Strong Indian Economy | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-rbi-could-raise-rates-despite-a-strong-indian-economy-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/c9206496-8697-49a8-b221-b4e800268abb/image.jpg?t=1792390162&size=Large",
-      "duration": 3825,
-      "duration_text": "1:03:45",
-      "published": "20261026",
-      "published_at": "2026-10-26T06:00:00+05:30",
-      "published_ts": 1792974600,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 33.8,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "fc5ea5f1e64ee77a",
-      "title": "Is AI a Bubble? I Asked the People Building It | WTF is AI?",
-      "channel": "Nikhil Kamath",
-      "url": "https://listen.hubhopper.com/episode/is-ai-a-bubble-i-asked-the-people-building-it-wtf-is-ai/33064039",
-      "audio_url": "https://play.hubhopper.com/bffb6991b8cad2080312db2e6b768748.mp3?s=rss-feed&v=a871705ea13c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://files.hubhopper.com/podcast/464742/wtf-is-with-nikhil-kamath.jpeg?v=1749706130344399221",
-      "duration": 8937,
-      "duration_text": "2:28:57",
-      "published": "20261024",
-      "published_at": "2026-10-24T08:31:47+05:30",
-      "published_ts": 1792810907,
-      "latest_rank": 1,
-      "category": "interviews",
-      "category_label": "Interviews",
-      "query": "Latest in category",
-      "score": 32.85,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "wtf_nikhil_kamath",
-      "feed_url": "https://feeds.hubhopper.com/664690fdea0d7a6f61a052da119934d3.rss",
-      "backfill": true,
-      "categories": [
-        "interviews"
-      ],
-      "category_labels": [
-        "Interviews"
       ],
       "queries": [
         "Latest in category"
