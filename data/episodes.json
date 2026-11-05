@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T05:32:06.647908+05:30",
+  "generated_at": "2026-11-05T05:56:56.922392+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-03T05:32:06.647908+05:30",
+  "cutoff_time": "2026-11-04T05:56:56.922392+05:30",
   "episodes": [
+    {
+      "id": "48207d998b89a909",
+      "title": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/ancient-dna-reveals-how-european-languages-spread",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6aeb4b1f0dd2d65771fbcc70/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1516,
+      "duration_text": "25:16",
+      "published": "20261104",
+      "published_at": "2026-11-04T21:30:00+05:30",
+      "published_ts": 1793808000,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "4d2e205cdb2aafcd",
+      "title": "Growth, Inflation, the Rupee: What Should the RBI Prioritise?",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Growth--Inflation--the-Rupee-What-Should-the-RBI-Prioritise-e3rnf5o",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/128744056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2Faf5c0118-2ae3-cf9e-c401-700c072c911f.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1793771899693-5e35517579aca.jpg",
+      "duration": 1335,
+      "duration_text": "22:15",
+      "published": "20261104",
+      "published_at": "2026-11-04T17:00:00+05:30",
+      "published_ts": 1793791800,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 32.7,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
+      ]
+    },
     {
       "id": "cf6f9fefe88abf7b",
       "title": "Ravan Ki ASLI Kahani - RAMAYANA HISTORY SPECIAL ft. Nilesh Oak & Rupa Bhaty | TRS",
@@ -27,12 +91,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.25,
+      "query": "Latest in category",
+      "score": 28.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -40,7 +105,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -84,8 +149,8 @@
       "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
       "audio_type": "audio/mpeg",
       "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/image.jpg?t=1792916524&size=Large",
-      "duration": 4831,
-      "duration_text": "1:20:31",
+      "duration": 4851,
+      "duration_text": "1:20:51",
       "published": "20261102",
       "published_at": "2026-11-02T06:00:00+05:30",
       "published_ts": 1793579400,
@@ -104,39 +169,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "6036cc725ffead2f",
-      "title": "AI Agents Are Breaking the Internet’s Ad Model",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/ai-agents-are-breaking-the-internet-s-ad-model",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/image.jpg?t=1793555890&size=Large",
-      "duration": 2175,
-      "duration_text": "36:15",
-      "published": "20261102",
-      "published_at": "2026-11-02T05:50:00+05:30",
-      "published_ts": 1793578800,
-      "latest_rank": 2,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.3,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
       ],
       "queries": [
         "Latest in category"
@@ -170,39 +202,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "a70af6e746b58572",
-      "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/this-arabian-desert-was-once-a-lush-paradise-why-did-ancient",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6ae2119533b363c95d5b467a/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1565,
-      "duration_text": "26:05",
-      "published": "20261028",
-      "published_at": "2026-10-28T21:30:00+05:30",
-      "published_ts": 1793203200,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 30.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
