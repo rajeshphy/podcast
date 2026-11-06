@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:56:56.922392+05:30",
+  "generated_at": "2026-11-06T05:57:04.523179+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,72 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-04T05:56:56.922392+05:30",
+  "cutoff_time": "2026-11-05T05:57:04.523179+05:30",
   "episodes": [
+    {
+      "id": "0d15a93d5c6295c5",
+      "title": "Merve Demirel on the Costs of Migrating for Higher Education in India",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/merve-demirel-on-the-costs-of-migrating-for-higher-education-in-india",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-147-MerveDemirel-Podcast.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/e/1/c/ae1c751746c4c1055f2e77a3093c12a1/IOI-147-MerveDemirel-LibsynGraphic-FInal.png",
+      "duration": 3132,
+      "duration_text": "52:12",
+      "published": "20261105",
+      "published_at": "2026-11-05T17:30:00+05:30",
+      "published_ts": 1793880000,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 31.0,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
+    {
+      "id": "3cd3e77dc4fb6b1d",
+      "title": "Vidyut Jammwal RETURNS! Street Fighter, WWE, Kalaripayattu, Tiger Shroff | Martial Arts | TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Vidyut-Jammwal-RETURNS--Street-Fighter--WWE--Kalaripayattu--Tiger-Shroff--Martial-Arts--TRS-e3rqek1",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128841793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435955295-44100-2-da88d049e2a588.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793879695931-a739f1d4a76f8.jpg",
+      "duration": 6949,
+      "duration_text": "1:55:49",
+      "published": "20261105",
+      "published_at": "2026-11-05T17:29:29+05:30",
+      "published_ts": 1793879969,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "48207d998b89a909",
       "title": "Ancient DNA charts spread of Celtic and Germanic languages",
@@ -27,82 +91,18 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Nature"
-      ]
-    },
-    {
-      "id": "4d2e205cdb2aafcd",
-      "title": "Growth, Inflation, the Rupee: What Should the RBI Prioritise?",
-      "channel": "India Economy",
-      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Growth--Inflation--the-Rupee-What-Should-the-RBI-Prioritise-e3rnf5o",
-      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/128744056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2Faf5c0118-2ae3-cf9e-c401-700c072c911f.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1793771899693-5e35517579aca.jpg",
-      "duration": 1335,
-      "duration_text": "22:15",
-      "published": "20261104",
-      "published_at": "2026-11-04T17:00:00+05:30",
-      "published_ts": 1793791800,
-      "latest_rank": 1,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "India Economy",
-      "score": 32.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "core_india_economy",
-      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "India Economy"
-      ]
-    },
-    {
-      "id": "cf6f9fefe88abf7b",
-      "title": "Ravan Ki ASLI Kahani - RAMAYANA HISTORY SPECIAL ft. Nilesh Oak & Rupa Bhaty | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Ravan-Ki-ASLI-Kahani---RAMAYANA-HISTORY-SPECIAL-ft--Nilesh-Oak--Rupa-Bhaty--TRS-e3rlf29",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128678409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435748440-44100-2-7de3a595bf518.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793708161782-aa14ffbba1944.jpg",
-      "duration": 6793,
-      "duration_text": "1:53:13",
-      "published": "20261103",
-      "published_at": "2026-11-03T17:47:17+05:30",
-      "published_ts": 1793708237,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
@@ -175,6 +175,39 @@
       ]
     },
     {
+      "id": "6036cc725ffead2f",
+      "title": "AI Agents Are Breaking the Internet’s Ad Model",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/ai-agents-are-breaking-the-internet-s-ad-model",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/a4f3e4f1-461d-461e-ab17-b4f5012107d6/image.jpg?t=1793555890&size=Large",
+      "duration": 2175,
+      "duration_text": "36:15",
+      "published": "20261102",
+      "published_at": "2026-11-02T05:50:00+05:30",
+      "published_ts": 1793578800,
+      "latest_rank": 3,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "Latest in category",
+      "score": 30.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
       "id": "5d124aa8839ff6a4",
       "title": "Do Sugar And Red Meat Cause Cancer? Cancer Doctor Reveals Early Signs Most Indians Ignore | Doctor vs Internet",
       "channel": "Health Wealth",
@@ -202,39 +235,6 @@
       ],
       "category_labels": [
         "Health"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "43eb45a3d0a096c7",
-      "title": "Vaibhav Rathi on Political Influence on Bureaucratic Priorities & its Impact on Investment in India",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/vaibhav-rathi-on-political-influence-on-bureaucratic-priorities-and-its-impact-on-investment-in-india",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-150-VaibhavRothi-Podcast_mixdown.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/6/b/1/a6b1f23721bc2cd95f2e77a3093c12a1/IOI-150-VaibhavRathi-LibsynGraphic.png",
-      "duration": 2757,
-      "duration_text": "45:57",
-      "published": "20261022",
-      "published_at": "2026-10-22T16:30:00+05:30",
-      "published_ts": 1792666800,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
