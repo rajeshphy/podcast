@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:57:04.523179+05:30",
+  "generated_at": "2026-11-08T04:22:05.822842+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,53 +9,21 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-05T05:57:04.523179+05:30",
+  "cutoff_time": "2026-11-07T04:22:05.822842+05:30",
   "episodes": [
     {
-      "id": "0d15a93d5c6295c5",
-      "title": "Merve Demirel on the Costs of Migrating for Higher Education in India",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/merve-demirel-on-the-costs-of-migrating-for-higher-education-in-india",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-147-MerveDemirel-Podcast.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/e/1/c/ae1c751746c4c1055f2e77a3093c12a1/IOI-147-MerveDemirel-LibsynGraphic-FInal.png",
-      "duration": 3132,
-      "duration_text": "52:12",
-      "published": "20261105",
-      "published_at": "2026-11-05T17:30:00+05:30",
-      "published_ts": 1793880000,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 31.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
-      ],
-      "queries": [
-        "Ideas of India"
-      ]
-    },
-    {
-      "id": "3cd3e77dc4fb6b1d",
-      "title": "Vidyut Jammwal RETURNS! Street Fighter, WWE, Kalaripayattu, Tiger Shroff | Martial Arts | TRS",
+      "id": "2b33866302c6015a",
+      "title": "DIWALI SPECIAL WITH DUSHYANTH SRIDHAR - Why We Celebrate Deepavali, Vishnu & Ramayana | TRS",
       "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Vidyut-Jammwal-RETURNS--Street-Fighter--WWE--Kalaripayattu--Tiger-Shroff--Martial-Arts--TRS-e3rqek1",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128841793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435955295-44100-2-da88d049e2a588.mp3",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/DIWALI-SPECIAL-WITH-DUSHYANTH-SRIDHAR---Why-We-Celebrate-Deepavali--Vishnu--Ramayana--TRS-e3rut32",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128987682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F436139900-44100-2-b7f8a24b369248.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1793879695931-a739f1d4a76f8.jpg",
-      "duration": 6949,
-      "duration_text": "1:55:49",
-      "published": "20261105",
-      "published_at": "2026-11-05T17:29:29+05:30",
-      "published_ts": 1793879969,
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1794051693563-d55394a675565.jpg",
+      "duration": 7009,
+      "duration_text": "1:56:49",
+      "published": "20261107",
+      "published_at": "2026-11-07T17:12:06+05:30",
+      "published_ts": 1794051726,
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
@@ -76,6 +44,39 @@
       ]
     },
     {
+      "id": "0d15a93d5c6295c5",
+      "title": "Merve Demirel on the Costs of Migrating for Higher Education in India",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/merve-demirel-on-the-costs-of-migrating-for-higher-education-in-india",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-147-MerveDemirel-Podcast.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/e/1/c/ae1c751746c4c1055f2e77a3093c12a1/IOI-147-MerveDemirel-LibsynGraphic-FInal.png",
+      "duration": 3132,
+      "duration_text": "52:12",
+      "published": "20261105",
+      "published_at": "2026-11-05T17:30:00+05:30",
+      "published_ts": 1793880000,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Latest in category",
+      "score": 30.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
+    {
       "id": "48207d998b89a909",
       "title": "Ancient DNA charts spread of Celtic and Germanic languages",
       "channel": "Nature",
@@ -88,11 +89,11 @@
       "published": "20261104",
       "published_at": "2026-11-04T21:30:00+05:30",
       "published_ts": 1793808000,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
