@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:49:02.436792+05:30",
+  "generated_at": "2026-11-11T05:38:32.476495+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-09T07:49:02.436792+05:30",
+  "cutoff_time": "2026-11-10T05:38:32.476495+05:30",
   "episodes": [
+    {
+      "id": "b4cd0806ff064540",
+      "title": "UTI and US-64: How India's biggest mutual fund broke (and what it fixed)",
+      "channel": "Capitalmind",
+      "url": "https://capitalmind.libsyn.com/uti-and-us-64-how-indias-biggest-mutual-fund-broke-and-what-it-fixed",
+      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/CM_EP_102.mp3?dest-id=1084508",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
+      "duration": 3248,
+      "duration_text": "54:08",
+      "published": "20261110",
+      "published_at": "2026-11-10T15:20:00+05:30",
+      "published_ts": 1794304200,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Capitalmind",
+      "score": 32.45,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "capitalmind",
+      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Capitalmind"
+      ]
+    },
     {
       "id": "9863933abf0e60a0",
       "title": "Why Youth Are Taking to the Streets: From Paris to Belgrade to India",
@@ -170,39 +202,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "014b8a78bb0a6d61",
-      "title": "Building Wealth Through Patient Investing with Raunak Onkar of PPFAS | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/building-wealth-through-patient-investing-with-raunak-onkar-of-ppfas-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/1f82ecf3-c4cc-448c-af76-b4ee008191cd/image.jpg?t=1792916524&size=Large",
-      "duration": 4851,
-      "duration_text": "1:20:51",
-      "published": "20261102",
-      "published_at": "2026-11-02T06:00:00+05:30",
-      "published_ts": 1793579400,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 32.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
       ],
       "queries": [
         "Latest in category"
