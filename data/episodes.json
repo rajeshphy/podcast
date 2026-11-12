@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:38:32.476495+05:30",
+  "generated_at": "2026-11-12T07:05:52.657045+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,53 +9,21 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-10T05:38:32.476495+05:30",
+  "cutoff_time": "2026-11-11T07:05:52.657045+05:30",
   "episodes": [
     {
-      "id": "b4cd0806ff064540",
-      "title": "UTI and US-64: How India's biggest mutual fund broke (and what it fixed)",
-      "channel": "Capitalmind",
-      "url": "https://capitalmind.libsyn.com/uti-and-us-64-how-indias-biggest-mutual-fund-broke-and-what-it-fixed",
-      "audio_url": "https://traffic.libsyn.com/secure/capitalmind/CM_EP_102.mp3?dest-id=1084508",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/8/a/3/a8a3ded0ff76d3a116c3140a3186d450/Dec_2025_Podcast_Thumbnail.png",
-      "duration": 3248,
-      "duration_text": "54:08",
-      "published": "20261110",
-      "published_at": "2026-11-10T15:20:00+05:30",
-      "published_ts": 1794304200,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Capitalmind",
-      "score": 32.45,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "capitalmind",
-      "feed_url": "https://rss.libsyn.com/shows/163889/destinations/1084508.xml",
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Capitalmind"
-      ]
-    },
-    {
-      "id": "9863933abf0e60a0",
-      "title": "Why Youth Are Taking to the Streets: From Paris to Belgrade to India",
+      "id": "08bfb271a6c3fcf1",
+      "title": "Liquid Biopsy: Catching Cancer Early With a Simple Blood Test",
       "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/why-youth-are-taking-to-the-streets-from-paris-to-belgrade-to-india",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c113bee3-0376-46ac-ba12-b4fd00f2713c/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "url": "https://omny.fm/shows/the-morning-brief-1/liquid-biopsy-catching-cancer-early-with-a-simple-blood-test",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d3302ac2-9039-42c2-b6a6-b4ff00f047e1/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/c113bee3-0376-46ac-ba12-b4fd00f2713c/image.jpg?t=1794236173&size=Large",
-      "duration": 1959,
-      "duration_text": "32:39",
-      "published": "20261110",
-      "published_at": "2026-11-10T05:50:00+05:30",
-      "published_ts": 1794270000,
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/d3302ac2-9039-42c2-b6a6-b4ff00f047e1/image.jpg?t=1794408088&size=Large",
+      "duration": 1646,
+      "duration_text": "27:26",
+      "published": "20261112",
+      "published_at": "2026-11-12T05:50:00+05:30",
+      "published_ts": 1794442800,
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
@@ -73,6 +41,102 @@
       ],
       "queries": [
         "ET Morning Brief"
+      ]
+    },
+    {
+      "id": "f4e14c5ad633fb2c",
+      "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "channel": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03671-2",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6af49135558047fbfd340258/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1469,
+      "duration_text": "24:29",
+      "published": "20261111",
+      "published_at": "2026-11-11T21:30:52+05:30",
+      "published_ts": 1794412852,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "a906054ec1ea8de6",
+      "title": "How to Build Wealth When Markets Test Your Patience | Ashish Shanker | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/how-to-build-wealth-when-markets-test-your-patience-ashish-shanker-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/76744247-e651-44e4-81da-b4ff00e9e166/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/76744247-e651-44e4-81da-b4ff00e9e166/image.jpg?t=1794406573&size=Large",
+      "duration": 3409,
+      "duration_text": "56:49",
+      "published": "20261111",
+      "published_at": "2026-11-11T19:48:04+05:30",
+      "published_ts": 1794406684,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Paisa Vaisa",
+      "score": 33.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Paisa Vaisa"
+      ]
+    },
+    {
+      "id": "cc065fbd07fb8cfc",
+      "title": "Corporate Succession, Economic Consequences",
+      "channel": "India Economy",
+      "url": "https://podcasters.spotify.com/pod/show/the-core4/episodes/Corporate-Succession--Economic-Consequences-e3s6l7v",
+      "audio_url": "https://anchor.fm/s/fb4a3980/podcast/play/129241791/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2Faa5dce99-8660-49c2-18b0-72cf7f55dd3f.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42059456/42059456-1794380259311-b67c13f3023d4.jpg",
+      "duration": 2061,
+      "duration_text": "34:21",
+      "published": "20261111",
+      "published_at": "2026-11-11T17:00:00+05:30",
+      "published_ts": 1794396600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "India Economy",
+      "score": 31.65,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "core_india_economy",
+      "feed_url": "https://anchor.fm/s/fb4a3980/podcast/rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "India Economy"
       ]
     },
     {
@@ -136,39 +200,6 @@
       ],
       "category_labels": [
         "Policy"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "48207d998b89a909",
-      "title": "Ancient DNA charts spread of Celtic and Germanic languages",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/ancient-dna-reveals-how-european-languages-spread",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6aeb4b1f0dd2d65771fbcc70/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1516,
-      "duration_text": "25:16",
-      "published": "20261104",
-      "published_at": "2026-11-04T21:30:00+05:30",
-      "published_ts": 1793808000,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 30.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
