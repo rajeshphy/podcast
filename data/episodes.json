@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:42:47.648476+05:30",
+  "generated_at": "2026-11-16T04:56:11.859894+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,41 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-14T04:42:47.648476+05:30",
+  "cutoff_time": "2026-11-15T04:56:11.859894+05:30",
   "episodes": [
+    {
+      "id": "fc5b7cf87f86e33a",
+      "title": "How to SELL Anything (BUSINESS & SALES MASTERCLASS) - Gujju Sales Hacks Ft. Vinay Shah on TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/How-to-SELL-Anything-BUSINESS--SALES-MASTERCLASS---Gujju-Sales-Hacks-Ft--Vinay-Shah-on-TRS-e3sc8f0",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129425312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436714980-44100-2-94043ec9ae8fb8.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 5905,
+      "duration_text": "1:38:25",
+      "published": "20261114",
+      "published_at": "2026-11-14T18:01:14+05:30",
+      "published_ts": 1794659474,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Latest in category",
+      "score": 30.85,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "b7f2798dc53ed974",
       "title": "The climate crisis: What the data really say | Cooked? Ep 1",
@@ -105,39 +138,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "2b33866302c6015a",
-      "title": "DIWALI SPECIAL WITH DUSHYANTH SRIDHAR - Why We Celebrate Deepavali, Vishnu & Ramayana | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/DIWALI-SPECIAL-WITH-DUSHYANTH-SRIDHAR---Why-We-Celebrate-Deepavali--Vishnu--Ramayana--TRS-e3rut32",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/128987682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F436139900-44100-2-b7f8a24b369248.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1794051693563-d55394a675565.jpg",
-      "duration": 7009,
-      "duration_text": "1:56:49",
-      "published": "20261107",
-      "published_at": "2026-11-07T17:12:06+05:30",
-      "published_ts": 1794051726,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 28.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
