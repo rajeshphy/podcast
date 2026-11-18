@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:02:53.502933+05:30",
+  "generated_at": "2026-11-18T07:13:53.903562+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-16T08:02:53.502933+05:30",
+  "cutoff_time": "2026-11-17T07:13:53.903562+05:30",
   "episodes": [
+    {
+      "id": "90cd7c5edd5d9ffc",
+      "title": "We Got This Podcast Before GTA 6💀",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/We-Got-This-Podcast-Before-GTA-6-e3sidln",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129627255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436976745-44100-2-fb9ce69a26a51.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 2793,
+      "duration_text": "46:33",
+      "published": "20261117",
+      "published_at": "2026-11-17T22:03:23+05:30",
+      "published_ts": 1794933203,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.85,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "7d6a966e240b43b2",
       "title": "Inflation at 6%: Is the RBI Losing Control?",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 33.65,
+      "query": "Latest in category",
+      "score": 33.15,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +73,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +92,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 33.1,
+      "query": "Latest in category",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -72,7 +106,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
@@ -103,39 +137,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "fc5b7cf87f86e33a",
-      "title": "How to SELL Anything (BUSINESS & SALES MASTERCLASS) - Gujju Sales Hacks Ft. Vinay Shah on TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/How-to-SELL-Anything-BUSINESS--SALES-MASTERCLASS---Gujju-Sales-Hacks-Ft--Vinay-Shah-on-TRS-e3sc8f0",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129425312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-14%2F436714980-44100-2-94043ec9ae8fb8.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 5905,
-      "duration_text": "1:38:25",
-      "published": "20261114",
-      "published_at": "2026-11-14T18:01:14+05:30",
-      "published_ts": 1794659474,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 30.85,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
