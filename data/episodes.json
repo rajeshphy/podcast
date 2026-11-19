@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:13:53.903562+05:30",
+  "generated_at": "2026-11-19T06:48:51.796348+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,26 +9,58 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-17T07:13:53.903562+05:30",
+  "cutoff_time": "2026-11-18T06:48:51.796348+05:30",
   "episodes": [
     {
-      "id": "90cd7c5edd5d9ffc",
-      "title": "We Got This Podcast Before GTA 6💀",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/We-Got-This-Podcast-Before-GTA-6-e3sidln",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129627255/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F436976745-44100-2-fb9ce69a26a51.mp3",
+      "id": "1936720327a80b6c",
+      "title": "First observation of a giant star swallowing its neighbour",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/tk",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6afdc0dea057dc83f03b2ed9/media.mp3",
       "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 2793,
-      "duration_text": "46:33",
-      "published": "20261117",
-      "published_at": "2026-11-17T22:03:23+05:30",
-      "published_ts": 1794933203,
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "duration": 1472,
+      "duration_text": "24:32",
+      "published": "20261118",
+      "published_at": "2026-11-18T21:30:00+05:30",
+      "published_ts": 1795017600,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "2686d90c09bdc17b",
+      "title": "Chhath Pooja Special - BIHAR HISTORY PODCAST (1193-2026) ft. Virad Dubey On TRS",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Chhath-Pooja-Special---BIHAR-HISTORY-PODCAST-1193-2026-ft--Virad-Dubey-On-TRS-e3s8u70",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129316512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436566030-44100-2-8d42c54166099.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1794483687174-fa0a1ac5ebe25.jpg",
+      "duration": 10554,
+      "duration_text": "2:55:54",
+      "published": "20261118",
+      "published_at": "2026-11-18T18:08:46+05:30",
+      "published_ts": 1795005526,
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
       "query": "Ranveer Hindi",
-      "score": 30.85,
+      "score": 29.7,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
@@ -71,39 +103,6 @@
       ],
       "category_labels": [
         "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "b2940973f7fd75af",
-      "title": "Four big ideas to tackle the climate crisis | Cooked? Ep 2",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/four-big-ideas-to-tackle-the-climate-crisis-cooked-ep-2",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6afaec32b2404cde2fec14da/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1794829309756-7e77eebf-d498-4072-bac6-d5c4e554a174.jpeg",
-      "duration": 2800,
-      "duration_text": "46:40",
-      "published": "20261116",
-      "published_at": "2026-11-16T19:30:00+05:30",
-      "published_ts": 1794837600,
-      "latest_rank": 1,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 32.6,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
       ],
       "queries": [
         "Latest in category"
