@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:48:51.796348+05:30",
+  "generated_at": "2026-11-20T06:51:43.814904+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-18T06:48:51.796348+05:30",
+  "cutoff_time": "2026-11-19T06:51:43.814904+05:30",
   "episodes": [
+    {
+      "id": "9bf16857f88a4e6b",
+      "title": "Abhinav Ghosh on the role of NGO workers in Education Policy and Delivery in India",
+      "channel": "Ideas of India",
+      "url": "https://ideasofindia.libsyn.com/abhinav-ghosh-on-the-role-of-ngo-workers-in-education-policy-and-delivery-in-india",
+      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-148-AbhinavGhosh-Podcast.mp3?dest-id=2249435",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://static.libsyn.com/p/assets/f/1/4/4/f144675ff703ef29a04421dee9605cbd/IOI-148-AbhinavGhosh-LibsynGraphic.png",
+      "duration": 3646,
+      "duration_text": "1:00:46",
+      "published": "20261119",
+      "published_at": "2026-11-19T17:30:00+05:30",
+      "published_ts": 1795089600,
+      "latest_rank": 1,
+      "category": "policy",
+      "category_label": "Policy",
+      "query": "Ideas of India",
+      "score": 32.05,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ideas_of_india",
+      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "categories": [
+        "policy"
+      ],
+      "category_labels": [
+        "Policy"
+      ],
+      "queries": [
+        "Ideas of India"
+      ]
+    },
     {
       "id": "1936720327a80b6c",
       "title": "First observation of a giant star swallowing its neighbour",
@@ -27,12 +59,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -40,7 +73,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +92,13 @@
       "latest_rank": 1,
       "category": "ideas",
       "category_label": "Ideas",
-      "query": "Ranveer Hindi",
-      "score": 29.7,
+      "query": "Latest in category",
+      "score": 29.2,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ranveer_hindi_audio",
       "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "backfill": true,
       "categories": [
         "ideas"
       ],
@@ -72,7 +106,7 @@
         "Ideas"
       ],
       "queries": [
-        "Ranveer Hindi"
+        "Latest in category"
       ]
     },
     {
@@ -88,11 +122,11 @@
       "published": "20261117",
       "published_at": "2026-11-17T05:50:00+05:30",
       "published_ts": 1794874800,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "markets",
       "category_label": "Markets",
       "query": "Latest in category",
-      "score": 33.15,
+      "score": 32.35,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
@@ -136,39 +170,6 @@
       ],
       "category_labels": [
         "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "0d15a93d5c6295c5",
-      "title": "Merve Demirel on the Costs of Migrating for Higher Education in India",
-      "channel": "Ideas of India",
-      "url": "https://ideasofindia.libsyn.com/merve-demirel-on-the-costs-of-migrating-for-higher-education-in-india",
-      "audio_url": "https://traffic.libsyn.com/secure/ideasofindia/IOI-147-MerveDemirel-Podcast.mp3?dest-id=2249435",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://static.libsyn.com/p/assets/a/e/1/c/ae1c751746c4c1055f2e77a3093c12a1/IOI-147-MerveDemirel-LibsynGraphic-FInal.png",
-      "duration": 3132,
-      "duration_text": "52:12",
-      "published": "20261105",
-      "published_at": "2026-11-05T17:30:00+05:30",
-      "published_ts": 1793880000,
-      "latest_rank": 1,
-      "category": "policy",
-      "category_label": "Policy",
-      "query": "Latest in category",
-      "score": 30.5,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ideas_of_india",
-      "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
-      "backfill": true,
-      "categories": [
-        "policy"
-      ],
-      "category_labels": [
-        "Policy"
       ],
       "queries": [
         "Latest in category"
