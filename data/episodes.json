@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:51:43.814904+05:30",
+  "generated_at": "2026-11-21T06:22:50.907581+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-19T06:51:43.814904+05:30",
+  "cutoff_time": "2026-11-20T06:22:50.907581+05:30",
   "episodes": [
     {
       "id": "9bf16857f88a4e6b",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "policy",
       "category_label": "Policy",
-      "query": "Ideas of India",
-      "score": 32.05,
+      "query": "Latest in category",
+      "score": 31.55,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "ideas_of_india",
       "feed_url": "https://rss.libsyn.com/shows/288629/destinations/2249435.xml",
+      "backfill": true,
       "categories": [
         "policy"
       ],
@@ -40,7 +41,7 @@
         "Policy"
       ],
       "queries": [
-        "Ideas of India"
+        "Latest in category"
       ]
     },
     {
@@ -56,11 +57,11 @@
       "published": "20261118",
       "published_at": "2026-11-18T21:30:00+05:30",
       "published_ts": 1795017600,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
