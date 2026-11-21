@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:22:50.907581+05:30",
+  "generated_at": "2026-11-22T05:21:27.532903+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-20T06:22:50.907581+05:30",
+  "cutoff_time": "2026-11-21T05:21:27.532903+05:30",
   "episodes": [
+    {
+      "id": "c7524c7a4ce433c6",
+      "title": "Vivek Awasthi On TRS - Horror & Science Of Indian Jungles ☠️🐅🕷️",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Vivek-Awasthi-On-TRS---Horror--Science-Of-Indian-Jungles-e3spjio",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129862680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F437296775-44100-2-d7d9e272996a18.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 6271,
+      "duration_text": "1:44:31",
+      "published": "20261121",
+      "published_at": "2026-11-21T22:08:23+05:30",
+      "published_ts": 1795279103,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 30.3,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "9bf16857f88a4e6b",
       "title": "Abhinav Ghosh on the role of NGO workers in Education Policy and Delivery in India",
@@ -72,39 +104,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "2686d90c09bdc17b",
-      "title": "Chhath Pooja Special - BIHAR HISTORY PODCAST (1193-2026) ft. Virad Dubey On TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Chhath-Pooja-Special---BIHAR-HISTORY-PODCAST-1193-2026-ft--Virad-Dubey-On-TRS-e3s8u70",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/129316512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436566030-44100-2-8d42c54166099.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41143904/41143904-1794483687174-fa0a1ac5ebe25.jpg",
-      "duration": 10554,
-      "duration_text": "2:55:54",
-      "published": "20261118",
-      "published_at": "2026-11-18T18:08:46+05:30",
-      "published_ts": 1795005526,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.2,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
