@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:52:54.581910+05:30",
+  "generated_at": "2026-11-24T09:50:58.312252+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,137 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-22T05:52:54.581910+05:30",
+  "cutoff_time": "2026-11-23T09:50:58.312252+05:30",
   "episodes": [
+    {
+      "id": "5208b7ba8e5f88c3",
+      "title": "Can India Lead the World’s Climate Revolution? | The Earthshot Prize",
+      "channel": "ET Morning Brief",
+      "url": "https://omny.fm/shows/the-morning-brief-1/can-india-lead-the-world-s-climate-revolution-the-earthshot-prize",
+      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ab994a2a-a788-4816-895c-b50b0137992e/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ab994a2a-a788-4816-895c-b50b0137992e/image.jpg?t=1795460518&size=Large",
+      "duration": 2750,
+      "duration_text": "45:50",
+      "published": "20261124",
+      "published_at": "2026-11-24T05:50:00+05:30",
+      "published_ts": 1795479600,
+      "latest_rank": 1,
+      "category": "markets",
+      "category_label": "Markets",
+      "query": "ET Morning Brief",
+      "score": 33.65,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "morning_brief_et",
+      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "categories": [
+        "markets"
+      ],
+      "category_labels": [
+        "Markets"
+      ],
+      "queries": [
+        "ET Morning Brief"
+      ]
+    },
+    {
+      "id": "b7dd2ebaa153ac05",
+      "title": "How to make climate anxiety your superpower | Cooked Ep 3",
+      "channel": "Nature",
+      "url": "https://shows.acast.com/nature/episodes/how-to-make-climate-anxiety-your-superpower-cooked-ep-3",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6b043e6707effbff76bdbb4d/media.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1795440166378-08dd5706-d964-4d77-9460-568d80d768a8.jpeg",
+      "duration": 1806,
+      "duration_text": "30:06",
+      "published": "20261123",
+      "published_at": "2026-11-23T19:30:00+05:30",
+      "published_ts": 1795442400,
+      "latest_rank": 1,
+      "category": "science",
+      "category_label": "Science",
+      "query": "Nature",
+      "score": 33.1,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "nature_podcast",
+      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "categories": [
+        "science"
+      ],
+      "category_labels": [
+        "Science"
+      ],
+      "queries": [
+        "Nature"
+      ]
+    },
+    {
+      "id": "91e118d8b3607e2e",
+      "title": "Weight Loss Injections on Trial: Doctor vs Public Health Activist | Health Court | EP 1",
+      "channel": "Health Wealth",
+      "url": "https://www.spreaker.com/episode/weight-loss-injections-on-trial-doctor-vs-public-health-activist-health-court-ep-1--76536636",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76536636/23_nov_26_hw_23_nov_128.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5fcfdf7fa7633bc49557d414eba2e62f.jpg",
+      "duration": 4459,
+      "duration_text": "1:14:19",
+      "published": "20261123",
+      "published_at": "2026-11-23T17:22:58+05:30",
+      "published_ts": 1795434778,
+      "latest_rank": 1,
+      "category": "health",
+      "category_label": "Health",
+      "query": "Health Wealth",
+      "score": 33.5,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "health_wealth",
+      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "categories": [
+        "health"
+      ],
+      "category_labels": [
+        "Health"
+      ],
+      "queries": [
+        "Health Wealth"
+      ]
+    },
+    {
+      "id": "2f75f546f962f79d",
+      "title": "The Bank Says Yes But Can You Afford The Home Loan | Paisa Vaisa",
+      "channel": "Paisa Vaisa",
+      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/the-bank-says-yes-but-can-you-afford-the-home-loan-paisa-vaisa",
+      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/111ab9d2-89b0-4b00-bf33-b50400b42704/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/111ab9d2-89b0-4b00-bf33-b50400b42704/image.jpg?t=1794827191&size=Large",
+      "duration": 2582,
+      "duration_text": "43:02",
+      "published": "20261123",
+      "published_at": "2026-11-23T06:00:00+05:30",
+      "published_ts": 1795393800,
+      "latest_rank": 1,
+      "category": "finance",
+      "category_label": "Finance",
+      "query": "Latest in category",
+      "score": 31.7,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "paisa_vaisa",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
+      "backfill": true,
+      "categories": [
+        "finance"
+      ],
+      "category_labels": [
+        "Finance"
+      ],
+      "queries": [
+        "Latest in category"
+      ]
+    },
     {
       "id": "c7524c7a4ce433c6",
       "title": "Vivek Awasthi On TRS - Horror & Science Of Indian Jungles ☠️🐅🕷️",
@@ -78,105 +207,6 @@
       ]
     },
     {
-      "id": "1936720327a80b6c",
-      "title": "First observation of a giant star swallowing its neighbour",
-      "channel": "Nature",
-      "url": "https://shows.acast.com/nature/episodes/tk",
-      "audio_url": "https://sphinx.acast.com/p/acast/s/nature/e/6afdc0dea057dc83f03b2ed9/media.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-      "duration": 1472,
-      "duration_text": "24:32",
-      "published": "20261118",
-      "published_at": "2026-11-18T21:30:00+05:30",
-      "published_ts": 1795017600,
-      "latest_rank": 2,
-      "category": "science",
-      "category_label": "Science",
-      "query": "Latest in category",
-      "score": 30.75,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "nature_podcast",
-      "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
-      "backfill": true,
-      "categories": [
-        "science"
-      ],
-      "category_labels": [
-        "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "7d6a966e240b43b2",
-      "title": "Inflation at 6%: Is the RBI Losing Control?",
-      "channel": "ET Morning Brief",
-      "url": "https://omny.fm/shows/the-morning-brief-1/inflation-at-6-is-the-rbi-losing-control",
-      "audio_url": "https://traffic.omny.fm/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ada1082b-f4b0-44e5-91d7-b504013a6622/audio.mp3?utm_source=Podcast&in_playlist=8ae54763-9925-40ca-8c3d-aef901167ffb",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/ada1082b-f4b0-44e5-91d7-b504013a6622/image.jpg?t=1794856693&size=Large",
-      "duration": 1495,
-      "duration_text": "24:55",
-      "published": "20261117",
-      "published_at": "2026-11-17T05:50:00+05:30",
-      "published_ts": 1794874800,
-      "latest_rank": 3,
-      "category": "markets",
-      "category_label": "Markets",
-      "query": "Latest in category",
-      "score": 31.55,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "morning_brief_et",
-      "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "markets"
-      ],
-      "category_labels": [
-        "Markets"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "6b60ab6f3876fdcf",
-      "title": "Why Savings Policies Are Sometimes Sold for the Commission Rather Than Your Needs | Paisa Vaisa",
-      "channel": "Paisa Vaisa",
-      "url": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/why-savings-policies-are-sometimes-sold-for-the-commission-rather-than-your-needs-paisa-vaisa",
-      "audio_url": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/82f87f2a-5264-41e6-b5c9-b50100fdda25/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://www.omnycontent.com/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/82f87f2a-5264-41e6-b5c9-b50100fdda25/image.jpg?t=1794584401&size=Large",
-      "duration": 4567,
-      "duration_text": "1:16:07",
-      "published": "20261116",
-      "published_at": "2026-11-16T06:00:00+05:30",
-      "published_ts": 1794789000,
-      "latest_rank": 1,
-      "category": "finance",
-      "category_label": "Finance",
-      "query": "Latest in category",
-      "score": 31.7,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "paisa_vaisa",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
-      "backfill": true,
-      "categories": [
-        "finance"
-      ],
-      "category_labels": [
-        "Finance"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
       "id": "266e7651d8738e8b",
       "title": "If UPI Is Free, Who Pays for It? | PhonePe, Razorpay & NPCI | WTF is Payments?",
       "channel": "Nikhil Kamath",
@@ -204,39 +234,6 @@
       ],
       "category_labels": [
         "Interviews"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "5d124aa8839ff6a4",
-      "title": "Do Sugar And Red Meat Cause Cancer? Cancer Doctor Reveals Early Signs Most Indians Ignore | Doctor vs Internet",
-      "channel": "Health Wealth",
-      "url": "https://www.spreaker.com/episode/do-sugar-and-red-meat-cause-cancer-cancer-doctor-reveals-early-signs-most-indians-ignore-doctor-vs-internet--76063923",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76063923/29_oct_26_health_wealth_28_oct_128.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/38f1de7adf8ea1fc791e85efe4a7333c.jpg",
-      "duration": 2998,
-      "duration_text": "49:58",
-      "published": "20261029",
-      "published_at": "2026-10-29T12:48:48+05:30",
-      "published_ts": 1793258328,
-      "latest_rank": 1,
-      "category": "health",
-      "category_label": "Health",
-      "query": "Latest in category",
-      "score": 33.0,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "health_wealth",
-      "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
-      "backfill": true,
-      "categories": [
-        "health"
-      ],
-      "category_labels": [
-        "Health"
       ],
       "queries": [
         "Latest in category"
