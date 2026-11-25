@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:50:58.312252+05:30",
+  "generated_at": "2026-11-25T08:35:35.186870+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,7 +9,7 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-23T09:50:58.312252+05:30",
+  "cutoff_time": "2026-11-24T08:35:35.186870+05:30",
   "episodes": [
     {
       "id": "5208b7ba8e5f88c3",
@@ -27,12 +27,13 @@
       "latest_rank": 1,
       "category": "markets",
       "category_label": "Markets",
-      "query": "ET Morning Brief",
-      "score": 33.65,
+      "query": "Latest in category",
+      "score": 33.15,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "morning_brief_et",
       "feed_url": "https://www.omnycontent.com/d/playlist/60b2e926-e5f8-4b90-a465-aef901163001/95fd7c59-790d-496e-bbde-aef901167fe4/8ae54763-9925-40ca-8c3d-aef901167ffb/podcast.rss",
+      "backfill": true,
       "categories": [
         "markets"
       ],
@@ -40,7 +41,7 @@
         "Markets"
       ],
       "queries": [
-        "ET Morning Brief"
+        "Latest in category"
       ]
     },
     {
@@ -59,12 +60,13 @@
       "latest_rank": 1,
       "category": "science",
       "category_label": "Science",
-      "query": "Nature",
-      "score": 33.1,
+      "query": "Latest in category",
+      "score": 32.6,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
       "feed_url": "https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f",
+      "backfill": true,
       "categories": [
         "science"
       ],
@@ -72,7 +74,7 @@
         "Science"
       ],
       "queries": [
-        "Nature"
+        "Latest in category"
       ]
     },
     {
@@ -91,12 +93,13 @@
       "latest_rank": 1,
       "category": "health",
       "category_label": "Health",
-      "query": "Health Wealth",
-      "score": 33.5,
+      "query": "Latest in category",
+      "score": 33.0,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "health_wealth",
       "feed_url": "https://www.spreaker.com/show/5918323/episodes/feed",
+      "backfill": true,
       "categories": [
         "health"
       ],
@@ -104,7 +107,7 @@
         "Health"
       ],
       "queries": [
-        "Health Wealth"
+        "Latest in category"
       ]
     },
     {
