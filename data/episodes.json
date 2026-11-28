@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:49:33.627286+05:30",
+  "generated_at": "2026-11-28T07:33:43.417379+05:30",
   "mode": "latest",
   "search_sort": "date",
   "recent_hours": 24,
@@ -9,8 +9,40 @@
   "min_duration_seconds": 1200,
   "evergreen_items_per_category": 0,
   "youtube_search_enabled": false,
-  "cutoff_time": "2026-11-26T07:49:33.627286+05:30",
+  "cutoff_time": "2026-11-27T07:33:43.417379+05:30",
   "episodes": [
+    {
+      "id": "baf041d5921b73b9",
+      "title": "15,000 Crore Ka Humble Malik - Diamond King Of India's Story On TRS | Savji Dholakia",
+      "channel": "Ranveer Hindi",
+      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/15-000-Crore-Ka-Humble-Malik---Diamond-King-Of-Indias-Story-On-TRS--Savji-Dholakia-e3t4bd9",
+      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/130214761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F437773149-44100-2-826b77040363.mp3",
+      "audio_type": "audio/mpeg",
+      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
+      "duration": 5401,
+      "duration_text": "1:30:01",
+      "published": "20261127",
+      "published_at": "2026-11-27T19:25:01+05:30",
+      "published_ts": 1795787701,
+      "latest_rank": 1,
+      "category": "ideas",
+      "category_label": "Ideas",
+      "query": "Ranveer Hindi",
+      "score": 29.25,
+      "method": "podcast_rss",
+      "background_audio": true,
+      "feed_id": "ranveer_hindi_audio",
+      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
+      "categories": [
+        "ideas"
+      ],
+      "category_labels": [
+        "Ideas"
+      ],
+      "queries": [
+        "Ranveer Hindi"
+      ]
+    },
     {
       "id": "dd073a370a0a2379",
       "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
@@ -24,11 +56,11 @@
       "published": "20261125",
       "published_at": "2026-11-25T21:30:00+05:30",
       "published_ts": 1795622400,
-      "latest_rank": 1,
+      "latest_rank": 2,
       "category": "science",
       "category_label": "Science",
       "query": "Latest in category",
-      "score": 31.55,
+      "score": 30.75,
       "method": "podcast_rss",
       "background_audio": true,
       "feed_id": "nature_podcast",
@@ -39,39 +71,6 @@
       ],
       "category_labels": [
         "Science"
-      ],
-      "queries": [
-        "Latest in category"
-      ]
-    },
-    {
-      "id": "7a3ca6b2a898eabe",
-      "title": "Jensen Ki Masti - Geopolitics Of AI, Chinese Spies & AI Race | Dharmendra Sir | TRS",
-      "channel": "Ranveer Hindi",
-      "url": "https://podcasters.spotify.com/pod/show/the-ranveer-show-hindi/episodes/Jensen-Ki-Masti---Geopolitics-Of-AI--Chinese-Spies--AI-Race--Dharmendra-Sir--TRS-e3sungu",
-      "audio_url": "https://anchor.fm/s/f5d53400/podcast/play/130030558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437522870-44100-2-ede8f868caaeb8.mp3",
-      "audio_type": "audio/mpeg",
-      "thumbnail": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41143904/806dcd03b31d2e68.jpg",
-      "duration": 7297,
-      "duration_text": "2:01:37",
-      "published": "20261124",
-      "published_at": "2026-11-24T21:40:40+05:30",
-      "published_ts": 1795536640,
-      "latest_rank": 1,
-      "category": "ideas",
-      "category_label": "Ideas",
-      "query": "Latest in category",
-      "score": 29.8,
-      "method": "podcast_rss",
-      "background_audio": true,
-      "feed_id": "ranveer_hindi_audio",
-      "feed_url": "https://anchor.fm/s/f5d53400/podcast/rss",
-      "backfill": true,
-      "categories": [
-        "ideas"
-      ],
-      "category_labels": [
-        "Ideas"
       ],
       "queries": [
         "Latest in category"
